@@ -1,0 +1,84 @@
+/* Class = "NSWindow"; title = "Move Mouse to Position"; ObjectID = "1"; */
+"1.title" = "Maus zu Position bewegen";
+
+/* Class = "NSMenuItem"; title = "Relative to: top left of focused element"; ObjectID = "3SQ-Z7-SXp"; */
+"3SQ-Z7-SXp.title" = "Relativ zu: oben links des fokussierten Elements";
+
+/* Class = "NSMenuItem"; title = "Relative to: top right corner of active window"; ObjectID = "5aw-qx-N9T"; */
+"5aw-qx-N9T.title" = "Relativ zu: oben rechte Ecke des aktiven Fensters";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom right of text cursor/text selection"; ObjectID = "44Q-x4-0sk"; */
+"44Q-x4-0sk.title" = "Relativ zu: unten rechts vom Text-Cursor/Textauswahl";
+
+/* Class = "NSMenuItem"; title = "Relative to: window cancel button center (if any)"; ObjectID = "B2L-cl-AG7"; */
+"B2L-cl-AG7.title" = "Relativ zu: dem Abbrechen Button (wenn vorhanden)";
+
+/* Class = "NSMenuItem"; title = "Relative to: center of active window"; ObjectID = "C7E-dy-qlb"; */
+"C7E-dy-qlb.title" = "Relativ zu: Mitte des aktiven Fensters";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom right corner of active window"; ObjectID = "caz-VF-43t"; */
+"caz-VF-43t.title" = "Relativ zur: unteren linken Ecke des aktiven Fensters";
+
+/* Class = "NSMenuItem"; title = "Relative to: center of focused element"; ObjectID = "clo-7F-tDS"; */
+"clo-7F-tDS.title" = "Relativ zur: Mitte des fokussierten Elements";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "eNh-pw-3G8"; */
+"eNh-pw-3G8.title" = "Speichern";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "EPJ-JW-HOx"; */
+"EPJ-JW-HOx.title" = "Abbrechen";
+
+/* Class = "NSMenuItem"; title = "Relative to: center of text cursor/text selection"; ObjectID = "ETl-xM-SB2"; */
+"ETl-xM-SB2.title" = "Relativ zu: Mitte des Text-Cursors/Auswahl";
+
+/* Class = "NSMenuItem"; title = "Relative to: top right of focused element"; ObjectID = "FmW-90-03o"; */
+"FmW-90-03o.title" = "Relativ zu: oben rechts des fokussierten Elements";
+
+/* Class = "NSTextFieldCell"; title = "Y:"; ObjectID = "gb6-Hc-EMm"; */
+"gb6-Hc-EMm.title" = "Y:";
+
+/* Class = "NSMenuItem"; title = "Relative to: current mouse cursor position"; ObjectID = "gRV-j6-q8D"; */
+"gRV-j6-q8D.title" = "Relativ zur: aktuellen Mausposition";
+
+/* Class = "NSMenuItem"; title = "Relative to: top left corner of active window"; ObjectID = "HF2-fr-e37"; */
+"HF2-fr-e37.title" = "Relativ zur: oberen linken Ecke des aktiven Fensters ";
+
+/* Class = "NSTextFieldCell"; title = "First select the anchor point:"; ObjectID = "IQi-Pc-Zay"; */
+"IQi-Pc-Zay.title" = "Beginne mit der Wahl des Ankerpunktes:";
+
+/* Class = "NSTextFieldCell"; title = "Current Position X: Y:"; ObjectID = "MAo-pT-3Qy"; */
+"MAo-pT-3Qy.title" = "Aktuelle Position X: Y:";
+
+/* Class = "NSMenuItem"; title = "Relative to: window default button center (if any)"; ObjectID = "MG9-QG-jMf"; */
+"MG9-QG-jMf.title" = "Relativ zu: Dem standard Button (wenn vorhanden)";
+
+/* Class = "NSTextFieldCell"; title = "Move mouse to this position:"; ObjectID = "nIr-DZ-hzP"; */
+"nIr-DZ-hzP.title" = "Maus zu dieser Position bewegen:";
+
+/* Class = "NSMenuItem"; title = "Relative to: top right of text cursor/text selection"; ObjectID = "NPS-Jq-idE"; */
+"NPS-Jq-idE.title" = "Relativ zu: oben rechts vom Text-cursor/Auswahl";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom left of focused element"; ObjectID = "olH-56-jcc"; */
+"olH-56-jcc.title" = "Relativ zu: unten links vom fokussierten Element";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom right of focused element"; ObjectID = "pfS-GZ-p4I"; */
+"pfS-GZ-p4I.title" = "Relativ zu: unten rechts vom fokussierten Element";
+
+/* Class = "NSMenuItem"; title = "Global position (origin top left corner of main monitor)"; ObjectID = "QDx-gg-4Bz"; */
+"QDx-gg-4Bz.title" = "Globale Position (Ursprung obere linke Ecke des Hauptmonitors)";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom left of text cursor/text selection"; ObjectID = "Ucc-vK-6h5"; */
+"Ucc-vK-6h5.title" = "Relativ zu: unten links vom Text-cursor/Auswahl";
+
+/* Class = "NSTextFieldCell"; title = "Press space to capture the current mouse position"; ObjectID = "uXU-Br-HSo"; */
+"uXU-Br-HSo.title" = "Leertaste drücken um aktuelle Mausposition zu speichern";
+
+/* Class = "NSTextFieldCell"; title = "X:"; ObjectID = "vTN-sd-Gjx"; */
+"vTN-sd-Gjx.title" = "X:";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom left corner of active window"; ObjectID = "wHl-JV-wJo"; */
+"wHl-JV-wJo.title" = "Relativ zur: unteren linken Ecke des aktiven Fensters";
+
+/* Class = "NSMenuItem"; title = "Relative to: top left of text cursor/text selection"; ObjectID = "xXV-yY-QSt"; */
+"xXV-yY-QSt.title" = "Relativ zu:  oben links des Text-Cursors/Auswahl";
+

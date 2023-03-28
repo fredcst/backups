@@ -1,0 +1,84 @@
+/* Class = "NSWindow"; title = "Move Mouse to Position"; ObjectID = "1"; */
+"1.title" = "将鼠标移动至位置";
+
+/* Class = "NSMenuItem"; title = "Relative to: top left of focused element"; ObjectID = "3SQ-Z7-SXp"; */
+"3SQ-Z7-SXp.title" = "相对于：聚焦元素的左上角";
+
+/* Class = "NSMenuItem"; title = "Relative to: top right corner of active window"; ObjectID = "5aw-qx-N9T"; */
+"5aw-qx-N9T.title" = "相对于：活跃窗口右上角";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom right of text cursor/text selection"; ObjectID = "44Q-x4-0sk"; */
+"44Q-x4-0sk.title" = "相对于：文本光标/文本选择右下角";
+
+/* Class = "NSMenuItem"; title = "Relative to: window cancel button center (if any)"; ObjectID = "B2L-cl-AG7"; */
+"B2L-cl-AG7.title" = "相对于：窗口取消按钮中心（如有）";
+
+/* Class = "NSMenuItem"; title = "Relative to: center of active window"; ObjectID = "C7E-dy-qlb"; */
+"C7E-dy-qlb.title" = "相对于：活跃窗口中心";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom right corner of active window"; ObjectID = "caz-VF-43t"; */
+"caz-VF-43t.title" = "相对于：活跃窗口右下角";
+
+/* Class = "NSMenuItem"; title = "Relative to: center of focused element"; ObjectID = "clo-7F-tDS"; */
+"clo-7F-tDS.title" = "相对于：聚焦元素中心";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "eNh-pw-3G8"; */
+"eNh-pw-3G8.title" = "存储";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "EPJ-JW-HOx"; */
+"EPJ-JW-HOx.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "Relative to: center of text cursor/text selection"; ObjectID = "ETl-xM-SB2"; */
+"ETl-xM-SB2.title" = "相对于：文本光标/文本选择中心";
+
+/* Class = "NSMenuItem"; title = "Relative to: top right of focused element"; ObjectID = "FmW-90-03o"; */
+"FmW-90-03o.title" = "相对于：聚焦元素的右上角";
+
+/* Class = "NSTextFieldCell"; title = "Y:"; ObjectID = "gb6-Hc-EMm"; */
+"gb6-Hc-EMm.title" = "Y：";
+
+/* Class = "NSMenuItem"; title = "Relative to: current mouse cursor position"; ObjectID = "gRV-j6-q8D"; */
+"gRV-j6-q8D.title" = "相对于：当前鼠标光标位置";
+
+/* Class = "NSMenuItem"; title = "Relative to: top left corner of active window"; ObjectID = "HF2-fr-e37"; */
+"HF2-fr-e37.title" = "相对于：活跃窗口左上角";
+
+/* Class = "NSTextFieldCell"; title = "First select the anchor point:"; ObjectID = "IQi-Pc-Zay"; */
+"IQi-Pc-Zay.title" = "First select the anchor point:";
+
+/* Class = "NSTextFieldCell"; title = "Current Position X: Y:"; ObjectID = "MAo-pT-3Qy"; */
+"MAo-pT-3Qy.title" = "当前位置 X： Y：";
+
+/* Class = "NSMenuItem"; title = "Relative to: window default button center (if any)"; ObjectID = "MG9-QG-jMf"; */
+"MG9-QG-jMf.title" = "相对于：窗口默认按钮中心（如有）";
+
+/* Class = "NSTextFieldCell"; title = "Move mouse to this position:"; ObjectID = "nIr-DZ-hzP"; */
+"nIr-DZ-hzP.title" = "将鼠标移动至此位置：";
+
+/* Class = "NSMenuItem"; title = "Relative to: top right of text cursor/text selection"; ObjectID = "NPS-Jq-idE"; */
+"NPS-Jq-idE.title" = "相对于：文本光标/文本选择右上角";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom left of focused element"; ObjectID = "olH-56-jcc"; */
+"olH-56-jcc.title" = "相对于：聚焦元素的左下角";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom right of focused element"; ObjectID = "pfS-GZ-p4I"; */
+"pfS-GZ-p4I.title" = "相对于：聚焦元素的右下角";
+
+/* Class = "NSMenuItem"; title = "Global position (origin top left corner of main monitor)"; ObjectID = "QDx-gg-4Bz"; */
+"QDx-gg-4Bz.title" = "全局位置（主显示器原来的左上角）";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom left of text cursor/text selection"; ObjectID = "Ucc-vK-6h5"; */
+"Ucc-vK-6h5.title" = "相对于：文本光标/文本选择左下角";
+
+/* Class = "NSTextFieldCell"; title = "Press space to capture the current mouse position"; ObjectID = "uXU-Br-HSo"; */
+"uXU-Br-HSo.title" = "按空格键以捕捉当前鼠标位置";
+
+/* Class = "NSTextFieldCell"; title = "X:"; ObjectID = "vTN-sd-Gjx"; */
+"vTN-sd-Gjx.title" = "X：";
+
+/* Class = "NSMenuItem"; title = "Relative to: bottom left corner of active window"; ObjectID = "wHl-JV-wJo"; */
+"wHl-JV-wJo.title" = "相对于：活跃窗口左下角";
+
+/* Class = "NSMenuItem"; title = "Relative to: top left of text cursor/text selection"; ObjectID = "xXV-yY-QSt"; */
+"xXV-yY-QSt.title" = "相对于：文本光标/文本选择左上角";
+

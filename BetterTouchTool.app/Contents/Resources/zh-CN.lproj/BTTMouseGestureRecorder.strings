@@ -1,0 +1,39 @@
+/* Class = "NSTextFieldCell"; title = "Last stored variation:"; ObjectID = "8xk-8o-mQ4"; */
+"8xk-8o-mQ4.title" = "上次储存的变体：";
+
+/* Class = "NSButtonCell"; title = "Finish & Save Gesture"; ObjectID = "9mM-vD-7hm"; */
+"9mM-vD-7hm.title" = "完成并存储手势";
+
+/* Class = "NSButtonCell"; title = "Reset Current Drawing"; ObjectID = "aXU-pu-Ok8"; */
+"aXU-pu-Ok8.title" = "重置当前绘图";
+
+/* Class = "NSButtonCell"; title = "Drawing direction does NOT matter for this gesture"; ObjectID = "B7f-tu-ios"; */
+"B7f-tu-ios.title" = "绘制方向对此手势没有任何影响";
+
+/* Class = "NSTextFieldCell"; title = "0,7"; ObjectID = "dnS-S9-Tlk"; */
+"dnS-S9-Tlk.title" = "0,7";
+
+/* Class = "NSTextFieldCell"; title = "Required recognition certainty to trigger:"; ObjectID = "dyP-51-FrZ"; */
+"dyP-51-FrZ.title" = "触发所需的识别确定性：";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Gesture Name:"; ObjectID = "f8J-Kg-YPp"; */
+"f8J-Kg-YPp.title" = "手势名称：";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "j9y-AN-8By"; */
+"j9y-AN-8By.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "(use a unique name for every drawing unless you want to reuse an existing drawing for app specific triggers)"; ObjectID = "NQn-Tr-YiW"; */
+"NQn-Tr-YiW.title" = "（请为每个绘画使用独特的名称，除非您想将现有绘图重复利用于针对具体应用的触发）";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "t6j-76-bHO"; */
+"t6j-76-bHO.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Draw the gesture you want to use here or choose an existing one from above.\nChoosing existing ones can be useful if you want to use the same gesture in multiple apps with different actions assigned.\n\n Don't draw pure straight lines, they are currently not supported (include at least one curve)."; ObjectID = "WLE-4B-Nib"; */
+"WLE-4B-Nib.title" = "在此绘制您要使用的手势，或从上方选择一个现有的。\n如果您想在多个应用中使用相同的手势但分配不同的操作，则选择现有手势可能比较有帮助。\n\n不要绘制纯直线，目前暂不支持（请至少包含一条曲线）。";
+
+/* Class = "NSButtonCell"; title = "Add another variation of the same gesture to increase recognition reliability"; ObjectID = "wNa-nq-FvH"; */
+"wNa-nq-FvH.title" = "添加相同手势的不同变体可提高识别可靠度";
+

@@ -1,0 +1,36 @@
+/* Class = "NSTextFieldCell"; title = "The port needs to be greater than 1024"; ObjectID = "a5Z-N1-Qud"; */
+"a5Z-N1-Qud.title" = "端口需大于 1024";
+
+/* Class = "NSTextFieldCell"; title = "If you enter 127.0.0.1 the webserver will only be accessible from apps on your computer. If you want to access it e.g. from an iPhone on your network you will need to enter\nyour computers current local network IP. If you want it to be accessible from the internet (NOT recommended) you would need to forward the port in your router settings."; ObjectID = "bKR-Nu-cu8"; */
+"bKR-Nu-cu8.title" = "如果您输入 127.0.0.1，则网络服务器仅可从您电脑上的应用访问。如果您想访问，例如通过您网络中的 iPhone，那么您需要输入\n您电脑的当前本地网络 IP。如果您想让它变得从整个互联网都可以访问（不推荐），您需要将端口转发至路由器设置。";
+
+/* Class = "NSButtonCell"; title = "Enable BetterTouchTool Webserver"; ObjectID = "cZD-dG-UdI"; */
+"cZD-dG-UdI.title" = "启用 BetterTouchTool Web 服务器";
+
+/* Class = "NSTextFieldCell"; title = "If set, only requests that contain the shared_secret=theSecretYouDefined parameter will be allowed to access this webserver."; ObjectID = "D2o-dv-wNF"; */
+"D2o-dv-wNF.title" = "如设置，则仅包含 shared_secret=theSecretYouDefined 参数的请求可以访问此网络服务器。";
+
+/* Class = "NSTextFieldCell"; title = "Files are served from ~/Library/Application Support/BetterTouchTool/BTTWebServer"; ObjectID = "eFp-ph-4P2"; */
+"eFp-ph-4P2.title" = "文件伺服地址是 ~/Library/Application Support/BetterTouchTool/BTTWebServer";
+
+/* Class = "NSTextFieldCell"; title = "Listen on:"; ObjectID = "f5S-xi-s0t"; */
+"f5S-xi-s0t.title" = "监听：";
+
+/* Class = "NSButtonCell"; title = "Apply Changes"; ObjectID = "Gap-0b-zXg"; */
+"Gap-0b-zXg.title" = "应用更改";
+
+/* Class = "NSTextFieldCell"; title = "Shared Secret:"; ObjectID = "jt0-DG-fNb"; */
+"jt0-DG-fNb.title" = "共享密钥：";
+
+/* Class = "NSTextFieldCell"; title = " (you will need to trust the \"BetterTouchToolRemote_New certificate in your keychain to prevent warnings from your browser)"; ObjectID = "LKo-MD-pDL"; */
+"LKo-MD-pDL.title" = " （您需要在钥匙串中信任“shared_secret=theSecretYouDefined”证书，以免浏览器发出警告）";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "oyz-NR-U88"; */
+"oyz-NR-U88.title" = "端口：";
+
+/* Class = "NSBox"; title = "Webserver"; ObjectID = "sfX-6N-zhD"; */
+"sfX-6N-zhD.title" = "网络服务器";
+
+/* Class = "NSButtonCell"; title = "Use encrypted HTTPS connection with self signed certificate"; ObjectID = "SKj-pW-bbj"; */
+"SKj-pW-bbj.title" = "使用带有自签名证书的加密 HTTPS 连接";
+

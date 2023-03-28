@@ -1,0 +1,42 @@
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "8tR-v0-Ey1"; */
+"8tR-v0-Ey1.title" = "1";
+
+/* Class = "NSTextFieldCell"; title = "Shared Secret for Scripting:"; ObjectID = "AF2-Ex-G1r"; */
+"AF2-Ex-G1r.title" = "脚本的共享密钥：";
+
+/* Class = "NSButtonCell"; title = "Refresh Variables"; ObjectID = "BNd-e4-Jvk"; */
+"BNd-e4-Jvk.title" = "刷新变量";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "cr1-th-Pmd"; */
+"cr1-th-Pmd.title" = "3";
+
+/* Class = "NSTextFieldCell"; title = "Number of Script Runner Processes:"; ObjectID = "dpi-aK-xsZ"; */
+"dpi-aK-xsZ.title" = "Number of Script Runner Processes:";
+
+/* Class = "NSTextFieldCell"; title = "If you set a shared secret, all btt:// url commands and all Apple Script commands must contain a shared_secret=yourSecret parameter.\nThe secret is saved under the name \"BTTScriptingSharedSecret\" in your keychain."; ObjectID = "gfk-Ag-zzm"; */
+"gfk-Ag-zzm.title" = "如果您设置了共享密钥，全部 btt:// url 命令和全部 Apple 脚本命令必须包含 shared_secret=yourSecret 参数。\n该密钥存储在您的钥匙串中，名为“BTTScriptingSharedSecret”。";
+
+/* Class = "NSTextFieldCell"; title = "Scripting BetterTouchTool"; ObjectID = "kls-4y-TpX"; */
+"kls-4y-TpX.title" = "脚本 BetterTouchTool";
+
+/* Class = "NSTextFieldCell"; title = "User Script Variables (saved in ~/Library/Application Support/BetterTouchTool/btt_user_variables.plist )"; ObjectID = "P4s-rX-grE"; */
+"P4s-rX-grE.title" = "User Script Variables (saved in ~/Library/Application Support/BetterTouchTool/btt_user_variables.plist )";
+
+/* Class = "NSButtonCell"; title = "Allow external BetterTouchTool Scripting"; ObjectID = "POj-7r-6DT"; */
+"POj-7r-6DT.title" = "允许外部 BetterTouchTool 脚本";
+
+/* Class = "NSButtonCell"; title = "Reset All Variables"; ObjectID = "qwn-QL-ADQ"; */
+"qwn-QL-ADQ.title" = "重置所有变量";
+
+/* Class = "NSTextFieldCell"; title = "(active after restart)"; ObjectID = "R9V-fc-x1p"; */
+"R9V-fc-x1p.title" = "(active after restart)";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "rFA-l9-IRm"; */
+"rFA-l9-IRm.title" = "4";
+
+/* Class = "NSBox"; title = "Scripting BetterTouchTool"; ObjectID = "spe-47-Kwi"; */
+"spe-47-Kwi.title" = "脚本 BetterTouchTool";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "yV8-re-qFs"; */
+"yV8-re-qFs.title" = "2";
+

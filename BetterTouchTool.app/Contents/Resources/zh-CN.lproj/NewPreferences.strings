@@ -1,0 +1,219 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0Pc-l8-Cq0"; */
+"0Pc-l8-Cq0.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "+ Add New Trigger"; ObjectID = "2fT-Vu-dZ7"; */
+"2fT-Vu-dZ7.ibShadowedToolTip" = "+ Add New Trigger";
+
+/* Class = "NSButtonCell"; title = "Preset: Default ▾"; ObjectID = "2GA-wI-eRG"; */
+"2GA-wI-eRG.title" = "预设：默认 ▾";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Add New Group"; ObjectID = "2NF-q2-jTk"; */
+"2NF-q2-jTk.ibExternalAccessibilityHelp" = "添加新分组";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add New Group"; ObjectID = "2NF-q2-jTk"; */
+"2NF-q2-jTk.ibShadowedToolTip" = "添加新分组";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click To Enable"; ObjectID = "2Tn-pN-FPO"; */
+"2Tn-pN-FPO.ibShadowedToolTip" = "Click To Enable";
+
+/* Class = "NSMenuItem"; title = "Disable window snapping for selected app"; ObjectID = "5j2-0W-4xQ"; */
+"5j2-0W-4xQ.title" = "为所选选择停用窗口吸附";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7bM-P8-P2P"; */
+"7bM-P8-P2P.title" = "Text Cell";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Attach additional action"; ObjectID = "7eZ-wL-WrJ"; */
+"7eZ-wL-WrJ.ibExternalAccessibilityDescription" = "附上附加操作";
+
+/* Class = "NSMenuItem"; title = "Show BetterTouchTool Touch Bar, show system Control Strip"; ObjectID = "8q9-Oc-qQs"; */
+"8q9-Oc-qQs.title" = "显示 BetterTouchTool Touch Bar，显示系统 Control Strip";
+
+/* Class = "NSMenuItem"; title = "Show BetterTouchTool Touch Bar, hide system Control Strip"; ObjectID = "8rE-yU-Zxx"; */
+"8rE-yU-Zxx.title" = "显示 BetterTouchTool Touch Bar，隐藏系统 Control Strip";
+
+/* Class = "NSButtonCell"; title = "Open Selected Group"; ObjectID = "9bX-qL-eaM"; */
+"9bX-qL-eaM.title" = "打开所选分组";
+
+/* Class = "NSTableColumn"; headerCell.title = "Triggers in selected Group"; ObjectID = "9kJ-EV-xgl"; */
+"9kJ-EV-xgl.headerCell.title" = "Triggers in selected Group";
+
+/* Class = "NSMenuItem"; title = "Drawings / Mouse Gestures"; ObjectID = "9Mk-1I-IXK"; */
+"9Mk-1I-IXK.title" = "绘图/鼠标手势";
+
+/* Class = "NSButtonCell"; title = "Your BetterTouchTool Trial has ended!"; ObjectID = "9WH-nW-gGp"; */
+"9WH-nW-gGp.title" = "您的 BetterTouchTool 试用期已结束 😕";
+
+/* Class = "NSMenuItem"; title = "Disable BTT completely for this app"; ObjectID = "9Z0-sI-III"; */
+"9Z0-sI-III.title" = "为此应用完全停用 BTT";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "15V-Hy-rXr"; */
+"15V-Hy-rXr.title" = "重置";
+
+/* Class = "NSMenu"; title = "CopyPaste"; ObjectID = "41f-ZW-6gM"; */
+"41f-ZW-6gM.title" = "拷贝粘贴";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "a1c-2U-zUm"; */
+"a1c-2U-zUm.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click To Show Registration Info"; ObjectID = "Abe-Fg-eSe"; */
+"Abe-Fg-eSe.ibShadowedToolTip" = "Click To Show Registration Info";
+
+/* Class = "NSMenuItem"; title = "Disable window title & focused element observation for selected app"; ObjectID = "bJv-sF-K3R"; */
+"bJv-sF-K3R.title" = "为所选选择停用窗口标题和聚焦元素观察";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click To Show"; ObjectID = "BmU-jh-84j"; */
+"BmU-jh-84j.ibShadowedToolTip" = "Click To Show";
+
+/* Class = "NSMenuItem"; title = "Normal Mouse"; ObjectID = "bv1-ko-rho"; */
+"bv1-ko-rho.title" = "普通鼠标";
+
+/* Class = "NSMenuItem"; title = "Named & Other Triggers"; ObjectID = "bzi-pe-PV9"; */
+"bzi-pe-PV9.title" = "其他触发";
+
+/* Class = "NSTextFieldCell"; title = "Three Finger Tap"; ObjectID = "ckt-9K-TYI"; */
+"ckt-9K-TYI.title" = "三指轻点";
+
+/* Class = "NSTableColumn"; headerCell.title = "Groups & Top Level Triggers"; ObjectID = "DJE-Kd-oHj"; */
+"DJE-Kd-oHj.headerCell.title" = "群组和顶级触发器";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "dNV-LX-S6M"; */
+"dNV-LX-S6M.title" = "存储";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dSu-fX-6gv"; */
+"dSu-fX-6gv.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "App Specific ▾"; ObjectID = "dWY-Gb-LFQ"; */
+"dWY-Gb-LFQ.title" = "针对应用 ▾";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "e5j-cJ-utC"; */
+"e5j-cJ-utC.title" = "多行标签";
+
+/* Class = "NSButton"; ibShadowedToolTip = "- Delete"; ObjectID = "efw-EX-1o0"; */
+"efw-EX-1o0.ibShadowedToolTip" = "- Delete";
+
+/* Class = "NSMenuItem"; title = "Compatibility shortcut sending for this app"; ObjectID = "ehr-Px-7xo"; */
+"ehr-Px-7xo.title" = "此应用的兼容性快捷键发送";
+
+/* Class = "NSMenuItem"; title = "Create conditional activation group"; ObjectID = "ejY-Qa-7Wk"; */
+"ejY-Qa-7Wk.title" = "创建条件性激活分组";
+
+/* Class = "NSButtonCell"; title = "<<<"; ObjectID = "f2g-h8-Qgn"; */
+"f2g-h8-Qgn.title" = "<<<";
+
+/* Class = "NSTextFieldCell"; title = "No Selection"; ObjectID = "F3m-Ax-C83"; */
+"F3m-Ax-C83.title" = "没有选择";
+
+/* Class = "NSButtonCell"; title = "Attach additional action"; ObjectID = "fem-bU-TVk"; */
+"fem-bU-TVk.title" = "附上附加操作";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "g7a-6Q-r7I"; */
+"g7a-6Q-r7I.title" = "返回";
+
+/* Class = "NSButtonCell"; title = "!! BetterTouchTool is currently disabled !!"; ObjectID = "IZY-bW-eXP"; */
+"IZY-bW-eXP.title" = "!! BetterTouchTool is currently disabled !!";
+
+/* Class = "NSMenuItem"; title = "Trackpad"; ObjectID = "jIr-tU-fgW"; */
+"jIr-tU-fgW.title" = "触控板";
+
+/* Class = "NSMenuItem"; title = "BTT Remote"; ObjectID = "JWt-m4-Nos"; */
+"JWt-m4-Nos.title" = "BTT Remote";
+
+/* Class = "NSButtonCell"; title = "Touch Bar settings"; ObjectID = "Kau-et-M4k"; */
+"Kau-et-M4k.title" = "Touch Bar 设置";
+
+/* Class = "NSMenu"; title = "AddApplication"; ObjectID = "kWs-KF-z8A"; */
+"kWs-KF-z8A.title" = "AddApplication";
+
+/* Class = "NSMenuItem"; title = "Select app from file system"; ObjectID = "LH4-Ds-IyL"; */
+"LH4-Ds-IyL.title" = "从文件系统选择应用";
+
+/* Class = "NSMenu"; title = "Touch Bar Behavior"; ObjectID = "m1I-Cd-6Im"; */
+"m1I-Cd-6Im.title" = "Touch Bar 行为";
+
+/* Class = "NSWindow"; title = "BetterTouchTool"; ObjectID = "Mla-aL-Kdx"; */
+"Mla-aL-Kdx.title" = "BetterTouchTool";
+
+/* Class = "NSMenuItem"; title = "Select app from running apps"; ObjectID = "MNU-wm-X61"; */
+"MNU-wm-X61.title" = "从运行的应用中选择应用";
+
+/* Class = "NSMenuItem"; title = "Touch Bar Behavior"; ObjectID = "MtE-dR-EQ1"; */
+"MtE-dR-EQ1.title" = "Touch Bar 行为";
+
+/* Class = "NSMenuItem"; title = "Disable horizontal single finger scrolling"; ObjectID = "nwX-Kj-7zV"; */
+"nwX-Kj-7zV.title" = "停用水平单指滚动";
+
+/* Class = "NSMenuItem"; title = "Touch Bar"; ObjectID = "OJG-LJ-MjB"; */
+"OJG-LJ-MjB.title" = "Touch Bar";
+
+/* Class = "NSMenuItem"; title = "Overview All Configured Triggers"; ObjectID = "OJG-LJ-MjB"; */
+"OJG-LJ-MjB.title" = "所有配置的触发器概述";
+
+/* Class = "NSMenuItem"; title = "Touch Bar"; ObjectID = "OJG-LJ-MjB"; */
+"1KL-M3-7RC.title" = "Touch Bar";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Oxd-i2-lDv"; */
+"Oxd-i2-lDv.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Trigger Name"; ObjectID = "QPN-Z8-R9B"; */
+"QPN-Z8-R9B.headerCell.title" = "触发名";
+
+/* Class = "NSTableColumn"; headerCell.title = "Config"; ObjectID = "QX3-P7-85K"; */
+"QX3-P7-85K.headerCell.title" = "组态";
+
+/* Class = "NSTableColumn"; headerCell.title = "Apps"; ObjectID = "r3P-Bh-CGp"; */
+"r3P-Bh-CGp.headerCell.title" = "应用";
+
+/* Class = "NSMenuItem"; title = "MIDI Triggers"; ObjectID = "R9C-no-FLd"; */
+"R9C-no-FLd.title" = "MIDI 触发";
+
+/* Class = "NSTableColumn"; headerCell.title = "Assigned Action(s)"; ObjectID = "rFQ-7I-iWY"; */
+"rFQ-7I-iWY.headerCell.title" = "已分配的行动";
+
+/* Class = "NSWindow"; title = "BetterTouchTool Undocked Configuration"; ObjectID = "Soq-gw-0hG"; */
+"Soq-gw-0hG.title" = "BetterTouchTool 浮动配置面板";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Undock"; ObjectID = "TMn-1Z-5tu"; */
+"TMn-1Z-5tu.ibShadowedToolTip" = "Undock";
+
+/* Class = "NSMenuItem"; title = "Magic Mouse"; ObjectID = "u7m-ja-7kv"; */
+"u7m-ja-7kv.title" = "Magic Mouse 鼠标";
+
+/* Class = "NSViewController"; title = "BTTOutlineModeVC"; ObjectID = "ULO-o4-PSM"; */
+"ULO-o4-PSM.title" = "BTTOutlineModeVC";
+
+/* Class = "NSMenuItem"; title = "Show App Default Touch Bar"; ObjectID = "VIp-hx-ZRb"; */
+"VIp-hx-ZRb.title" = "显示应用默认的 Touch Bar";
+
+/* Class = "NSMenuItem"; title = "Key Sequences / Typed Words"; ObjectID = "wSp-n1-YaA"; */
+"wSp-n1-YaA.title" = "按键序列/键入的词语";
+
+/* Class = "NSTableColumn"; headerCell.title = "Actions Assigned to Selected Trigger"; ObjectID = "xd3-Iq-dR4"; */
+"xd3-Iq-dR4.headerCell.title" = "分配给所选触发器的操作";
+
+/* Class = "NSMenuItem"; title = "Siri Remote"; ObjectID = "XGz-8g-7fr"; */
+"XGz-8g-7fr.title" = "Siri Remote";
+
+/* Class = "NSMenuItem"; title = "Edit conditional activation group"; ObjectID = "xnk-DH-OAb"; */
+"xnk-DH-OAb.title" = "编辑条件性激活分组";
+
+/* Class = "NSMenuItem"; title = "Disable single finger scrolling (Magic Mouse)"; ObjectID = "xzR-CT-rGe"; */
+"xzR-CT-rGe.title" = "停用单指滚动（Magic Mouse 鼠标）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "cmd+s"; ObjectID = "Yfa-Ai-Ln9"; */
+"Yfa-Ai-Ln9.ibShadowedToolTip" = "cmd+s";
+
+/* Class = "NSButtonCell"; title = "Your custom Touch Bar is currently hidden"; ObjectID = "ygX-Qy-oyA"; */
+"ygX-Qy-oyA.title" = "Your custom Touch Bar is currently hidden";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yie-ql-D0i"; */
+"yie-ql-D0i.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Default (no special handling)"; ObjectID = "YQU-qW-P2D"; */
+"YQU-qW-P2D.title" = "默认（无特殊处理）";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YXl-RO-hkx"; */
+"YXl-RO-hkx.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Keyboard Shortcuts"; ObjectID = "ZFI-XO-H6y"; */
+"ZFI-XO-H6y.title" = "键盘快捷键";
+

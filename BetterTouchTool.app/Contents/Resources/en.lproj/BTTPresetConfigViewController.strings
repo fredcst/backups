@@ -1,0 +1,66 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2K2-ig-k6F"; */
+"2K2-ig-k6F.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Visible in UI"; ObjectID = "5dq-7L-rlD"; */
+"5dq-7L-rlD.headerCell.title" = "Visible in UI";
+
+/* Class = "NSTableColumn"; headerToolTip = "The triggers will still work, but not be shown in the preferences UI"; ObjectID = "5dq-7L-rlD"; */
+"5dq-7L-rlD.headerToolTip" = "The triggers will still work, but not be shown in the preferences UI";
+
+/* Class = "NSMenuItem"; title = "Test3"; ObjectID = "7tW-eH-1yJ"; */
+"7tW-eH-1yJ.title" = "Test3";
+
+/* Class = "NSTextFieldCell"; title = "(new triggers will be added to that one):"; ObjectID = "Ajp-KW-h1v"; */
+"Ajp-KW-h1v.title" = "(new triggers will be added to that one):";
+
+/* Class = "NSButtonCell"; title = "Import"; ObjectID = "anN-FH-sli"; */
+"anN-FH-sli.title" = "Import";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "ech-FU-aWZ"; */
+"ech-FU-aWZ.title" = "Delete";
+
+/* Class = "NSTableColumn"; headerCell.title = "Preset Name (double-click edit)"; ObjectID = "GeZ-29-jPQ"; */
+"GeZ-29-jPQ.headerCell.title" = "Preset Name (double-click edit)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Files placed here can be referenced via BTT_PRESET_FOLDER in Apple & Shell Scripts, or via presetfile:// in the BTT Web View"; ObjectID = "l2l-1H-QOW"; */
+"l2l-1H-QOW.ibShadowedToolTip" = "Files placed here can be referenced via BTT_PRESET_FOLDER in Apple & Shell Scripts, or via presetfile:// in the BTT Web View";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "N3h-dX-KK0"; */
+"N3h-dX-KK0.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Master"; ObjectID = "nQi-n6-7fl"; */
+"nQi-n6-7fl.title" = "Master";
+
+/* Class = "NSTableColumn"; headerCell.title = "Active"; ObjectID = "nVi-Df-fts"; */
+"nVi-Df-fts.headerCell.title" = "Active";
+
+/* Class = "NSTextFieldCell"; title = "Activate additional triggers from other presets (optional):"; ObjectID = "OFT-Q5-Oid"; */
+"OFT-Q5-Oid.title" = "Activate additional triggers from other presets (optional):";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OTB-g7-q0Q"; */
+"OTB-g7-q0Q.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Data"; ObjectID = "P3D-oe-UWd"; */
+"P3D-oe-UWd.headerCell.title" = "Data";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "Pqk-ZK-jbw"; */
+"Pqk-ZK-jbw.title" = "Default";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "pVO-N6-teU"; */
+"pVO-N6-teU.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Test2"; ObjectID = "t9l-FL-EfK"; */
+"t9l-FL-EfK.title" = "Test2";
+
+/* Class = "NSButtonCell"; title = "Export Highlighted"; ObjectID = "Uho-Lc-YVN"; */
+"Uho-Lc-YVN.title" = "Export Highlighted";
+
+/* Class = "NSButtonCell"; title = "New"; ObjectID = "UHr-rt-zp0"; */
+"UHr-rt-zp0.title" = "New";
+
+/* Class = "NSTextFieldCell"; title = "Select Master Preset"; ObjectID = "vrb-05-X8H"; */
+"vrb-05-X8H.title" = "Select Master Preset";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "y9T-8F-MQE"; */
+"y9T-8F-MQE.title" = "Text Cell";

@@ -1,0 +1,66 @@
+/* Class = "NSButtonCell"; title = "Enable Right Mouse Down drawing recognition, after mouse moved:"; ObjectID = "6bG-gi-EY2"; */
+"6bG-gi-EY2.title" = "マウスを動かした後、右マウスダウンの描画認識を有効にします。";
+
+/* Class = "NSTextFieldCell"; title = "Bigger drawing area sizes can affect performance."; ObjectID = "8M7-Zw-49C"; */
+"8M7-Zw-49C.title" = "より大きな描画領域サイズはパフォーマンスに影響を与える可能性があります。";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "705-KG-bMX"; */
+"705-KG-bMX.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Restore mouse position"; ObjectID = "ek1-8A-URu"; */
+"ek1-8A-URu.title" = "マウスの位置を復元する";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "EV9-ge-eQg"; */
+"EV9-ge-eQg.title" = "px";
+
+/* Class = "NSButtonCell"; title = "Show gesture drawing instructions / tips"; ObjectID = "ewN-1z-xmM"; */
+"ewN-1z-xmM.title" = "ジェスチャー描画の指示/ヒントを表示";
+
+/* Class = "NSButtonCell"; title = "End drawing when releasing modifier keys from Keyboard"; ObjectID = "hWp-4B-e2I"; */
+"hWp-4B-e2I.title" = "キーボードから修飾キーを離したときに描画を終了する";
+
+/* Class = "NSButtonCell"; title = " Highlight drawing start point"; ObjectID = "Icv-Om-hWD"; */
+"Icv-Om-hWD.title" = "描画の開始地点をハイライトする";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "jlk-fM-t9Q"; */
+"jlk-fM-t9Q.title" = "高さ：";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "jOQ-8h-9E2"; */
+"jOQ-8h-9E2.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "MNl-wO-epD"; */
+"MNl-wO-epD.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Number of points to sample per drawing"; ObjectID = "n5a-Ry-VW6"; */
+"n5a-Ry-VW6.title" = "描画ごとにサンプリングするポイント数";
+
+/* Class = "NSTextFieldCell"; title = "Stroke width:"; ObjectID = "nGH-rg-fuc"; */
+"nGH-rg-fuc.title" = "ストローク幅：";
+
+/* Class = "NSTextFieldCell"; title = "Maximum rotation when comparing drawings (degree)"; ObjectID = "nKm-rg-AWE"; */
+"nKm-rg-AWE.title" = "描画を比較した時の最大回転角度（度）";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "qbZ-tY-XM2"; */
+"qbZ-tY-XM2.title" = "px";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "Rku-FA-j1p"; */
+"Rku-FA-j1p.title" = "px";
+
+/* Class = "NSTextFieldCell"; title = "If drawing was started via Keyboard Shortcut"; ObjectID = "s5f-jH-saN"; */
+"s5f-jH-saN.title" = "キーボードショートカットで描画を始めた場合";
+
+/* Class = "NSTextFieldCell"; title = "Advanced"; ObjectID = "U7g-fr-acw"; */
+"U7g-fr-acw.title" = "高度";
+
+/* Class = "NSTextFieldCell"; title = "Drawing area background color (Hint: there is a transparency slider in the color picker)"; ObjectID = "w3G-Wk-XTQ"; */
+"w3G-Wk-XTQ.title" = "描画領域の背景色（ヒント：カラーピッカーに透明度スライダがあります）";
+
+/* Class = "NSTextFieldCell"; title = "Drawing area size:"; ObjectID = "wNW-gK-MH5"; */
+"wNW-gK-MH5.title" = "描画する領域のサイズ：";
+
+/* Class = "NSTextFieldCell"; title = "Drawing stroke color"; ObjectID = "WRQ-HA-HFr"; */
+"WRQ-HA-HFr.title" = "描画ストロークカラー";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "XLt-W1-fSL"; */
+"XLt-W1-fSL.title" = "幅：";
+

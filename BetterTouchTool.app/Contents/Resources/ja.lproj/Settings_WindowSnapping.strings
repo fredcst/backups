@@ -1,0 +1,363 @@
+/* Class = "NSButtonCell"; title = "Snap to top"; ObjectID = "1YK-Gk-mcQ"; */
+"1YK-Gk-mcQ.title" = "上へスナップ";
+
+/* Class = "NSButtonCell"; title = "bring moving window to front"; ObjectID = "2x5-JL-lxe"; */
+"2x5-JL-lxe.title" = "動かすウィンドウを前面に持ってくる";
+
+/* Class = "NSTextFieldCell"; title = "Empty space between window edges:"; ObjectID = "4iO-Bt-1NK"; */
+"4iO-Bt-1NK.title" = "ウィンドウの端の空スペース：";
+
+/* Class = "NSButtonCell"; title = "For a more complete documentation & introductory video click here"; ObjectID = "7Rd-mw-fgt"; */
+"7Rd-mw-fgt.title" = "ドキュメンテーション詳細と紹介ビデオは、ここをクリックしてください";
+
+/* Class = "NSButtonCell"; title = "Import existing Snap Areas from BetterSnapTool (experimental)"; ObjectID = "8Ii-cB-tPp"; */
+"8Ii-cB-tPp.title" = "BetterSnapToolから既存のスナップ領域をインポートする（実験的）";
+
+/* Class = "NSTextFieldCell"; title = "Right width:"; ObjectID = "8kh-gA-Vxk"; */
+"8kh-gA-Vxk.title" = "右幅：";
+
+/* Class = "NSButtonCell"; title = "Snap to bottom left"; ObjectID = "9a8-Po-anO"; */
+"9a8-Po-anO.title" = "左下へスナップ";
+
+/* Class = "NSButtonCell"; title = "fn"; ObjectID = "9Bs-qD-5dW"; */
+"9Bs-qD-5dW.title" = "fn";
+
+/* Class = "NSTextFieldCell"; title = "Background-color:"; ObjectID = "9dE-gD-PRM"; */
+"9dE-gD-PRM.title" = "背景の色：";
+
+/* Class = "NSButtonCell"; title = "⌃ (ctrl)"; ObjectID = "70n-h6-NcL"; */
+"70n-h6-NcL.title" = "⌃ (ctrl)";
+
+/* Class = "NSButtonCell"; title = "Focused Window"; ObjectID = "78q-BG-GaW"; */
+"78q-BG-GaW.title" = "フォーカスしたウィンドウ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Right Half"; ObjectID = "80T-KY-hw1"; */
+"80T-KY-hw1.ibShadowedToolTip" = "右半分";
+
+/* Class = "NSButtonCell"; title = "⇧(shift)"; ObjectID = "94L-sE-vjc"; */
+"94L-sE-vjc.title" = "⇧(shift)";
+
+/* Class = "NSTextFieldCell"; title = "Delay:"; ObjectID = "AlK-vx-3Cq"; */
+"AlK-vx-3Cq.title" = "遅延：";
+
+/* Class = "NSTextFieldCell"; title = "On macOS 10.11 or greater, dragging a window to the top can result in Mission Control showing up. To prevent this check the following option, which will make it a bit harder to accidentally trigger Mission Control."; ObjectID = "aqS-FS-LUG"; */
+"aqS-FS-LUG.title" = "MacOS 10.11以降では、ウィンドウを一番上にドラッグすると、ミッションコントロールが表示されることがあります。これを防ぐには、次のオプションをチェックすることで、誤ってミッションコントロールを起動させることを防ぎます。";
+
+/* Class = "NSButtonCell"; title = "Use the monitor the mouse is on for all window actions (instead of the monitor the window is on)"; ObjectID = "BfO-RN-pa6"; */
+"BfO-RN-pa6.title" = "すべてのウィンドウ操作にマウスがある方のモニタを使用する（ウィンドウのあるすべてのモニタではなく）";
+
+/* Class = "NSTextFieldCell"; title = "2.) open the terminal app via spotlight"; ObjectID = "bHi-KD-pzG"; */
+"bHi-KD-pzG.title" = "2.）スポットライトで端末アプリを開く";
+
+/* Class = "NSButtonCell"; title = "Enable window snapping"; ObjectID = "BM9-bC-kOd"; */
+"BM9-bC-kOd.title" = "ウィンドウスナップを有効にする";
+
+/* Class = "NSButtonCell"; title = "Right edge: resize to right half"; ObjectID = "BOg-S8-Ec8"; */
+"BOg-S8-Ec8.title" = "右端：右半分にサイズ変更";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "bpl-Ce-sRh"; */
+"bpl-Ce-sRh.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "1.) Resize an arbitrary window on your screen to the position & size where you want the new  Snap Area to snap to later\n\n2.) Click on the BetterSnapTool menubar icon and select \"Snap Areas\", then select \"Create New Snap Area (Use Active Window As Template)\" \n\n3.) BetterSnapTool will open a view which shows the newly created  Snap Area and highlights the position where it will snap to later. You can now edit it. (e.g. move it to the edges of the screen, change the color etc.)\n\n4.) After you have finished editing your  Snap Area just press cmd+w or click the shown icon to finish the whole process.\n\n"; ObjectID = "Brb-BK-00g"; */
+"Brb-BK-00g.title" = "1.）画面上の任意のウィンドウを新しいスナップ領域を後でスナップする予定の位置とサイズに変更します。\n\n2.）BetterSnapToolのメニューバーアイコンをクリックして「スナップ領域」を選択し、次に「新しいスナップ領域を作成（テンプレートとしてアクティブウィンドウを使用）」を選択します。\n\n3.）BetterSnapToolは、新しく作成されたスナップ領域を表示し、後でスナップする位置を強調表示するビューを開きます。これで編集できます。（例：画面の端に移動したり、色を変えたりするなど）\n\n4.）スナップ領域の編集が終わったら、cmd + wを押すか、表示されたアイコンをクリックして全プロセスを終了してください。";
+
+/* Class = "NSButtonCell"; title = "Delay on right half of the menubar"; ObjectID = "cgf-JC-Nt2"; */
+"cgf-JC-Nt2.title" = "メニューバーの右半分に遅らせる";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Left Half"; ObjectID = "cGs-Lc-ch5"; */
+"cGs-Lc-ch5.ibShadowedToolTip" = "左半分";
+
+/* Class = "NSTabViewItem"; label = "Advanced Snap Settings"; ObjectID = "Cnd-Wo-beU"; */
+"Cnd-Wo-beU.label" = "高度なスナップ設定";
+
+/* Class = "NSButtonCell"; title = "Delay on left half of the menubar"; ObjectID = "cuE-Ch-ISH"; */
+"cuE-Ch-ISH.title" = "メニューバーの左半分に遅らせる";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Maximize"; ObjectID = "DbC-4g-fFp"; */
+"DbC-4g-fFp.ibShadowedToolTip" = "最大化する";
+
+/* Class = "NSButtonCell"; title = "Allow Snap Areas to snap if drag was started inside of a snap area"; ObjectID = "dnm-GL-KbE"; */
+"dnm-GL-KbE.title" = "スナップ領域内でドラッグが開始された場合にスナップ領域のスナップを許可する";
+
+/* Class = "NSButtonCell"; title = "Snap to top right"; ObjectID = "DuI-dJ-NJV"; */
+"DuI-dJ-NJV.title" = "右上へスナップ";
+
+/* Class = "NSTextFieldCell"; title = "Pixel"; ObjectID = "eDb-iH-4Qo"; */
+"eDb-iH-4Qo.title" = "ピクセル";
+
+/* Class = "NSTextFieldCell"; title = "Dragging to the top tips:"; ObjectID = "EdT-UT-VbU"; */
+"EdT-UT-VbU.title" = "上の端にドラックする：";
+
+/* Class = "NSButtonCell"; title = "Leave small gap above dock"; ObjectID = "eJp-vU-7jq"; */
+"eJp-vU-7jq.title" = "ドックの上に小さな隙間を残す";
+
+/* Class = "NSTextFieldCell"; title = "defaults write com.apple.dock workspaces-edge-delay -float 2.0; killall Dock"; ObjectID = "EpG-UB-GtV"; */
+"EpG-UB-GtV.title" = "defaults write com.apple.dock workspaces-edge-delay -float 2.0; killall Dock";
+
+/* Class = "NSTextFieldCell"; title = "Corner Snapping / Move to quarters:"; ObjectID = "erH-WV-Is0"; */
+"erH-WV-Is0.title" = "コーナースナップ/4分の1に移動：";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "eTc-t7-ggO"; */
+"eTc-t7-ggO.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "⌘ (cmd)"; ObjectID = "f4D-Cn-sJh"; */
+"f4D-Cn-sJh.title" = "⌘ (cmd)";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "f7P-88-ZnL"; */
+"f7P-88-ZnL.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "Move windows:"; ObjectID = "FhN-7M-yMg"; */
+"FhN-7M-yMg.title" = "ウィンドウの移動：";
+
+/* Class = "NSButtonCell"; title = "Don't restore old window size if old size was fullscreen / maximized"; ObjectID = "fNf-VI-uQs"; */
+"fNf-VI-uQs.title" = "古いサイズがフルスクリーン/最大化されている場合、古いウィンドウサイズを復元しない";
+
+/* Class = "NSButtonCell"; title = "Enable high performance mode (uses more memory)"; ObjectID = "gfH-qb-KHa"; */
+"gfH-qb-KHa.title" = "高性能モードを有効にする（より多くのメモリを使用します）";
+
+/* Class = "NSTextFieldCell"; title = "If you are using BetterSnapTool and Spaces / Mission Control at the same time you may know the problem: Trying to snap windows to the left or to the right can result in a switch of the Space . A nice workaround for this is to use the following Terminal command to increase the delay before the system switches the Space."; ObjectID = "Gkm-IA-0AZ"; */
+"Gkm-IA-0AZ.title" = "BetterSnapToolとスペース/ミッションコントロールを同時に使用している場合、問題が発生する可能性があります：ウィンドウを左右にスナップしようとすると、スペースが切り替わることがあります。これを避けるためには、システムがスペースを切り替える前に遅延を増やすために次のターミナルコマンドを使用することです。";
+
+/* Class = "NSButtonCell"; title = "Delay on left half of the menubar"; ObjectID = "GVb-Fl-SJd"; */
+"GVb-Fl-SJd.title" = "メニューバーの左半分に遅らせる";
+
+/* Class = "NSButtonCell"; title = "Delay on right half of the menubar"; ObjectID = "hLq-ST-w0c"; */
+"hLq-ST-w0c.title" = "メニューバーの右半分に遅らせる";
+
+/* Class = "NSTextFieldCell"; title = "Normal Snapping / Moving Widths :"; ObjectID = "HQa-8E-1vH"; */
+"HQa-8E-1vH.title" = "通常のスナッピング / 移動する幅：";
+
+/* Class = "NSButtonCell"; title = "Snap to top left"; ObjectID = "I4L-ez-bFE"; */
+"I4L-ez-bFE.title" = "左上へスナップ";
+
+/* Class = "NSTextFieldCell"; title = "Border-width:"; ObjectID = "i9M-4u-zTm"; */
+"i9M-4u-zTm.title" = "ボーダーの幅：";
+
+/* Class = "NSButtonCell"; title = "Delay Mission Control when dragging windows to the top."; ObjectID = "iK0-Gs-11H"; */
+"iK0-Gs-11H.title" = "ウィンドウを一番上にドラッグすると、ミッションコントロールを遅らせる";
+
+/* Class = "NSTextFieldCell"; title = "Window Snapping Process Timeout"; ObjectID = "INY-y6-1Sh"; */
+"INY-y6-1Sh.title" = "ウィンドウスナッププロセスのタイムアウト";
+
+/* Class = "NSTextFieldCell"; title = "Move window under cursor if those keys are pressed while you move the cursor:"; ObjectID = "jHR-c8-dsH"; */
+"jHR-c8-dsH.title" = "カーソルを移動しているときにこれらのキーを押すと、ウィンドウをカーソルの下に移動します：";
+
+/* Class = "NSButtonCell"; title = "Top edge: maximize"; ObjectID = "JJM-CI-u6Q"; */
+"JJM-CI-u6Q.title" = "上の端：最大にする";
+
+/* Class = "NSTextFieldCell"; title = "Border-color:"; ObjectID = "jmU-UU-nqa"; */
+"jmU-UU-nqa.title" = "ボーダーの色：";
+
+/* Class = "NSTextFieldCell"; title = "Advanced settings:"; ObjectID = "juv-cg-rES"; */
+"juv-cg-rES.title" = "高度設定：";
+
+/* Class = "NSButtonCell"; title = "⌘ (cmd)"; ObjectID = "jvu-ze-kRB"; */
+"jvu-ze-kRB.title" = "⌘ (cmd)";
+
+/* Class = "NSTextFieldCell"; title = "Select which window should be used for the predefined window moving features (except for start/stop moving and resizing they always use the window under the cursor)"; ObjectID = "JYd-xU-dD4"; */
+"JYd-xU-dD4.title" = "定義済みのウィンドウ移動機能に使用するウィンドウを選択します（移動の開始/停止とサイズ変更を除き、常にカーソルの下のウィンドウを使用します）";
+
+/* Class = "NSButtonCell"; title = "Snap to right"; ObjectID = "jYk-Jn-inF"; */
+"jYk-Jn-inF.title" = "右へスナップ";
+
+/* Class = "NSTextFieldCell"; title = "3.) paste the line above into the terminal app"; ObjectID = "jYQ-S2-LMb"; */
+"jYQ-S2-LMb.title" = "3.）端末アプリに上記のラインを貼り付ける";
+
+/* Class = "NSTextFieldCell"; title = "40"; ObjectID = "KNE-1O-VwW"; */
+"KNE-1O-VwW.title" = "40";
+
+/* Class = "NSTextFieldCell"; title = "Left width:"; ObjectID = "kYL-hd-EYf"; */
+"kYL-hd-EYf.title" = "左幅：";
+
+/* Class = "NSTextFieldCell"; title = "Resize windows:"; ObjectID = "lnZ-1z-8zU"; */
+"lnZ-1z-8zU.title" = "ウィンドウのサイズ変更：";
+
+/* Class = "NSButtonCell"; title = "fn"; ObjectID = "nao-ct-b5a"; */
+"nao-ct-b5a.title" = "fn";
+
+/* Class = "NSTextFieldCell"; title = "Pixel treshold before starting to move or resize:"; ObjectID = "nCO-SL-leT"; */
+"nCO-SL-leT.title" = "移動またはサイズ変更を開始する前のピクセルしきい値";
+
+/* Class = "NSTextFieldCell"; title = "1.) copy the complete line above"; ObjectID = "Nd9-QD-q1W"; */
+"Nd9-QD-q1W.title" = "1.）上記の行全体をコピーする";
+
+/* Class = "NSTextFieldCell"; title = "Corner recognition area:"; ObjectID = "nVp-6b-ARC"; */
+"nVp-6b-ARC.title" = "コーナー認識領域：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Top Left Quarter"; ObjectID = "o2z-xr-5YO"; */
+"o2z-xr-5YO.ibShadowedToolTip" = "左上4分の1";
+
+/* Class = "NSTextFieldCell"; title = "Resize window under cursor if those keys are pressed while you move the cursor:"; ObjectID = "oDR-SB-Tc5"; */
+"oDR-SB-Tc5.title" = "カーソルを移動しているときにこれらのキーを押すと、ウィンドウをカーソルの下のサイズに変更します：";
+
+/* Class = "NSButtonCell"; title = "If checked BetterTouchTool will use a bit more memory, but Snap Areas show up faster."; ObjectID = "oev-XL-dxq"; */
+"oev-XL-dxq.title" = "チェックした場合、BetterTouchToolは多少のメモリを使用しますが、スナップ領域はより速く現れます。";
+
+/* Class = "NSTabViewItem"; label = "Window Snapping"; ObjectID = "Oqp-Fv-BJr"; */
+"Oqp-Fv-BJr.label" = "ウィンドウスナップ";
+
+/* Class = "NSButtonCell"; title = "Delay before snapping:"; ObjectID = "p68-1q-L9e"; */
+"p68-1q-L9e.title" = "スナッピング前に遅らせる：";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "pR5-2j-SUD"; */
+"pR5-2j-SUD.title" = "1 px";
+
+/* Class = "NSTabViewItem"; label = "Snap Appearance"; ObjectID = "pRQ-LM-HMH"; */
+"pRQ-LM-HMH.label" = "スナップ外観";
+
+/* Class = "NSTextFieldCell"; title = "General Tips:"; ObjectID = "qb3-9C-MYT"; */
+"qb3-9C-MYT.title" = "一般的なヒント：";
+
+/* Class = "NSTextFieldCell"; title = "Increase snapping recognition areas by:"; ObjectID = "qd8-Qo-MHf"; */
+"qd8-Qo-MHf.title" = "スナップ認識領域を拡大します：";
+
+/* Class = "NSButtonCell"; title = "Using BetterTouchTool and Spaces / Mission Control at the same time?"; ObjectID = "QGo-Cj-FQB"; */
+"QGo-Cj-FQB.title" = "BetterTouchToolとスペース/ミッションコントロールを同時に使用しますか？";
+
+/* Class = "NSBox"; title = "This affects all predefined actions which do somehow change the window size or position"; ObjectID = "rJp-OZ-bmh"; */
+"rJp-OZ-bmh.title" = "これはウィンドウのサイズや位置を任意に変更するすべての定義済みのアクションに影響します";
+
+/* Class = "NSTextFieldCell"; title = "1 s"; ObjectID = "Rkt-24-k5V"; */
+"Rkt-24-k5V.title" = "1 s";
+
+/* Class = "NSButtonCell"; title = "Animated"; ObjectID = "RLv-m7-S9g"; */
+"RLv-m7-S9g.title" = "アニメーション";
+
+/* Class = "NSTextFieldCell"; title = "Tip: don't miss the opacity slider when setting custom colors!"; ObjectID = "RnV-it-89h"; */
+"RnV-it-89h.title" = "ヒント：カスタムカラーを設定するときに不透明度スライダを見逃さないでください。";
+
+/* Class = "NSButtonCell"; title = "Delay Mission Control when dragging windows to the top."; ObjectID = "RqX-wz-IVt"; */
+"RqX-wz-IVt.title" = "ウィンドウを一番上にドラッグするときに、ミッションコントロールを遅らせる";
+
+/* Class = "NSButtonCell"; title = "⌥ (opt)"; ObjectID = "Ryb-b2-hro"; */
+"Ryb-b2-hro.title" = "⌥ (opt)";
+
+/* Class = "NSTextFieldCell"; title = "Advanced: While using predefined actions start/stop moving:"; ObjectID = "s2q-mj-Zgg"; */
+"s2q-mj-Zgg.title" = "高度：定義済みのアクションを使用している間、移動を開始/停止します：";
+
+/* Class = "NSBox"; title = "Window moving & resizing"; ObjectID = "S6q-aq-hRy"; */
+"S6q-aq-hRy.title" = "ウィンドウの移動＆サイズ変更";
+
+/* Class = "NSButtonCell"; title = "Only increase if more than one monitor is connected"; ObjectID = "S7L-Ho-clo"; */
+"S7L-Ho-clo.title" = "複数のモニターが接続されている場合にのみ増加";
+
+/* Class = "NSButtonCell"; title = "Don't restore old window size if alt/opt is pressed while dragging away"; ObjectID = "s8t-RU-img"; */
+"s8t-RU-img.title" = "ドラッグ中にAlt/Optが押された場合、古いウィンドウサイズを復元しない";
+
+/* Class = "NSButtonCell"; title = "Use rounded corners"; ObjectID = "Sdg-bo-VZd"; */
+"Sdg-bo-VZd.title" = "角を丸くする";
+
+/* Class = "NSButtonCell"; title = "No padding if you maximize a window"; ObjectID = "sdT-dB-Xg2"; */
+"sdT-dB-Xg2.title" = "ウィンドウを最大化しても余白なし";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "sg5-Qr-tTf"; */
+"sg5-Qr-tTf.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "Instructions: in order to snap a window to one of the above mentioned positions click on its titlebar and drag it to the screen's edges. As soon as the mouse cursor touches the corners or edges of the screen a graphic will show you how the window will be resized after you release the drag."; ObjectID = "Shb-co-XNB"; */
+"Shb-co-XNB.title" = "説明：上記の位置の1つにウィンドウを合わせるには、タイトルバーをクリックして画面の端にドラッグします。マウスカーソルが画面の隅や端に触れるとすぐに、ドラッグを解除した後のウィンドウのサイズ変更状況がグラフィックで示されます。";
+
+/* Class = "NSButtonCell"; title = "⇧(shift)"; ObjectID = "SmS-Kp-K7b"; */
+"SmS-Kp-K7b.title" = "⇧(shift)";
+
+/* Class = "NSTextFieldCell"; title = "For window moving and resizing with the magic mouse you can also use the gestures 2 and 3 finger touch top in combination with predefined actions start / stop moving and resizing."; ObjectID = "sN2-Jz-37D"; */
+"sN2-Jz-37D.title" = "Magic Mouseでウィンドウを移動したりサイズ変更したりする場合は、ジェスチャ2と3の指のタッチトップを、定義済みのアクションの開始と移動およびサイズ変更を組み合わせて使用することもできます。";
+
+/* Class = "NSTabViewItem"; label = "Moving & Resizing Modifier Keys"; ObjectID = "sya-lN-qIX"; */
+"sya-lN-qIX.label" = "修飾キーの移動とサイズ変更";
+
+/* Class = "NSButtonCell"; title = "Window under cursor"; ObjectID = "T6n-j4-NIT"; */
+"T6n-j4-NIT.title" = "カーソル下のウィンドウ";
+
+/* Class = "NSButtonCell"; title = "Snap to left"; ObjectID = "th8-PM-iiQ"; */
+"th8-PM-iiQ.title" = "左へスナップ";
+
+/* Class = "NSTextFieldCell"; title = "5.) the system will now wait 2 seconds before changing the space. If you want you can change the delay to other values by changing the value 2.0 in the line above to other values."; ObjectID = "Tin-Zi-fRM"; */
+"Tin-Zi-fRM.title" = "5.）システムはスペースを変更する前に2秒間待機します。必要に応じて、上記の値2.0を他の値に変更することで、遅延を変更できます。";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "tq4-nn-gYV"; */
+"tq4-nn-gYV.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "tUp-Qu-zl0"; */
+"tUp-Qu-zl0.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "Right width:"; ObjectID = "Tv2-Wa-FbR"; */
+"Tv2-Wa-FbR.title" = "右幅：";
+
+/* Class = "NSButtonCell"; title = "Corners: resize to quarters"; ObjectID = "uad-bp-eBe"; */
+"uad-bp-eBe.title" = "コーナー：4分の1にサイズ変更";
+
+/* Class = "NSButtonCell"; title = "⌃ (ctrl)"; ObjectID = "UL9-Pf-WRH"; */
+"UL9-Pf-WRH.title" = "⌃ (ctrl)";
+
+/* Class = "NSButtonCell"; title = "Move windows with min-sizes offscreen instead of overlapping them"; ObjectID = "UyN-uz-m0G"; */
+"UyN-uz-m0G.title" = "最小サイズのウィンドウを重ねずに画面外に移動する";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "Uyt-ZO-acg"; */
+"Uyt-ZO-acg.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "Radius:"; ObjectID = "V1L-SU-oPg"; */
+"V1L-SU-oPg.title" = "半径：";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "V8L-22-T7I"; */
+"V8L-22-T7I.title" = "時間：";
+
+/* Class = "NSTextFieldCell"; title = "Left width:"; ObjectID = "vjk-d7-KW0"; */
+"vjk-d7-KW0.title" = "左幅：";
+
+/* Class = "NSTextFieldCell"; title = "Appeareance of the preview overlay:"; ObjectID = "WdP-xB-SFy"; */
+"WdP-xB-SFy.title" = "プレビューオーバーレイの外観：";
+
+/* Class = "NSTextFieldCell"; title = "User-customizable Snap Areas are a new, advanced, feature in BetterTouchTool. It allows you to create additional areas that snap to a specific position & size if a window is dragged onto them. In order to create new  Snap Areas the BetterTouchTool menubar icon has to be visible."; ObjectID = "Wgu-Jx-FZ8"; */
+"Wgu-Jx-FZ8.title" = "ユーザーがカスタマイズできるスナップ領域は、BetterTouchToolの新しい高度な機能です。ウィンドウを上にドラッグすると、特定の位置とサイズに合わせてスナップする追加の領域を作成できます。新しいスナップ領域を作成するには、BetterTouchToolメニューバーアイコンを表示する必要があります。";
+
+/* Class = "NSButtonCell"; title = "Snap to bottom right"; ObjectID = "wlP-mf-IWX"; */
+"wlP-mf-IWX.title" = "右下へスナップ";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "wmG-Gn-TYS"; */
+"wmG-Gn-TYS.title" = "1 px";
+
+/* Class = "NSButtonCell"; title = "Disable the Snap Area feature (setting will become active after restarting BetterTouchTool)"; ObjectID = "XDI-2H-X2O"; */
+"XDI-2H-X2O.title" = "スナップ領域機能を無効にする（設定はBetterTouchToolを再起動した後に有効になります）";
+
+/* Class = "NSButtonCell"; title = "⌥ (opt)"; ObjectID = "xdT-dS-ZPE"; */
+"xdT-dS-ZPE.title" = "⌥ (opt)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Top Right Quarter"; ObjectID = "xgr-kl-BZf"; */
+"xgr-kl-BZf.ibShadowedToolTip" = "右上4分の1";
+
+/* Class = "NSTextFieldCell"; title = "HINT:"; ObjectID = "xpG-tR-gim"; */
+"xpG-tR-gim.title" = "ヒント：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Bottom Left Quarter"; ObjectID = "XqW-NA-5nH"; */
+"XqW-NA-5nH.ibShadowedToolTip" = "左下1/4";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "Y6U-uq-7af"; */
+"Y6U-uq-7af.title" = "1 px";
+
+/* Class = "NSViewController"; title = "Window Snapping"; ObjectID = "y41-Kz-58d"; */
+"y41-Kz-58d.title" = "ウィンドウスナップ";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "zLU-vv-Wqw"; */
+"zLU-vv-Wqw.title" = "1 px";
+
+/* Class = "NSButtonCell"; title = "Restore old window size if window is dragged away again"; ObjectID = "zro-BU-pE5"; */
+"zro-BU-pE5.title" = "ウィンドウが再びドラッグされた場合、古いウィンドウサイズに戻す";
+
+/* Class = "NSTabViewItem"; label = "Snap Areas"; ObjectID = "zT7-m5-veI"; */
+"zT7-m5-veI.label" = "スナップ領域";
+
+/* Class = "NSTextFieldCell"; title = "4.) hit enter"; ObjectID = "ZT7-SJ-uwS"; */
+"ZT7-SJ-uwS.title" = "4.）Enterキーを押す";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Bottom Right Quarter"; ObjectID = "ZWc-Et-9Ab"; */
+"ZWc-Et-9Ab.ibShadowedToolTip" = "右下1/4";
+
+/* Class = "NSButtonCell"; title = "Left edge: resize to left half"; ObjectID = "zXa-xj-5Pp"; */
+"zXa-xj-5Pp.title" = "左端：左半分にサイズ変更";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "zYM-ql-zTV"; */
+"zYM-ql-zTV.title" = "1 px";
+
+/* Class = "NSButtonCell"; title = "Reset all Snap Areas"; ObjectID = "zZH-NW-CMo"; */
+"zZH-NW-CMo.title" = "すべてのスナップ領域をリセットする";
+

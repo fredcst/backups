@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "Secure input is a macOS security feature which can be enabled & disabled by any app. Usually this is used while password fields are active in order to prevent other apps from logging sensitive data. If secure input is enabled, BetterTouchTool can not track the keyboard events using the new implementation. \nUnfortunately there are some apps that don't disable secure keyboard input and keep it always on. If you have this option enabled, BetterTouchTool will automatically switch to the old keyboard shortcut implementation if secure input is active. However the advanced features (see above) won't work in that case."; ObjectID = "8N9-oS-0Gp"; */
+"8N9-oS-0Gp.title" = "安全输入是一项 macOS 安全功能，可在任何应用中启用和停用。此功能通常是在密码字段处于活跃状态时使用的，以防其他应用记录敏感数据。如果已启用安全输入，BetterTouchTool 无法使用新的实现追踪键盘事件。 \n很遗憾，有些应用不会禁用安全键盘输入，而是会始终开启。如果您启用了此选项，当安全输入已激活时，BetterTouchTool 将会自动切换至旧的键盘快捷键实现。但是，这种情况下无法使用高级功能（见上方）。";
+
+/* Class = "NSTextFieldCell"; title = "In BetterTouchTool 2.400 the keyboard shortcut implementation has completely been rewritten. It is more powerful now (e.g. allows function keys and can differentiate between left/right modifiers). However for some specific use cases the old implementation may work better. If you enable this, the new advanced features won't work and you will get the old keyboard implementation that has been used in BTT for quite a while. The new implementation also doesn't work while secure input is enabled (see description below)"; ObjectID = "b56-6W-cnP"; */
+"b56-6W-cnP.title" = "在 BetterTouchTool 2.400 中，键盘快捷键的实现已经彻底重写。现在功能更强大（例如允许使用功能键，可区分左侧/右侧修饰键）。不过在某些特定的使用案例中，旧实现可能效果更好。如果启用此项，而新的高级功能不起作用，则您将获得 BTT 中已经使用较长时间的旧键盘实现。当启用了安全输入时新实现也不起作用（见下方描述）";
+
+/* Class = "NSButtonCell"; title = "Always use old keyboard shortcut implementation"; ObjectID = "jPi-1K-IQP"; */
+"jPi-1K-IQP.title" = "始终使用旧键盘快捷键实现";
+
+/* Class = "NSButtonCell"; title = "Automatically switch to old keyboard implementation if secure input is enabled"; ObjectID = "Nel-I7-7tk"; */
+"Nel-I7-7tk.title" = "如果已启用安全输入则自动切换至旧的键盘实现";
+
+/* Class = "NSBox"; title = "Keyboard Shortcut & Secure Input Handling"; ObjectID = "SkD-rz-dHe"; */
+"SkD-rz-dHe.title" = "键盘快捷键和安全输入处理";
+
+/* Class = "NSTextFieldCell"; title = "Secure Input Information:"; ObjectID = "wIG-kq-gTU"; */
+"wIG-kq-gTU.title" = "安全输入信息：";
+

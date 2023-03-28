@@ -1,0 +1,114 @@
+/* Class = "NSMenuItem"; title = "German"; ObjectID = "6Tj-tf-ZrU"; */
+"6Tj-tf-ZrU.title" = "Deutsch";
+
+/* Class = "NSTextFieldCell"; title = "Changes require restart:"; ObjectID = "87N-Ps-bda"; */
+"87N-Ps-bda.title" = "Änderungen nach Neustart aktiv:";
+
+/* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "BPH-ba-DPy"; */
+"BPH-ba-DPy.title" = "Japanisch";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "btj-QY-Ycb"; */
+"btj-QY-Ycb.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "German"; ObjectID = "cGw-vx-nMI"; */
+"cGw-vx-nMI.title" = "Deutsch";
+
+/* Class = "NSTextFieldCell"; title = "This slider will change the settings you made in the advanced preferences!"; ObjectID = "d5d-bG-IBm"; */
+"d5d-bG-IBm.title" = "Dies kann Einstellungen aus anderen Bereichen überschreiben!";
+
+/* Class = "NSTextFieldCell"; title = "Set trackpad speed"; ObjectID = "dbb-Ch-N6R"; */
+"dbb-Ch-N6R.title" = "Trackpad Geschwindigkeit";
+
+/* Class = "NSBox"; title = "Language & Region"; ObjectID = "DfH-0J-jwB"; */
+"DfH-0J-jwB.title" = "Sprache & Region";
+
+/* Class = "NSMenuItem"; title = "System Language (if available)"; ObjectID = "eA3-on-mh4"; */
+"eA3-on-mh4.title" = "Systemsprache (wenn verfügbar)";
+
+/* Class = "NSButtonCell"; title = "Allow crash log and anonymized usage data collection"; ObjectID = "eDx-dP-0hP"; */
+"eDx-dP-0hP.title" = "Sammeln von Crash-Logs und anonymisierten Nutzungsdaten erlauben.";
+
+/* Class = "NSButtonCell"; title = "Enable window snapping"; ObjectID = "eT6-fa-SYl"; */
+"eT6-fa-SYl.title" = "Fenster-Snapping aktivieren";
+
+/* Class = "NSTextFieldCell"; title = "Set mouse speed"; ObjectID = "fQB-RP-WlU"; */
+"fQB-RP-WlU.title" = "Mausgeschwindigkeit";
+
+/* Class = "NSTextFieldCell"; title = "Easier to trigger"; ObjectID = "gNW-nd-bZr"; */
+"gNW-nd-bZr.title" = "Einfacher auszulösen";
+
+/* Class = "NSButtonCell"; title = "Launch BetterTouchTool on startup"; ObjectID = "GpP-0D-CjM"; */
+"GpP-0D-CjM.title" = "Automatisch nach dem Hochfahren starten";
+
+/* Class = "NSTextFieldCell"; title = "Language:"; ObjectID = "gVZ-6a-eSR"; */
+"gVZ-6a-eSR.title" = "Sprache:";
+
+/* Class = "NSTextFieldCell"; title = "Harder to trigger"; ObjectID = "hb4-K6-qA0"; */
+"hb4-K6-qA0.title" = "Schwerer auszulösen";
+
+/* Class = "NSTextFieldCell"; title = "Easier to trigger"; ObjectID = "hpx-1f-STU"; */
+"hpx-1f-STU.title" = "Einfacher zu auszulösen";
+
+/* Class = "NSButtonCell"; title = "Enable automatic update checking"; ObjectID = "hPy-IJ-NNa"; */
+"hPy-IJ-NNa.title" = "Automatisch nach Updates suchen";
+
+/* Class = "NSTextFieldCell"; title = "Force Touch sensitivity & feedback can be changed in the Advanced Trackpad Settings."; ObjectID = "ifc-g5-gtk"; */
+"ifc-g5-gtk.title" = "Die Force Touch Sensitivität & Haptik können in den Erweiterten Einstellungen geändert werden.";
+
+/* Class = "NSButtonCell"; title = "Restart BTT"; ObjectID = "KRU-0j-h2K"; */
+"KRU-0j-h2K.title" = "BTT neustarten";
+
+/* Class = "NSBox"; title = "Magic Mouse"; ObjectID = "MYe-vE-9Ov"; */
+"MYe-vE-9Ov.title" = "Magic Mouse";
+
+/* Class = "NSTextFieldCell"; title = "Gesture sensitivity: "; ObjectID = "ogj-lo-LCC"; */
+"ogj-lo-LCC.title" = "Sensitivität der Gesten:";
+
+/* Class = "NSMenuItem"; title = "Korean"; ObjectID = "on6-NL-zT9"; */
+"on6-NL-zT9.title" = "Koreanisch";
+
+/* Class = "NSMenuItem"; title = "English"; ObjectID = "rlf-qf-P6w"; */
+"rlf-qf-P6w.title" = "Englisch";
+
+/* Class = "NSTextFieldCell"; title = "This slider will change the settings you made in the advanced preferences!"; ObjectID = "SaS-pd-PDt"; */
+"SaS-pd-PDt.title" = "Dies kann Einstellungen aus anderen Bereichen überschreiben!";
+
+/* Class = "NSTextFieldCell"; title = "Gesture sensitivity:"; ObjectID = "SaW-fu-jwi"; */
+"SaW-fu-jwi.title" = "Sensitivität der Gesten:";
+
+/* Class = "NSMenuItem"; title = "Chinese"; ObjectID = "sQV-6v-JxJ"; */
+"sQV-6v-JxJ.title" = "Chinesisch";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "TaB-pO-h3F"; */
+"TaB-pO-h3F.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "English"; ObjectID = "tOt-Nn-hYZ"; */
+"tOt-Nn-hYZ.title" = "Englisch";
+
+/* Class = "NSButtonCell"; title = "Silently download & install updates on restart"; ObjectID = "U1X-1c-hp2"; */
+"U1X-1c-hp2.title" = "Updates automatisch herunterladen und beim nächsten Start installieren";
+
+/* Class = "NSBox"; title = "General"; ObjectID = "uld-Yf-2GG"; */
+"uld-Yf-2GG.title" = "Allgemein";
+
+/* Class = "NSTextFieldCell"; title = "Even if disabled, BTT will regulary check for security relevant updates!"; ObjectID = "UrB-eN-TXu"; */
+"UrB-eN-TXu.title" = "- BTT wird trotzdem hin und wieder auf sicherheitsrelevante Updates prüfen!";
+
+/* Class = "NSMenuItem"; title = "French"; ObjectID = "vco-oI-MG3"; */
+"vco-oI-MG3.title" = "Französisch";
+
+/* Class = "NSMenuItem"; title = "Spanish"; ObjectID = "vyC-yx-bJv"; */
+"vyC-yx-bJv.title" = "Spanisch";
+
+/* Class = "NSBox"; title = "Window Snapping"; ObjectID = "w3x-H2-6lh"; */
+"w3x-H2-6lh.title" = "Fenster Snapping";
+
+/* Class = "NSTextFieldCell"; title = "Harder to trigger"; ObjectID = "XIY-74-n7s"; */
+"XIY-74-n7s.title" = "Schwerer auszulösen";
+
+/* Class = "NSTextFieldCell"; title = "Region Settings"; ObjectID = "YQj-Cp-Dft"; */
+"YQj-Cp-Dft.title" = "Regions Einstellungen";
+
+/* Class = "NSBox"; title = "Trackpad & Magic Trackpad"; ObjectID = "Z6s-Xw-Yr2"; */
+"Z6s-Xw-Yr2.title" = "Trackpad & Magic Trackpad";
+

@@ -1,0 +1,258 @@
+/* Class = "NSMenuItem"; title = "Very Light Feedback"; ObjectID = "0Pa-9E-fIa"; */
+"0Pa-9E-fIa.title" = "Sehr leichte Vibration";
+
+/* Class = "NSMenuItem"; title = "BTT Default Normal Click"; ObjectID = "0yi-Zz-PFm"; */
+"0yi-Zz-PFm.title" = "BTT Standard Klick";
+
+/* Class = "NSMenuItem"; title = "Super Strong Feedback"; ObjectID = "1B3-oG-jKg"; */
+"1B3-oG-jKg.title" = "Sehr Starke Vibration";
+
+/* Class = "NSMenuItem"; title = "Custom (NOT AVAILABLE YET)"; ObjectID = "1ZQ-fE-XCn"; */
+"1ZQ-fE-XCn.title" = "Benutzerdefiniert (Derzeit nicht verfügbar)";
+
+/* Class = "NSMenuItem"; title = "Strong Feedback"; ObjectID = "2ye-UG-ExX"; */
+"2ye-UG-ExX.title" = "Starke Vibration";
+
+/* Class = "NSButtonCell"; title = "⌘ (cmd)"; ObjectID = "5u9-uv-0p6"; */
+"5u9-uv-0p6.title" = "⌘ (cmd)";
+
+/* Class = "NSMenuItem"; title = "New BTT Default Normal Click"; ObjectID = "6IK-u5-ysR"; */
+"6IK-u5-ysR.title" = "Neuer BTT Standard Klick";
+
+/* Class = "NSMenuItem"; title = "Light Then Strong Feedback"; ObjectID = "6s0-hC-oLG"; */
+"6s0-hC-oLG.title" = "Leichte, dann stärkere Vibration";
+
+/* Class = "NSMenuItem"; title = "BTT Default Click Release"; ObjectID = "8WP-80-vAK"; */
+"8WP-80-vAK.title" = "BTT Standard Klick \"Loslassen\"";
+
+/* Class = "NSMenuItem"; title = "New BTT Default ForceClick"; ObjectID = "9dD-TX-kqD"; */
+"9dD-TX-kqD.title" = "Neuer BTT Standard Force Klick";
+
+/* Class = "NSButtonCell"; title = "Use haptic feedback globally for all touches on the system Touch Bar"; ObjectID = "11D-gn-XDN"; */
+"11D-gn-XDN.title" = "Haptisches Feedback für alle Berührungen nutzen (auch System Touch Bar)";
+
+/* Class = "NSTextFieldCell"; title = "On Trigger:"; ObjectID = "12M-Ss-De6"; */
+"12M-Ss-De6.title" = "Beim Triggern:";
+
+/* Class = "NSMenuItem"; title = "BTT Default ForceClick"; ObjectID = "20h-2M-Ahc"; */
+"20h-2M-Ahc.title" = "Neuer BTT Standard Force Klick";
+
+/* Class = "NSButtonCell"; title = "⌃ (ctrl)"; ObjectID = "21g-iN-NJK"; */
+"21g-iN-NJK.title" = "⌃ (ctrl)";
+
+/* Class = "NSMenuItem"; title = "BTT SILENT Normal Click"; ObjectID = "22f-4M-X7e"; */
+"22f-4M-X7e.title" = "BTT Lautloser Standard Klick";
+
+/* Class = "NSTextFieldCell"; title = "After sleep, wait before reinitializing Touch Bar:"; ObjectID = "22W-gJ-wLx"; */
+"22W-gJ-wLx.title" = "Nach Standby, warten bevor Touch Bar initialisiert wird:";
+
+/* Class = "NSButtonCell"; title = "Show BetterTouchTool Icon on the left side (only if not showing macOS Control Strip)"; ObjectID = "124-kQ-BaF"; */
+"124-kQ-BaF.title" = "Zeige BTT Icon auf der linken Seite (nur wenn macOS Control Strip versteckt)";
+
+/* Class = "NSMenuItem"; title = "Strong Feedback"; ObjectID = "A3Z-v4-Ulv"; */
+"A3Z-v4-Ulv.title" = "Starke Vibration";
+
+/* Class = "NSTextFieldCell"; title = "This is very experimental and will be improved. You need to move your mouse to the very bottom of the screen, then\na yellow dot will appear on your Touch Bar. It works best if the Dock is on the bottom edge of the screen."; ObjectID = "aD2-PB-PeC"; */
+"aD2-PB-PeC.title" = "Das ist recht experimentell und wird sich in Zukunft weiter verbessern. Bewege deinen Mauscursor an die untere Bildschirmkante, dann erscheint ein gelber Cursor auf der Touch Bar. Funktioniert am besten wenn das macOS Dock unten positioniert ist.";
+
+/* Class = "NSTabViewItem"; label = "Default Settings"; ObjectID = "AEZ-Bu-TYP"; */
+"AEZ-Bu-TYP.label" = "Standard Einstellungen";
+
+/* Class = "NSMenuItem"; title = "BTT SILENT Normal Click"; ObjectID = "ARj-wF-7d1"; */
+"ARj-wF-7d1.title" = "BTT SILENT Standard Klick";
+
+/* Class = "NSButtonCell"; title = "Hide icon from Control Strip if BTT Touch Bar is open and macOS Control Strip is visible"; ObjectID = "b50-TU-JoF"; */
+"b50-TU-JoF.title" = "Verstecke Icon in Control Strip wenn die BTT Touch Bar offen ist und der macOS Control Strip sichtbar";
+
+/* Class = "NSButtonCell"; title = "Actively block clicks on the bottom edge of the screen (recommended)"; ObjectID = "bak-9v-aXE"; */
+"bak-9v-aXE.title" = "Blockiere Klicks an der unteren Kante des Bildschirms (empfohlen)";
+
+/* Class = "NSTextFieldCell"; title = "Some tips:"; ObjectID = "can-st-0U5"; */
+"can-st-0U5.title" = "Ein paar Tipps:";
+
+/* Class = "NSMenuItem"; title = "New BTT SILENT ForceClick"; ObjectID = "cTA-UO-OTn"; */
+"cTA-UO-OTn.title" = "BTT Lautloser Force Klick";
+
+/* Class = "NSMenuItem"; title = "New BTT Default ForceClick"; ObjectID = "DBd-lI-rn1"; */
+"DBd-lI-rn1.title" = "Neuer BTT Standard Force Klick";
+
+/* Class = "NSTextFieldCell"; title = "You can set a display order for every trigger. This allows you to specify whether global triggers should show before or after app specific ones."; ObjectID = "dBx-Ng-gZC"; */
+"dBx-Ng-gZC.title" = "Du kannst eine Displayreihenfolge für jeden Trigger setzen, damit kann z.B. bestimmt werden ob Globale Trigger am Vorne oder am Hinten angezeigt werden.";
+
+/* Class = "NSMenuItem"; title = "Double Strong Feedback"; ObjectID = "dPX-nR-dQJ"; */
+"dPX-nR-dQJ.title" = "Doppelte Starke Vibration";
+
+/* Class = "NSMenuItem"; title = "Light Feedback"; ObjectID = "DR9-hE-Mhs"; */
+"DR9-hE-Mhs.title" = "Leichte Vibration";
+
+/* Class = "NSButtonCell"; title = "fn"; ObjectID = "DUV-ZV-5c3"; */
+"DUV-ZV-5c3.title" = "fn";
+
+/* Class = "NSMenuItem"; title = "Spring Strong Feedback"; ObjectID = "Duy-6o-GJI"; */
+"Duy-6o-GJI.title" = "Starke Vibration wie Springfeder";
+
+/* Class = "NSMenuItem"; title = "Double Light Feedback"; ObjectID = "EjS-3w-ts6"; */
+"EjS-3w-ts6.title" = "Doppeltes leichtes Vibrieren";
+
+/* Class = "NSButtonCell"; title = "Hide BetterTouchTool Touch Bar if nothing to show (no actions configured)"; ObjectID = "eMX-ag-YXD"; */
+"eMX-ag-YXD.title" = "Verstecke BetterTouchTool Touch Bar wenn es nichts anzuzeigen gibt.";
+
+/* Class = "NSMenuItem"; title = "Light 2 Feedback"; ObjectID = "EXu-yl-GcL"; */
+"EXu-yl-GcL.title" = "Leichte Vibration (2)";
+
+/* Class = "NSTextFieldCell"; title = "Only accept normal clicks if these are pressed:"; ObjectID = "EZb-r5-Zuq"; */
+"EZb-r5-Zuq.title" = "Klicks nur akzeptieren wenn diese Tasten gedrückt:";
+
+/* Class = "NSButtonCell"; title = "⌥ (opt)"; ObjectID = "f9U-3d-JmB"; */
+"f9U-3d-JmB.title" = "⌥ (opt)";
+
+/* Class = "NSButtonCell"; title = "Use Mono Spaced Font"; ObjectID = "fdZ-Kd-XbN"; */
+"fdZ-Kd-XbN.title" = "Monospace Schrift verwenden";
+
+/* Class = "NSTextFieldCell"; title = "On Touch:"; ObjectID = "FQM-AP-LLy"; */
+"FQM-AP-LLy.title" = "Bei Berührung:";
+
+/* Class = "NSMenuItem"; title = "No Feedback"; ObjectID = "GKS-HW-Ywy"; */
+"GKS-HW-Ywy.title" = "Kein haptisches Feedback";
+
+/* Class = "NSMenuItem"; title = "Spring Strong Feedback"; ObjectID = "Gqp-ng-8C3"; */
+"Gqp-ng-8C3.title" = "Starke Vibration wie Springfeder";
+
+/* Class = "NSMenuItem"; title = "BTT Default ForceClick"; ObjectID = "GUf-XO-ev6"; */
+"GUf-XO-ev6.title" = "BTT Standard Force Klick";
+
+/* Class = "NSButtonCell"; title = "Click requires Force Touch (1 Finger Force Click on Trackpad)"; ObjectID = "GyY-tx-Reb"; */
+"GyY-tx-Reb.title" = "Klicks nur bei Force Klick ausführen (1 Finger Force Klick auf Trackpad)";
+
+/* Class = "NSMenuItem"; title = "Very Light Feedback"; ObjectID = "hd9-Jw-EeA"; */
+"hd9-Jw-EeA.title" = "Sehr leichte Vibration";
+
+/* Class = "NSMenuItem"; title = "New BTT Default Click Release"; ObjectID = "HIA-El-odB"; */
+"HIA-El-odB.title" = "Neues BTT Standard Klick \"Loslassen\"";
+
+/* Class = "NSMenuItem"; title = "Double Light Feedback"; ObjectID = "hLj-do-Kce"; */
+"hLj-do-Kce.title" = "Doppeltes leichtes Vibrieren";
+
+/* Class = "NSMenuItem"; title = "Super Strong Feedback"; ObjectID = "HxU-sp-88y"; */
+"HxU-sp-88y.title" = "Sehr Starke Vibration";
+
+/* Class = "NSButtonCell"; title = "Hide global actions if app specific actions are configured in BTT"; ObjectID = "hYD-Qd-Qxz"; */
+"hYD-Qd-Qxz.title" = "Verstecke globale Touch Bar Trigger wenn app-spezifische in BTT konfiguriert sind.";
+
+/* Class = "NSTextFieldCell"; title = "🔶 To completely disable the system Touch Bar uncheck \"Show macOS Control Strip\" on the top. Then only the BTT Touch Bar will be shown. This will also get rid of the \"X button\" on the left side of the Touch Bar.\n\n🔶 You can easily show/hide the BTT Touch Bar using the predefined action \"Toggle BetterTouchTool Touch Bar\"\n\n🔶 You can decide per-app whether you want the BTT TouchBar to show up. This can be done by clicking on an app in the left side-bar in the BTT Preferences.\n\n🔶 Users have shared great Touch Bar presets on https://community.folivora.ai, you should definitely check them out!"; ObjectID = "itj-0a-H0r"; */
+"itj-0a-H0r.title" = "🔶 Um die System Touch Bar komplett zu deaktivieren musst du die Option \"Zeige macOS Control Strip\" abwählen. Damit wirst du auch den X button auf der linken Seite der Touch Bar los\n\n🔶Du kannst die BTT Touch Bar einfach ein und ausblenden indem du die vordefinierte \"BetterTouchTool Touch Bar an/aus\" Aktion benutzt.\n\n🔶 Wenn du für bestimmte Apps die original Touch Bar bevorzugst, kannst du die verschiedenen Touch Bar Anzeigeoptionen in BTT nutzen. Diese werden nach einem Klick auf eine der Apps in der Seitenleiste links angezeigt.\n\n🔶 Nutzer haben wirklich tolle Presets für BetterTouchTool erstellt & geteilt. Schaue dir auf jeden Fall mal https://community.folivora.ai an!";
+
+/* Class = "NSMenuItem"; title = "Triple Strong Feedback"; ObjectID = "jd8-qW-d61"; */
+"jd8-qW-d61.title" = "Dreifache starke Vibration";
+
+/* Class = "NSMenuItem"; title = "New BTT SILENT ForceClick"; ObjectID = "jNg-Zv-vj0"; */
+"jNg-Zv-vj0.title" = "BTT Lautloser Force Klick";
+
+/* Class = "NSMenuItem"; title = "BTT SILENT ForceClick"; ObjectID = "jp5-Mb-Gzy"; */
+"jp5-Mb-Gzy.title" = "BTT Lautloser Force Klick";
+
+/* Class = "NSMenuItem"; title = "New BTT SILENT Normal Click"; ObjectID = "JPO-Qk-52Q"; */
+"JPO-Qk-52Q.title" = "BTT Neuer Lautloser Standard Klick";
+
+/* Class = "NSButtonCell"; title = "Enable Touch Bar support (disabling requires you to restart BTT)"; ObjectID = "l4u-id-x98"; */
+"l4u-id-x98.title" = "Aktiviere Touch Bar Support (Erfordert BTT Neustart)";
+
+/* Class = "NSTextFieldCell"; title = "Control Touch Bar with Mouse (Very Experimental)"; ObjectID = "Le3-Fj-Llb"; */
+"Le3-Fj-Llb.title" = "Touch Bar mit Maus steuern (Experimentell)";
+
+/* Class = "NSButtonCell"; title = "Keep aspect ratio when resizing Touch Bar icons"; ObjectID = "LSf-oD-1re"; */
+"LSf-oD-1re.title" = "Seitenverhältnis von Touch Bar icons beibehalten";
+
+/* Class = "NSTextFieldCell"; title = "Free space after ESC button:"; ObjectID = "Mb1-59-JGg"; */
+"Mb1-59-JGg.title" = "Freier Bereich nach ESC Button";
+
+/* Class = "NSButtonCell"; title = "Enable Touch Bar Control by Mouse"; ObjectID = "Nvf-uL-1xs"; */
+"Nvf-uL-1xs.title" = "Touch Bar Maussteuerung aktivieren";
+
+/* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "OGO-Z7-n5G"; */
+"OGO-Z7-n5G.title" = "Darstellung:";
+
+/* Class = "NSTextFieldCell"; title = "Default Haptic Feedback (on trackpad) when pressing a BTT Touch Bar button:"; ObjectID = "OI7-ff-7bF"; */
+"OI7-ff-7bF.title" = "Standard Haptisches Feedback beim Drücken von BTT Touch Bar buttons:";
+
+/* Class = "NSButtonCell"; title = "⇧(shift)"; ObjectID = "ouT-bn-I4y"; */
+"ouT-bn-I4y.title" = "⇧(shift)";
+
+/* Class = "NSButtonCell"; title = "Show BetterTouchTool Icon in Control Strip"; ObjectID = "PVM-GC-LNB"; */
+"PVM-GC-LNB.title" = "Zeige BTT Icon in Control Strip";
+
+/* Class = "NSMenuItem"; title = "Triple Light Feedback"; ObjectID = "PWC-vf-PbM"; */
+"PWC-vf-PbM.title" = "Dreifache leichte Vibration";
+
+/* Class = "NSMenuItem"; title = "BTT SILENT ForceClick"; ObjectID = "q2X-N4-X3l"; */
+"q2X-N4-X3l.title" = "BTT Lautloser Force Klick";
+
+/* Class = "NSMenuItem"; title = "Spring Light Feedback"; ObjectID = "QC9-5D-Rbg"; */
+"QC9-5D-Rbg.title" = "Leichte Vibration wie Springfeder";
+
+/* Class = "NSMenuItem"; title = "Light Feedback"; ObjectID = "Qh1-uA-dru"; */
+"Qh1-uA-dru.title" = "Leichte Vibration";
+
+/* Class = "NSMenuItem"; title = "Light 2 Feedback"; ObjectID = "qqU-TB-mKA"; */
+"qqU-TB-mKA.title" = "Leichte Vibration 2";
+
+/* Class = "NSMenuItem"; title = "Triple Light Feedback"; ObjectID = "qul-sd-0vx"; */
+"qul-sd-0vx.title" = "Dreifache leichte Vibration";
+
+/* Class = "NSMenuItem"; title = "Spring Light Feedback"; ObjectID = "qxT-jf-gmh"; */
+"qxT-jf-gmh.title" = "Leichte Vibration wie Springfeder";
+
+/* Class = "NSMenuItem"; title = "New BTT Default Click Release"; ObjectID = "rkU-UK-oXb"; */
+"rkU-UK-oXb.title" = "Neues BTT Standard Klick \"Loslassen\"";
+
+/* Class = "NSMenuItem"; title = "Double Strong Feedback"; ObjectID = "RQQ-hp-2WN"; */
+"RQQ-hp-2WN.title" = "Doppeltes starkes Vibrieren";
+
+/* Class = "NSButtonCell"; title = "Show macOS Control Strip (If enabled the Touch Bar will also show a X button on the left)"; ObjectID = "rZy-sI-dom"; */
+"rZy-sI-dom.title" = "Zeige macOS Control Strip (Wenn aktiv, fügt das macOS leider automatisch ein X links ein)";
+
+/* Class = "NSMenuItem"; title = "New BTT Default Normal Click"; ObjectID = "sMg-gc-z4R"; */
+"sMg-gc-z4R.title" = "Neuer BTT Standard Klick";
+
+/* Class = "NSTextFieldCell"; title = "Default Font Size:"; ObjectID = "Stc-Uy-efm"; */
+"Stc-Uy-efm.title" = "Standard Schriftgröße:";
+
+/* Class = "NSMenuItem"; title = "Light Then Strong Feedback"; ObjectID = "TID-QU-jqJ"; */
+"TID-QU-jqJ.title" = "Leichte, dann stärkere Vibration";
+
+/* Class = "NSMenuItem"; title = "Custom (NOT AVAILABLE YET)"; ObjectID = "tWW-u0-Cor"; */
+"tWW-u0-Cor.title" = "Benutzerdefiniert (Derzeit nicht verfügbar)";
+
+/* Class = "NSMenuItem"; title = "Triple Strong Feedback"; ObjectID = "U3e-yR-Lba"; */
+"U3e-yR-Lba.title" = "Dreifache starke Vibration";
+
+/* Class = "NSButtonCell"; title = "Allow keyboard modifier keys to restore a hidden Touch Bar while they are pressed."; ObjectID = "vSb-p8-1ic"; */
+"vSb-p8-1ic.title" = "Zusatztasten dürfen die Touch Bar sichtbar machen wenn sie gerade versteckt ist.";
+
+/* Class = "NSTextFieldCell"; title = "This allows you to have app-default Touch Bars, but show the BTT Touch Bar for configured modifier keys like CMD or CTRL. "; ObjectID = "vxR-vd-tz3"; */
+"vxR-vd-tz3.title" = "Damit wird es möglich die standard Touch Bars der Apps zu nutzen, aber die BTT Touch Bar beim Drücken von Zusatztasten wie CMD oder STRG zu zeigen.";
+
+/* Class = "NSButtonCell"; title = "Show ESC Button on the left side of the Touch Bar"; ObjectID = "X0f-Ju-T3v"; */
+"X0f-Ju-T3v.title" = "Zeige ESC Button auf der linken Seite der Touch Bar";
+
+/* Class = "NSTextFieldCell"; title = "Free space after BTT Icon:"; ObjectID = "xPs-sQ-vZ6"; */
+"xPs-sQ-vZ6.title" = "Abstand nach BTT Icon:";
+
+/* Class = "NSMenuItem"; title = "New BTT SILENT Normal Click"; ObjectID = "Xrs-Fc-5nG"; */
+"Xrs-Fc-5nG.title" = "BTT Neuer Lautloser Standard Klick";
+
+/* Class = "NSMenuItem"; title = "BTT Default Click Release"; ObjectID = "YqK-LX-sCe"; */
+"YqK-LX-sCe.title" = "BTT Standard Klick \"Loslassen\"";
+
+/* Class = "NSButtonCell"; title = "Animate Group Open & Close"; ObjectID = "yvH-HW-z65"; */
+"yvH-HW-z65.title" = "Animiere das Öffnen und Schließen von Gruppen";
+
+/* Class = "NSMenuItem"; title = "No Feedback"; ObjectID = "zcf-gs-6NM"; */
+"zcf-gs-6NM.title" = "Kein haptisches Feedback";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "ZJU-ww-jOR"; */
+"ZJU-ww-jOR.label" = "Erweitert";
+
+/* Class = "NSMenuItem"; title = "BTT Default Normal Click"; ObjectID = "zNN-Uf-eb7"; */
+"zNN-Uf-eb7.title" = "BTT Standard Klick";
+

@@ -1,0 +1,630 @@
+/* Class = "NSTextFieldCell"; title = "1234,233432"; ObjectID = "0fO-CH-WIT"; */
+"0fO-CH-WIT.title" = "1234,233432";
+
+/* Class = "NSMenuItem"; title = "BTT Default ForceClick"; ObjectID = "0td-hR-K3p"; */
+"0td-hR-K3p.title" = "BTT 默认用力点按";
+
+/* Class = "NSMenuItem"; title = "New BTT SILENT ForceClick"; ObjectID = "1Y1-IU-HhZ"; */
+"1Y1-IU-HhZ.title" = "新 BTT 静默用力点按";
+
+/* Class = "NSTextFieldCell"; title = "5 Finger Clicks:"; ObjectID = "2fy-uo-xh5"; */
+"2fy-uo-xh5.title" = "五指点按：";
+
+/* Class = "NSMenuItem"; title = "No Feedback"; ObjectID = "2gZ-46-ZJ8"; */
+"2gZ-46-ZJ8.title" = "无反馈";
+
+/* Class = "NSMenuItem"; title = "No Feedback"; ObjectID = "3B5-Ss-8Ti"; */
+"3B5-Ss-8Ti.title" = "无反馈";
+
+/* Class = "NSBox"; title = "Single Finger Taps"; ObjectID = "4Hj-zc-fRo"; */
+"4Hj-zc-fRo.title" = "单指轻点";
+
+/* Class = "NSMenuItem"; title = "Strong Feedback"; ObjectID = "4zl-JC-hlq"; */
+"4zl-JC-hlq.title" = "强烈反馈";
+
+/* Class = "NSMenuItem"; title = "Custom (NOT AVAILABLE YET)"; ObjectID = "5Cq-pR-pig"; */
+"5Cq-pR-pig.title" = "自定义（暂不可用）";
+
+/* Class = "NSButtonCell"; title = "Thumb / Palm Handling"; ObjectID = "5GF-CW-ePE"; */
+"5GF-CW-ePE.title" = "拇指/手掌处理";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "5pk-yG-30k"; */
+"5pk-yG-30k.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Disable trackpad gestures after hitting a keyboard key to prevent accidental gestures while typing "; ObjectID = "5xF-ZK-iqR"; */
+"5xF-ZK-iqR.title" = "按下键盘上的一个键后停用触控板手势，以防键入时产生意外手势 ";
+
+/* Class = "NSTabViewItem"; label = "Palm & Thumb Recognition"; ObjectID = "6Cp-7S-YmP"; */
+"6Cp-7S-YmP.label" = "手掌和拇指识别";
+
+/* Class = "NSTextFieldCell"; title = "This will allow you to use your thumb in custom 4 finger gestures, however accidental touches won't be removed for these gestures then."; ObjectID = "6Sx-HO-gVB"; */
+"6Sx-HO-gVB.title" = "此设置允许您在自定义四指手势中使用拇指，不过届时不会从这些手势中去除意外触摸。";
+
+/* Class = "NSTextFieldCell"; title = "Set needed rotation amount (degree)"; ObjectID = "8de-37-cny"; */
+"8de-37-cny.title" = "设置所需的旋转量（度）";
+
+/* Class = "NSTextFieldCell"; title = "Easy to trigger"; ObjectID = "8eY-Kr-2m5"; */
+"8eY-Kr-2m5.title" = "更容易触发";
+
+/* Class = "NSTextFieldCell"; title = "Far Apart"; ObjectID = "9dZ-oh-Q85"; */
+"9dZ-oh-Q85.title" = "互相远离";
+
+/* Class = "NSTextFieldCell"; title = "Hard to trigger"; ObjectID = "9Eh-Yg-1x4"; */
+"9Eh-Yg-1x4.title" = "更难触发";
+
+/* Class = "NSTextFieldCell"; title = "Rotate block time"; ObjectID = "9EV-un-Vj9"; */
+"9EV-un-Vj9.title" = "旋转区块时间";
+
+/* Class = "NSTextFieldCell"; title = "Three Finger TipTap sensitivity:"; ObjectID = "37t-fz-t16"; */
+"37t-fz-t16.title" = "三指指尖轻点灵敏度：";
+
+/* Class = "NSBox"; title = "TipTaps"; ObjectID = "41h-fD-KBz"; */
+"41h-fD-KBz.title" = "指尖轻点";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "A0W-da-RFR"; */
+"A0W-da-RFR.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "New BTT Default Normal Click"; ObjectID = "A5S-Bi-6qr"; */
+"A5S-Bi-6qr.title" = "新BTT 默认正常点按";
+
+/* Class = "NSTextFieldCell"; title = "Doubletap delay:"; ObjectID = "a8p-Lf-nQy"; */
+"a8p-Lf-nQy.title" = "轻点两下延迟：";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "if you use scroll up / down + modifier key this defines how often the assigned action is triggering during the scroll. It will trigger more often if the value is low. "; ObjectID = "a87-pC-DFV"; */
+"a87-pC-DFV.ibShadowedToolTip" = "if you use scroll up / down + modifier key this defines how often the assigned action is triggering during the scroll. It will trigger more often if the value is low. ";
+
+/* Class = "NSMenuItem"; title = "Double Light Feedback"; ObjectID = "AFD-eV-Q5y"; */
+"AFD-eV-Q5y.title" = "轻微反馈两次";
+
+/* Class = "NSButtonCell"; title = "⌘ (cmd)"; ObjectID = "AKx-Nj-0zd"; */
+"AKx-Nj-0zd.title" = "⌘ (cmd)";
+
+/* Class = "NSTextFieldCell"; title = "To:"; ObjectID = "aoh-gA-YqS"; Note = "Setting a value to something"; */
+"aoh-gA-YqS.title" = "至：";
+
+/* Class = "NSButtonCell"; title = "Only use corners and middle"; ObjectID = "aTg-tb-a1T"; */
+"aTg-tb-a1T.title" = "仅使用角和中间";
+
+/* Class = "NSTabViewItem"; label = "Swipes"; ObjectID = "AYC-av-TnI"; */
+"AYC-av-TnI.label" = "轻扫";
+
+/* Class = "NSButtonCell"; title = "Restart BTT"; ObjectID = "bIf-Ua-zV5"; */
+"bIf-Ua-zV5.title" = "重启 BTT";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Bjg-NT-GZ0"; */
+"Bjg-NT-GZ0.title" = "Label";
+
+/* Class = "NSBox"; title = "3 & 4 Finger Taps"; ObjectID = "BJT-V3-3ju"; */
+"BJT-V3-3ju.title" = "三指和四指轻点";
+
+/* Class = "NSMenuItem"; title = "New BTT Default Click Release"; ObjectID = "bLS-26-G6g"; */
+"bLS-26-G6g.title" = "新 BTT 默认点按释放";
+
+/* Class = "NSTextFieldCell"; title = "Harder Touch"; ObjectID = "BMw-dp-1R3"; */
+"BMw-dp-1R3.title" = "较重触摸";
+
+/* Class = "NSTextFieldCell"; title = "Maximum allowed distance between fingers"; ObjectID = "BZ4-51-OpD"; */
+"BZ4-51-OpD.title" = "手指之间允许的最大距离";
+
+/* Class = "NSTextFieldCell"; title = "1234,233432"; ObjectID = "cdG-0J-9Bc"; */
+"cdG-0J-9Bc.title" = "1234,233432";
+
+/* Class = "NSMenuItem"; title = "Triple Strong Feedback"; ObjectID = "CgM-vA-Gte"; */
+"CgM-vA-Gte.title" = "强烈反馈三次";
+
+/* Class = "NSMenuItem"; title = "Double Light Feedback"; ObjectID = "cKJ-Os-8I5"; */
+"cKJ-Os-8I5.title" = "轻微反馈两次";
+
+/* Class = "NSMenuItem"; title = "Triple Light Feedback"; ObjectID = "cNG-TU-w58"; */
+"cNG-TU-w58.title" = "轻微反馈三次";
+
+/* Class = "NSButtonCell"; title = "fn"; ObjectID = "COH-BE-eT2"; */
+"COH-BE-eT2.title" = "fn";
+
+/* Class = "NSButtonCell"; title = "Use the whole bottom area"; ObjectID = "cQ2-xs-g6E"; */
+"cQ2-xs-g6E.title" = "使用整个底部区域";
+
+/* Class = "NSTextFieldCell"; title = "3 Finger Clicks:"; ObjectID = "CSb-ad-jox"; */
+"CSb-ad-jox.title" = "三指点按：";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "CUQ-3s-pBg"; Note = "Placeholder - No Translation Necessary"; */
+"CUQ-3s-pBg.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Set modifier key + scroll sensitivity (currently touchpad and magic mouse)"; ObjectID = "cXC-bx-AWH"; */
+"cXC-bx-AWH.title" = "设置修饰键 + 滚动灵敏度（目前指触控板和 Magic Mouse 鼠标）";
+
+/* Class = "NSMenuItem"; title = "Very Light Feedback"; ObjectID = "d4T-3l-BTY"; */
+"d4T-3l-BTY.title" = "极轻微反馈";
+
+/* Class = "NSTextFieldCell"; title = "123123,2123"; ObjectID = "DEm-AI-Cmc"; */
+"DEm-AI-Cmc.title" = "123123,2123";
+
+/* Class = "NSMenuItem"; title = "New BTT Default ForceClick"; ObjectID = "Dkc-5p-iPf"; */
+"Dkc-5p-iPf.title" = "新 BTT 默认用力点按";
+
+/* Class = "NSBox"; title = "2 Finger Swipes"; ObjectID = "DKc-n0-UOg"; */
+"DKc-n0-UOg.title" = "双指轻扫";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "dP8-b9-eaW"; */
+"dP8-b9-eaW.title" = "1 px";
+
+/* Class = "NSMenuItem"; title = "BTT SILENT ForceClick"; ObjectID = "DTy-dx-cvU"; */
+"DTy-dx-cvU.title" = "BTT 静默用力点按";
+
+/* Class = "NSTextFieldCell"; title = "Set trackpad speed (Higher values than with Apple preferences possible)"; ObjectID = "dvv-Ch-Ox6"; */
+"dvv-Ch-Ox6.title" = "设置触控板速度（可以设置比 Apple 偏好设置更高的值）";
+
+/* Class = "NSTextFieldCell"; title = "If this is activated BTT will not filter thumbs if they are placed at the same time as the other involved fingers.\nThis allows you to e.g. do four finger clicks with your thumb and three other fingers if all of them are placed on the trackpad at the same time. If you disable this the thumb will almost always be removed, you need to keep this in mind when doing gestures."; ObjectID = "dx7-Yn-wkQ"; */
+"dx7-Yn-wkQ.title" = "如果开启此项，则当与其他涉及手指同时放上拇指时 BTT 不会过滤掉拇指。\n例如，此选项允许您在拇指和另外三指同时放在触控板上时进行四指点按。如果停用此选项，拇指几乎始终会被去除，您做手势时需要记住这一点。";
+
+/* Class = "NSTextFieldCell"; title = "2 Finger Force Clicks:"; ObjectID = "dzD-cL-Svi"; */
+"dzD-cL-Svi.title" = "双指用力点按：";
+
+/* Class = "NSTextFieldCell"; title = "Change trackpad speed while holding (or using the predefined action \"toggle mouse speed\"):"; ObjectID = "e9K-gE-6VQ"; */
+"e9K-gE-6VQ.title" = "按住以下键时更改触控板速度（或使用预定义操作“切换鼠标速度”）：";
+
+/* Class = "NSTextFieldCell"; title = "Hard to trigger"; ObjectID = "Eas-a8-Vor"; */
+"Eas-a8-Vor.title" = "更难触发";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "This setting defines the time your fingers can touch the touchpad while tapping before the tap isn't recognized as tap anymore."; ObjectID = "eM4-gn-t8z"; */
+"eM4-gn-t8z.ibShadowedToolTip" = "This setting defines the time your fingers can touch the touchpad while tapping before the tap isn't recognized as tap anymore.";
+
+/* Class = "NSButtonCell"; title = "Quit BTT"; ObjectID = "ev8-9l-etc"; */
+"ev8-9l-etc.title" = "退出 BTT";
+
+/* Class = "NSMenuItem"; title = "Spring Light Feedback"; ObjectID = "eVf-lb-lbL"; */
+"eVf-lb-lbL.title" = "Spring 轻微反馈";
+
+/* Class = "NSMenuItem"; title = "BTT SILENT Normal Click"; ObjectID = "eXa-bb-CAN"; */
+"eXa-bb-CAN.title" = "BTT 静默正常点按";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "exl-AA-q2S"; Note = "Placeholder - No Translation Necessary"; */
+"exl-AA-q2S.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "f81-1k-P6v"; Note = "Placeholder - No Translation Necessary"; */
+"f81-1k-P6v.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "(needs BTT restart)"; ObjectID = "fet-wv-IrJ"; */
+"fet-wv-IrJ.title" = "（需重启 BTT）";
+
+/* Class = "NSTextFieldCell"; title = "Time 3 fingers can be down until a tap is not recognized as tap anymore"; ObjectID = "FPK-Y9-TYh"; */
+"FPK-Y9-TYh.title" = "三指可下压直至轻点不再被视为轻点的时间";
+
+/* Class = "NSTextFieldCell"; title = "Pressure necessary to recognize force clicks  (only applys to BTT gestures, not system gestures)"; ObjectID = "FPY-nj-PbQ"; */
+"FPY-nj-PbQ.title" = "识别用力点按所需的压力（仅适用于 BTT 手势，而非系统手势）";
+
+/* Class = "NSTextFieldCell"; title = "Two Finger Tip Taps minimum required distance between fingers:"; ObjectID = "Fqu-e7-2mw"; */
+"Fqu-e7-2mw.title" = "双指指尖轻点所需的手指间最小距离：";
+
+/* Class = "NSMenuItem"; title = "Spring Strong Feedback"; ObjectID = "FUL-xQ-og5"; */
+"FUL-xQ-og5.title" = "Spring 强烈反馈";
+
+/* Class = "NSButtonCell"; title = "Magic Trackpad: don't allow tap to click on the left and right edge"; ObjectID = "G0V-oO-isR"; */
+"G0V-oO-isR.title" = "Magic Trackpad 触控板：不允许轻点以点按左侧和右侧边缘";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "gA6-zY-U91"; */
+"gA6-zY-U91.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "Set needed zoom/pinch amount"; ObjectID = "GBD-SF-fai"; */
+"GBD-SF-fai.title" = "设置需要的缩放/收缩量";
+
+/* Class = "NSTabViewItem"; label = "TipTaps"; ObjectID = "ggl-OJ-suV"; */
+"ggl-OJ-suV.label" = "指尖轻点";
+
+/* Class = "NSTextFieldCell"; title = "123123,2123"; ObjectID = "ghF-iQ-RgC"; */
+"ghF-iQ-RgC.title" = "123123,2123";
+
+/* Class = "NSMenuItem"; title = "Strong Feedback"; ObjectID = "gol-hj-fD6"; */
+"gol-hj-fD6.title" = "强烈反馈";
+
+/* Class = "NSTextFieldCell"; title = "Touchpad 3 Finger Click"; ObjectID = "gOw-AU-Wqf"; */
+"gOw-AU-Wqf.title" = "触控板三指点按";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The higher this value the harder it should be to trigger the zoom / rotate"; ObjectID = "gP2-Fw-0gF"; */
+"gP2-Fw-0gF.ibShadowedToolTip" = "The higher this value the harder it should be to trigger the zoom / rotate";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "if you use scroll up / down + modifier key this defines how often the assigned action is triggering during the scroll. It will trigger more often if the value is low. "; ObjectID = "GtL-5k-npd"; */
+"GtL-5k-npd.ibShadowedToolTip" = "if you use scroll up / down + modifier key this defines how often the assigned action is triggering during the scroll. It will trigger more often if the value is low. ";
+
+/* Class = "NSButtonCell"; title = "Mirror complete Magic Trackpad orientation for \"upside-down\" usage"; ObjectID = "gxO-ui-fKv"; */
+"gxO-ui-fKv.title" = "镜像完成 Magic Trackpad 触控板方向，用于“上下颠倒”用途";
+
+/* Class = "NSMenuItem"; title = "Double Strong Feedback"; ObjectID = "h2j-zm-dbz"; */
+"h2j-zm-dbz.title" = "强烈反馈两次";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "HBL-v6-oPJ"; */
+"HBL-v6-oPJ.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "1234,233432"; ObjectID = "hgX-qh-12U"; */
+"hgX-qh-12U.title" = "1234,233432";
+
+/* Class = "NSTextFieldCell"; title = "123123,2123"; ObjectID = "hmG-H4-8mH"; */
+"hmG-H4-8mH.title" = "123123,2123";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "hPt-6v-exQ"; */
+"hPt-6v-exQ.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "1 s"; ObjectID = "hRy-9p-dUf"; */
+"hRy-9p-dUf.title" = "1 s";
+
+/* Class = "NSTextFieldCell"; title = "1 Finger Force Clicks:"; ObjectID = "i16-w9-M9Y"; */
+"i16-w9-M9Y.title" = "单指用力点按：";
+
+/* Class = "NSButtonCell"; title = "Enable system three finger up / down swipe events (requires BTT restart)"; ObjectID = "IGu-UH-3z6"; */
+"IGu-UH-3z6.title" = "启用系统三指向上/向下轻扫事件（必须重启 BTT）";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "irz-j5-ucG"; */
+"irz-j5-ucG.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Three finger tap top and bottom range (average position of the 3 fingers)"; ObjectID = "j4a-Gw-yh4"; */
+"j4a-Gw-yh4.title" = "三指轻点顶部和底部范围（三指的平均位置）";
+
+/* Class = "NSTextFieldCell"; title = "Harder Touch"; ObjectID = "J5Q-Vf-0Rr"; */
+"J5Q-Vf-0Rr.title" = "较重触摸";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "j6E-BX-QEU"; */
+"j6E-BX-QEU.title" = "标签";
+
+/* Class = "NSMenuItem"; title = "Optimize for three finger drag (has negative effects on window snapping and snap area performance)"; ObjectID = "ja0-N4-vLQ"; */
+"ja0-N4-vLQ.title" = "针对三指拖移优化（对窗口吸附和吸附区域性能有负面影响）";
+
+/* Class = "NSBox"; title = "3 Finger Click"; ObjectID = "JaL-NW-cci"; */
+"JaL-NW-cci.title" = "三指点按";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "jIP-1l-MZC"; */
+"jIP-1l-MZC.label" = "通用";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "JNd-r2-POI"; */
+"JNd-r2-POI.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Close Together"; ObjectID = "job-vc-9g5"; */
+"job-vc-9g5.title" = "共同关闭";
+
+/* Class = "NSBox"; title = "Normal Click"; ObjectID = "jp7-U2-Dd2"; */
+"jp7-U2-Dd2.title" = "正常点按";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Jpr-Wi-xIp"; Note = "Placeholder - No Translation Necessary"; */
+"Jpr-Wi-xIp.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Haptic response for force clicks (2-5 Fingers):"; ObjectID = "jzU-Nv-jiJ"; */
+"jzU-Nv-jiJ.title" = "针对用力点按的触感反应（2-5 根手指）：";
+
+/* Class = "NSButtonCell"; title = "Reenable gestures only after touching the center area of the trackpad"; ObjectID = "k4w-0Q-fY7"; */
+"k4w-0Q-fY7.title" = "仅当触摸触控板中心区域后重新启用手势";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "K5j-zN-0Yl"; */
+"K5j-zN-0Yl.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Close Together"; ObjectID = "k6m-5y-Z4Z"; */
+"k6m-5y-Z4Z.title" = "共同关闭";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "k8o-Nj-MHP"; Note = "Placeholder - No Translation Necessary"; */
+"k8o-Nj-MHP.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "Triple Strong Feedback"; ObjectID = "KAY-0u-DLI"; */
+"KAY-0u-DLI.title" = "强烈反馈三次";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "kDq-KF-zbb"; */
+"kDq-KF-zbb.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "BTT SILENT Normal Click"; ObjectID = "KHV-cW-UVk"; */
+"KHV-cW-UVk.title" = "BTT 静默正常点按";
+
+/* Class = "NSButtonCell"; title = "Doubletap needed"; ObjectID = "KPK-b0-Tje"; */
+"KPK-b0-Tje.title" = "需要轻点两下";
+
+/* Class = "NSMenuItem"; title = "New BTT Default Click Release"; ObjectID = "Krt-GW-Ogr"; */
+"Krt-GW-Ogr.title" = "新 BTT 默认点按释放";
+
+/* Class = "NSButtonCell"; title = "Only activate this if your 4 finger swipes are triggering 3 finger swipes at the same time for some reason"; ObjectID = "KSb-Eo-ngQ"; */
+"KSb-Eo-ngQ.title" = "仅当因为某种原因四指轻扫会同时触发三指轻扫时开启此功能";
+
+/* Class = "NSTextFieldCell"; title = "Easy to trigger"; ObjectID = "lad-Wh-TCN"; */
+"lad-Wh-TCN.title" = "更容易触发";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "lCp-S9-2qb"; */
+"lCp-S9-2qb.title" = "1 px";
+
+/* Class = "NSMenuItem"; title = "Custom (NOT AVAILABLE YET)"; ObjectID = "ldy-Gr-myc"; */
+"ldy-Gr-myc.title" = "自定义（暂不可用）";
+
+/* Class = "NSMenuItem"; title = "Light Feedback"; ObjectID = "lgI-uy-owo"; */
+"lgI-uy-owo.title" = "轻微反馈";
+
+/* Class = "NSButtonCell"; title = "Do NOT override the system's default two finger click haptic response"; ObjectID = "LHf-K0-5Ck"; */
+"LHf-K0-5Ck.title" = "请勿覆盖系统默认的双指点按触感反应";
+
+/* Class = "NSTabViewItem"; label = "Clicks"; ObjectID = "LMa-il-IMw"; */
+"LMa-il-IMw.label" = "点按";
+
+/* Class = "NSMenuItem"; title = "Light 2 Feedback"; ObjectID = "LNz-7d-kDQ"; */
+"LNz-7d-kDQ.title" = "轻微反馈 2";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "loU-lp-pak"; */
+"loU-lp-pak.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "Easy to trigger"; ObjectID = "LQ9-X3-5On"; */
+"LQ9-X3-5On.title" = "更容易触发";
+
+/* Class = "NSBox"; title = "Zoom & Rotate"; ObjectID = "lsO-2A-geB"; */
+"lsO-2A-geB.title" = "缩放和旋转";
+
+/* Class = "NSTextFieldCell"; title = "Two Finger Swipe Sensitivity:"; ObjectID = "m4N-DY-O89"; */
+"m4N-DY-O89.title" = "双指轻扫灵敏度：";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "m4X-eZ-UrX"; Note = "Placeholder - No Translation Necessary"; */
+"m4X-eZ-UrX.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "Spring Strong Feedback"; ObjectID = "M8e-aP-8K3"; */
+"M8e-aP-8K3.title" = "Spring 强烈反馈";
+
+/* Class = "NSTextFieldCell"; title = "1234,233432"; ObjectID = "Mdc-x4-KFP"; */
+"Mdc-x4-KFP.title" = "1234,233432";
+
+/* Class = "NSTextFieldCell"; title = "Pressure necessary to recognize normal click (only applys to BTT gestures, not system gestures)"; ObjectID = "mkR-dT-vXt"; */
+"mkR-dT-vXt.title" = "识别正常点按所需的压力（仅适用于 BTT 手势，而非系统手势）";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "MMR-zC-4ul"; Note = "Placeholder - No Translation Necessary"; */
+"MMR-zC-4ul.title" = "Label";
+
+/* Class = "NSBox"; title = "Three and Four Finger Double-Taps"; ObjectID = "Mqg-KH-luX"; */
+"Mqg-KH-luX.title" = "三指和四指轻点两下";
+
+/* Class = "NSMenuItem"; title = "New BTT SILENT Normal Click"; ObjectID = "mQl-hj-DIM"; */
+"mQl-hj-DIM.title" = "新 BTT 静默正常点按";
+
+/* Class = "NSTextFieldCell"; title = "Far Apart"; ObjectID = "mSJ-uu-JMg"; */
+"mSJ-uu-JMg.title" = "互相远离";
+
+/* Class = "NSButtonCell"; title = "Aggressive Mode ( activate this if sometimes the original apple 3 finger swipes are executed instead of the BTT action)"; ObjectID = "mWe-Ik-py1"; */
+"mWe-Ik-py1.title" = "激进模式（如果有时候原本的 Apple 三指轻扫取代 BTT 操作执行则开启此选项）";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "This setting defines the time your fingers can touch the touchpad while tapping before the tap isn't recognized as tap anymore."; ObjectID = "mWn-U4-oBw"; */
+"mWn-U4-oBw.ibShadowedToolTip" = "This setting defines the time your fingers can touch the touchpad while tapping before the tap isn't recognized as tap anymore.";
+
+/* Class = "NSBox"; title = "Force Click"; ObjectID = "NbD-Up-mlg"; */
+"NbD-Up-mlg.title" = "用力点按";
+
+/* Class = "NSMenuItem"; title = "BTT Default Click Release"; ObjectID = "nfH-yQ-cEk"; */
+"nfH-yQ-cEk.title" = "BTT 默认点按释放";
+
+/* Class = "NSTextFieldCell"; title = "Time based:"; ObjectID = "NGZ-cV-R0T"; */
+"NGZ-cV-R0T.title" = "基于时间：";
+
+/* Class = "NSMenuItem"; title = "New BTT SILENT Normal Click"; ObjectID = "Nka-5m-PAv"; */
+"Nka-5m-PAv.title" = "新 BTT 静默正常点按";
+
+/* Class = "NSTextFieldCell"; title = "5 Finger Force Clicks:"; ObjectID = "NlQ-jj-mHk"; */
+"NlQ-jj-mHk.title" = "五指用力点按：";
+
+/* Class = "NSMenuItem"; title = "BTT Default Normal Click"; ObjectID = "nnS-D0-4jB"; */
+"nnS-D0-4jB.title" = "BTT 默认正常点按";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The higher this value the harder it should be to trigger the zoom / rotate"; ObjectID = "Nss-6m-KsV"; */
+"Nss-6m-KsV.ibShadowedToolTip" = "The higher this value the harder it should be to trigger the zoom / rotate";
+
+/* Class = "NSMenuItem"; title = "New BTT Default Normal Click"; ObjectID = "Nx0-Go-KrI"; */
+"Nx0-Go-KrI.title" = "新BTT 默认正常点按";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "This defines the time interval during which rotate gestures are blocked after you did one."; ObjectID = "NXL-tV-GZb"; */
+"NXL-tV-GZb.ibShadowedToolTip" = "This defines the time interval during which rotate gestures are blocked after you did one.";
+
+/* Class = "NSBox"; title = "3 & 4 Finger Swipes"; ObjectID = "OeI-mb-PiQ"; */
+"OeI-mb-PiQ.title" = "三指和四指轻扫";
+
+/* Class = "NSTextFieldCell"; title = "Three Finger Swipe Sensitivity:"; ObjectID = "OGP-8Q-pc5"; */
+"OGP-8Q-pc5.title" = "三指轻扫灵敏度：";
+
+/* Class = "NSButtonCell"; title = "Exclude custom 4 Finger Sequences from Thumb/Palm Filtering"; ObjectID = "oGV-Lg-ZBt"; */
+"oGV-Lg-ZBt.title" = "从拇指/手掌过滤中排除自定义四指序列";
+
+/* Class = "NSTextFieldCell"; title = "Close"; ObjectID = "ORN-0Y-kG3"; */
+"ORN-0Y-kG3.title" = "关闭";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "This defines the time interval during which zoom gestures are blocked after you did one."; ObjectID = "OTf-tZ-s4a"; */
+"OTf-tZ-s4a.ibShadowedToolTip" = "This defines the time interval during which zoom gestures are blocked after you did one.";
+
+/* Class = "NSMenuItem"; title = "Very Light Feedback"; ObjectID = "OTt-nF-veS"; */
+"OTt-nF-veS.title" = "极轻微反馈";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "If you have three finger tap top AND bottom gestures you can here select the area for both. (See live view)"; ObjectID = "p2Q-Ei-Km3"; */
+"p2Q-Ei-Km3.ibShadowedToolTip" = "If you have three finger tap top AND bottom gestures you can here select the area for both. (See live view)";
+
+/* Class = "NSMenuItem"; title = "Light Feedback"; ObjectID = "PGK-dx-7LQ"; */
+"PGK-dx-7LQ.title" = "轻微反馈";
+
+/* Class = "NSTabViewItem"; label = "Taps"; ObjectID = "pGK-XS-ubk"; */
+"pGK-XS-ubk.label" = "轻点";
+
+/* Class = "NSTextFieldCell"; title = "Far Apart"; ObjectID = "pkh-3t-ddN"; */
+"pkh-3t-ddN.title" = "互相远离";
+
+/* Class = "NSButtonCell"; title = "Reset ALL settings"; ObjectID = "Pl8-18-E1i"; */
+"Pl8-18-E1i.title" = "重置全部设置";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If this is activated the single finger taps on the touchpad need to be tapped twice."; ObjectID = "pry-yt-aqb"; */
+"pry-yt-aqb.ibShadowedToolTip" = "If this is activated the single finger taps on the touchpad need to be tapped twice.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This setting defines the time your fingers can touch the touchpad while tapping before the tap isn't recognized as tap anymore."; ObjectID = "PXS-05-A6S"; */
+"PXS-05-A6S.ibShadowedToolTip" = "This setting defines the time your fingers can touch the touchpad while tapping before the tap isn't recognized as tap anymore.";
+
+/* Class = "NSTextFieldCell"; title = "Lighter Touch"; ObjectID = "QCh-DV-sYZ"; */
+"QCh-DV-sYZ.title" = "较轻触摸";
+
+/* Class = "NSTextFieldCell"; title = "Three Finger Tip Taps minimum required distance between fingers:"; ObjectID = "qlp-34-MKd"; */
+"qlp-34-MKd.title" = "三指指尖轻点所需的手指间最小距离：";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Qya-Sm-qa0"; */
+"Qya-Sm-qa0.title" = "Label";
+
+/* Class = "NSMenuItem"; title = "Spring Light Feedback"; ObjectID = "R2v-Re-Zh2"; */
+"R2v-Re-Zh2.title" = "Spring 轻微反馈";
+
+/* Class = "NSMenuItem"; title = "BTT Default ForceClick"; ObjectID = "r65-CQ-KhY"; */
+"r65-CQ-KhY.title" = "BTT 默认用力点按";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The higher the value the harder you have to tap"; ObjectID = "rhm-0j-tJX"; */
+"rhm-0j-tJX.ibShadowedToolTip" = "The higher the value the harder you have to tap";
+
+/* Class = "NSButtonCell"; title = "Allow thumbs if all involved fingers are placed simultaneously."; ObjectID = "rNe-Ev-16E"; */
+"rNe-Ev-16E.title" = "如果所有涉及的手指是同时放置的则允许拇指。";
+
+/* Class = "NSTextFieldCell"; ibShadowedToolTip = "This defines the time interval during which zoom gestures are blocked after you did one."; ObjectID = "RnY-Rq-Zxh"; */
+"RnY-Rq-Zxh.ibShadowedToolTip" = "This defines the time interval during which zoom gestures are blocked after you did one.";
+
+/* Class = "NSTextFieldCell"; title = "Zoom block time"; ObjectID = "RnY-Rq-Zxh"; */
+"RnY-Rq-Zxh.title" = "缩放区块时间";
+
+/* Class = "NSMenuItem"; title = "Default (recommended but three finger drag may not work well)"; ObjectID = "rPa-Lh-CqV"; */
+"rPa-Lh-CqV.title" = "默认（推荐但三指拖移的效果可能不佳）";
+
+/* Class = "NSTextFieldCell"; title = "This filters out thumbs and accidental touches"; ObjectID = "S3B-Gb-rVo"; */
+"S3B-Gb-rVo.title" = "这样可以避免拇指和意外触摸";
+
+/* Class = "NSTextFieldCell"; title = "Three finger drag optimizations (set to default if you are not using the system three finger drag)"; ObjectID = "S3q-43-KCt"; */
+"S3q-43-KCt.title" = "三指拖移优化（如果您没有使用系统的三指拖移则设为默认）";
+
+/* Class = "NSMenuItem"; title = "Light Then Strong Feedback"; ObjectID = "SbO-EA-D1T"; */
+"SbO-EA-D1T.title" = "先轻微后强烈反馈";
+
+/* Class = "NSTextFieldCell"; title = "123123,2123"; ObjectID = "slJ-Sb-aJa"; */
+"slJ-Sb-aJa.title" = "123123,2123";
+
+/* Class = "NSTextFieldCell"; title = "TipTap sensitivity:"; ObjectID = "T0X-ct-NNh"; */
+"T0X-ct-NNh.title" = "指尖轻点灵敏度：";
+
+/* Class = "NSTextFieldCell"; title = "Hard to trigger"; ObjectID = "T7P-Gy-OQQ"; */
+"T7P-Gy-OQQ.title" = "更难触发";
+
+/* Class = "NSTextFieldCell"; title = "Time 4 fingers can be down until a tap is not recognized as tap anymore"; ObjectID = "tc2-cm-mZS"; */
+"tc2-cm-mZS.title" = "四指可下压直至轻点不再被视为轻点的时间";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This defines the time interval during which rotate gestures are blocked after you did one."; ObjectID = "tEM-78-Cg2"; */
+"tEM-78-Cg2.ibShadowedToolTip" = "This defines the time interval during which rotate gestures are blocked after you did one.";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "TIf-Lh-c6C"; */
+"TIf-Lh-c6C.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Lift fingers before triggering the second 3 finger click "; ObjectID = "TmX-C6-jE7"; */
+"TmX-C6-jE7.title" = "先抬起手指再触发第二次三指点按 ";
+
+/* Class = "NSMenuItem"; title = "Light 2 Feedback"; ObjectID = "TPf-lG-aII"; */
+"TPf-lG-aII.title" = "轻微反馈 2";
+
+/* Class = "NSTextFieldCell"; title = "4 Finger Force Clicks:"; ObjectID = "tqn-EW-tPh"; */
+"tqn-EW-tPh.title" = "四指用力点按：";
+
+/* Class = "NSTextFieldCell"; title = "2 Finger Clicks:"; ObjectID = "TSc-5W-y4O"; */
+"TSc-5W-y4O.title" = "双指点按：";
+
+/* Class = "NSTextFieldCell"; title = "Top Taps:"; ObjectID = "tTy-Mm-R2b"; */
+"tTy-Mm-R2b.title" = "顶部轻点：";
+
+/* Class = "NSTextFieldCell"; title = "Haptic response for normal clicks (2-5 Fingers):"; ObjectID = "u24-sE-UgH"; */
+"u24-sE-UgH.title" = "针对正常点按的触感反应（2-5 根手指）：";
+
+/* Class = "NSMenuItem"; title = "Double Strong Feedback"; ObjectID = "uDf-zC-8wW"; */
+"uDf-zC-8wW.title" = "强烈反馈两次";
+
+/* Class = "NSTextFieldCell"; title = "4 Finger Clicks:"; ObjectID = "uer-na-hsm"; */
+"uer-na-hsm.title" = "四指点按：";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The higher this value the harder it should be to trigger the zoom / rotate"; ObjectID = "ugO-RB-sBz"; */
+"ugO-RB-sBz.ibShadowedToolTip" = "The higher this value the harder it should be to trigger the zoom / rotate";
+
+/* Class = "NSMenuItem"; title = "New BTT Default ForceClick"; ObjectID = "uh6-MA-Pqa"; */
+"uh6-MA-Pqa.title" = "新 BTT 默认用力点按";
+
+/* Class = "NSTextFieldCell"; title = "Two Finger TipTap sensitivity:"; ObjectID = "Ujb-yn-OMc"; */
+"Ujb-yn-OMc.title" = "双指指尖轻点灵敏度：";
+
+/* Class = "NSButtonCell"; title = "Only use corners and middle"; ObjectID = "UWl-tb-htG"; */
+"UWl-tb-htG.title" = "仅使用角和中间";
+
+/* Class = "NSTextFieldCell"; title = "123123,2123"; ObjectID = "V0C-gc-YvF"; */
+"V0C-gc-YvF.title" = "123123,2123";
+
+/* Class = "NSButtonCell"; title = "⇧(shift)"; ObjectID = "V2q-zt-yGK"; */
+"V2q-zt-yGK.title" = "⇧(shift)";
+
+/* Class = "NSTextFieldCell"; title = "Bottom Taps:"; ObjectID = "Vdo-m9-FQN"; */
+"Vdo-m9-FQN.title" = "底部轻点：";
+
+/* Class = "NSTabViewItem"; label = "FORCE Touchpad"; ObjectID = "vjN-RN-pgl"; */
+"vjN-RN-pgl.label" = "FORCE 触控板";
+
+/* Class = "NSMenuItem"; title = "New BTT SILENT ForceClick"; ObjectID = "w0Q-i9-Bo6"; */
+"w0Q-i9-Bo6.title" = "新 BTT 静默用力点按";
+
+/* Class = "NSTextFieldCell"; title = "1234,233432"; ObjectID = "w2W-IQ-ASH"; */
+"w2W-IQ-ASH.title" = "1234,233432";
+
+/* Class = "NSTabViewItem"; label = "Scroll & Zoom & Rotate"; ObjectID = "w7g-hd-hE7"; */
+"w7g-hd-hE7.label" = "滚动、缩放和旋转";
+
+/* Class = "NSMenuItem"; title = "Triple Light Feedback"; ObjectID = "WfZ-YT-mq7"; */
+"WfZ-YT-mq7.title" = "轻微反馈三次";
+
+/* Class = "NSTextFieldCell"; title = "Required pressure for three and four finger taps:"; ObjectID = "WkL-Ti-wBw"; */
+"WkL-Ti-wBw.title" = "三指和四指轻点所需的压力：";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The higher this value the harder it should be to trigger the zoom / rotate"; ObjectID = "WV1-Mx-OGv"; */
+"WV1-Mx-OGv.ibShadowedToolTip" = "The higher this value the harder it should be to trigger the zoom / rotate";
+
+/* Class = "NSTextFieldCell"; title = "Don't activate if you don't have those problems."; ObjectID = "wW1-Ua-2st"; */
+"wW1-Ua-2st.title" = "如果没有上述问题则不要开启。";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "wXm-zD-DWn"; */
+"wXm-zD-DWn.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "3 Finger Force Clicks:"; ObjectID = "wXs-ZX-YBi"; */
+"wXs-ZX-YBi.title" = "三指用力点按：";
+
+/* Class = "NSTextFieldCell"; title = "Harder Touch"; ObjectID = "X3W-t9-50k"; */
+"X3W-t9-50k.title" = "较重触摸";
+
+/* Class = "NSMenuItem"; title = "Light Then Strong Feedback"; ObjectID = "x7b-Cq-Ade"; */
+"x7b-Cq-Ade.title" = "先轻微后强烈反馈";
+
+/* Class = "NSButtonCell"; title = "Use the whole top area"; ObjectID = "XaA-VZ-DUh"; */
+"XaA-VZ-DUh.title" = "使用整个顶部区域";
+
+/* Class = "NSTextFieldCell"; title = "Everything below is pretty advanced. Usually you shouldn't have to fiddle with this stuff."; ObjectID = "XZm-RS-PoN"; */
+"XZm-RS-PoN.title" = "下方的所有功能都十分先进。通常您都无需调整。";
+
+/* Class = "NSMenuItem"; title = "BTT Default Normal Click"; ObjectID = "Y1V-EQ-EoA"; */
+"Y1V-EQ-EoA.title" = "BTT 默认正常点按";
+
+/* Class = "NSTextFieldCell"; title = "1 Finger Clicks:"; ObjectID = "YEe-VY-G5N"; */
+"YEe-VY-G5N.title" = "单指点按：";
+
+/* Class = "NSMenuItem"; title = "BTT SILENT ForceClick"; ObjectID = "yO2-Ny-VaP"; */
+"yO2-Ny-VaP.title" = "BTT 静默用力点按";
+
+/* Class = "NSTextFieldCell"; title = "Four Finger Swipe Sensitivity:"; ObjectID = "yQk-Jx-6xN"; */
+"yQk-Jx-6xN.title" = "四指轻扫灵敏度：";
+
+/* Class = "NSTextFieldCell"; title = "Lighter Touch"; ObjectID = "yt4-fp-2vI"; */
+"yt4-fp-2vI.title" = "较轻触摸";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The higher the value the harder you have to tap"; ObjectID = "YWj-lJ-qMj"; */
+"YWj-lJ-qMj.ibShadowedToolTip" = "The higher the value the harder you have to tap";
+
+/* Class = "NSTextFieldCell"; title = "Lighter Touch"; ObjectID = "z4J-02-i2E"; */
+"z4J-02-i2E.title" = "较轻触摸";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If this is activated the single finger taps on the touchpad need to be tapped twice."; ObjectID = "za6-H9-Z5q"; */
+"za6-H9-Z5q.ibShadowedToolTip" = "If this is activated the single finger taps on the touchpad need to be tapped twice.";
+
+/* Class = "NSMenuItem"; title = "BTT Default Click Release"; ObjectID = "zfC-h3-4xG"; */
+"zfC-h3-4xG.title" = "BTT 默认点按释放";
+
+/* Class = "NSButtonCell"; title = "Require Two Finger Swipes to swipe to the very edge of the trackpad before triggering"; ObjectID = "zM3-VS-qdw"; */
+"zM3-VS-qdw.title" = "需要通过双指轻扫来扫至触控板的边缘再触发";
+
+/* Class = "NSButtonCell"; title = "⌃ (ctrl)"; ObjectID = "zqD-v5-mXZ"; */
+"zqD-v5-mXZ.title" = "⌃ (ctrl)";
+
+/* Class = "NSButtonCell"; title = "⌥ (opt)"; ObjectID = "zz8-JD-lDx"; */
+"zz8-JD-lDx.title" = "⌥ (opt)";
+

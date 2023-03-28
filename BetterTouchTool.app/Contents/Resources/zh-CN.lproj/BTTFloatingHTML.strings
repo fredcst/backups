@@ -1,0 +1,72 @@
+/* Class = "NSTextFieldCell"; title = "This is relevant if you load external websites in the BTT webview: As the BTT Web View allows to execute code, it is necessary you trust the websites loaded. All btt:// url commands and all Apple Script commands called from external URLs must contain a shared_secret=yourSecret parameter, so loading untrusted websites is not a security risk. The secret is saved under the name \"BTTHTMLScriptingSharedSecret\" in your keychain."; ObjectID = "2jF-QH-YYW"; */
+"2jF-QH-YYW.title" = "当您在 BTT WebView 中加载外部网站时可以用到此功能：由于 BTT WebView 允许运行代码，所以您必须信任加载的网站。外部 URL 调用的全部 btt:// URL 命令和全部 Apple 脚本命令均必须包含 shared_secret=yourSecret 参数，从而避免加载未受信网站的安全风险。密钥存储于钥匙串中的“BTTHTMLScriptingSharedSecret”名下。";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "3yk-7K-6h2"; */
+"3yk-7K-6h2.label" = "高级";
+
+/* Class = "NSButtonCell"; title = "Open URLs with prefix in system browser"; ObjectID = "6gp-Vx-YSX"; */
+"6gp-Vx-YSX.title" = "在系统浏览器中打开带有前缀的 URL";
+
+/* Class = "NSTabViewItem"; label = "Security when using untrusted URLs"; ObjectID = "9x1-8W-b4A"; */
+"9x1-8W-b4A.label" = "使用未受信 URL 时的安全性";
+
+/* Class = "NSButtonCell"; title = "Draw title bar bezel"; ObjectID = "AmN-YV-Zzo"; */
+"AmN-YV-Zzo.title" = "绘制标题栏边框";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "Cq7-fc-oeu"; */
+"Cq7-fc-oeu.title" = "存储";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSBox"; title = "Scripting BetterTouchTool"; ObjectID = "GAT-I9-jGr"; */
+"GAT-I9-jGr.title" = "脚本 BetterTouchTool";
+
+/* Class = "NSButtonCell"; title = "Custom User Agent:"; ObjectID = "iIR-yi-Nz3"; */
+"iIR-yi-Nz3.title" = "自定义 User Agent：";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "kcf-Iq-EeQ"; */
+"kcf-Iq-EeQ.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Center on monitor with mouse"; ObjectID = "KeJ-Mb-8h2"; */
+"KeJ-Mb-8h2.title" = "在有鼠标的显示器上居中";
+
+/* Class = "NSTabViewItem"; label = "Default Settings"; ObjectID = "LE6-Wm-5xh"; */
+"LE6-Wm-5xh.label" = "默认设置";
+
+/* Class = "NSTextFieldCell"; title = "Instead of a URL or File Path you can provide the HTML directly (will be preferred if both are set)"; ObjectID = "lGR-t4-K4R"; */
+"lGR-t4-K4R.title" = "除了 URL 或文件路径，您还可以直接提供 HTML（如果两者都设置了则优先采用此设置）";
+
+/* Class = "NSButtonCell"; title = "Use white background (default is transparent)"; ObjectID = "Mpf-96-9sY"; */
+"Mpf-96-9sY.title" = "使用白色背景（默认为透明）";
+
+/* Class = "NSTextFieldCell"; title = "Web URL or path to local HTML file to show in floating Web View:"; ObjectID = "MsW-yY-xR0"; */
+"MsW-yY-xR0.title" = "要在浮动 WebView 中显示的 Web URL 或本地 HTML 文件的路径：";
+
+/* Class = "NSButtonCell"; title = "Show window buttons"; ObjectID = "nBb-R6-so1"; */
+"nBb-R6-so1.title" = "显示窗口按钮";
+
+/* Class = "NSButtonCell"; title = "Close when clicking outside"; ObjectID = "pEn-2a-fpQ"; */
+"pEn-2a-fpQ.title" = "点按外部时关闭";
+
+/* Class = "NSButtonCell"; title = "Close after opening a link in system browser"; ObjectID = "qIz-mq-66J"; */
+"qIz-mq-66J.title" = "在系统浏览器中打开链接后关闭";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "s0t-Oi-TET"; */
+"s0t-Oi-TET.title" = "高度：";
+
+/* Class = "NSTextFieldCell"; title = "Some name to identify this overlay:"; ObjectID = "ucc-Qd-nIQ"; */
+"ucc-Qd-nIQ.title" = "识别此叠层的一些名称：";
+
+/* Class = "NSTextFieldCell"; title = "Shared Secret for Scripting:"; ObjectID = "W4W-n7-WQb"; */
+"W4W-n7-WQb.title" = "脚本的共享密钥：";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "wd1-cX-J7h"; */
+"wd1-cX-J7h.title" = "宽度：";
+
+/* Class = "NSButtonCell"; title = "Do NOT cache this menu (will reduce memory usage, but take longer to show up)"; ObjectID = "WkX-dN-zXq"; */
+"WkX-dN-zXq.title" = "不要缓存此菜单（将减少内存占用，但显示的等待时间更长）";
+
+/* Class = "NSTextFieldCell"; placeholderString = "e.g. http"; ObjectID = "XRX-uu-VnZ"; */
+"XRX-uu-VnZ.placeholderString" = "例如 http";
+

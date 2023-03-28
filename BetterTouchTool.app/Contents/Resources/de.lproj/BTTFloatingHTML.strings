@@ -1,0 +1,72 @@
+/* Class = "NSTextFieldCell"; title = "This is relevant if you load external websites in the BTT webview: As the BTT Web View allows to execute code, it is necessary you trust the websites loaded. All btt:// url commands and all Apple Script commands called from external URLs must contain a shared_secret=yourSecret parameter, so loading untrusted websites is not a security risk. The secret is saved under the name \"BTTHTMLScriptingSharedSecret\" in your keychain."; ObjectID = "2jF-QH-YYW"; */
+"2jF-QH-YYW.title" = "Relevant wenn externe Webseiten in den BTT Webview geladen werden: Da der BTT Web View die Ausführung von Code erlaubt, ist es wichtig, dass der Webseite vertraut werden kann. Deshalb müssen alle btt:// URL-Kommandos einen Parameter shared_secret=deinGeteiltesPasswort enthalten. Das geteilte Passwort wird als \"BTTHTMLScriptingSharedSecret\" in der macOS Keychain gespeichert.";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "3yk-7K-6h2"; */
+"3yk-7K-6h2.label" = "Erweitert";
+
+/* Class = "NSButtonCell"; title = "Open URLs with prefix in system browser"; ObjectID = "6gp-Vx-YSX"; */
+"6gp-Vx-YSX.title" = "URLs mit diesem Prefix im System Browser öffnen";
+
+/* Class = "NSTabViewItem"; label = "Security when using untrusted URLs"; ObjectID = "9x1-8W-b4A"; */
+"9x1-8W-b4A.label" = "Sicherheit bei externen URLs";
+
+/* Class = "NSButtonCell"; title = "Draw title bar bezel"; ObjectID = "AmN-YV-Zzo"; */
+"AmN-YV-Zzo.title" = "Titelbar Hintergrund zeichnen";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "Cq7-fc-oeu"; */
+"Cq7-fc-oeu.title" = "Speichern";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Fenster";
+
+/* Class = "NSBox"; title = "Scripting BetterTouchTool"; ObjectID = "GAT-I9-jGr"; */
+"GAT-I9-jGr.title" = "BTT mit Skripten steuern";
+
+/* Class = "NSButtonCell"; title = "Custom User Agent:"; ObjectID = "iIR-yi-Nz3"; */
+"iIR-yi-Nz3.title" = "Benutzerdefinierter User Agent:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "kcf-Iq-EeQ"; */
+"kcf-Iq-EeQ.title" = "Abbrechen";
+
+/* Class = "NSButtonCell"; title = "Center on monitor with mouse"; ObjectID = "KeJ-Mb-8h2"; */
+"KeJ-Mb-8h2.title" = "Auf Monitor mit Maus zentrieren";
+
+/* Class = "NSTabViewItem"; label = "Default Settings"; ObjectID = "LE6-Wm-5xh"; */
+"LE6-Wm-5xh.label" = "Standard Einstellungen";
+
+/* Class = "NSTextFieldCell"; title = "Instead of a URL or File Path you can provide the HTML directly (will be preferred if both are set)"; ObjectID = "lGR-t4-K4R"; */
+"lGR-t4-K4R.title" = "Anstatt einer URL oder Datei kann hier HTML direkt eingegeben werden (wird bevorzugt genutzt)";
+
+/* Class = "NSButtonCell"; title = "Use white background (default is transparent)"; ObjectID = "Mpf-96-9sY"; */
+"Mpf-96-9sY.title" = "Weißen Hintergrund benutzen (sonst transparent)";
+
+/* Class = "NSTextFieldCell"; title = "Web URL or path to local HTML file to show in floating Web View:"; ObjectID = "MsW-yY-xR0"; */
+"MsW-yY-xR0.title" = "Web URL oder Pfad zu lokaler HTML Datei die geladen werden soll";
+
+/* Class = "NSButtonCell"; title = "Show window buttons"; ObjectID = "nBb-R6-so1"; */
+"nBb-R6-so1.title" = "Fensterbuttons anzeigen";
+
+/* Class = "NSButtonCell"; title = "Close when clicking outside"; ObjectID = "pEn-2a-fpQ"; */
+"pEn-2a-fpQ.title" = "Bei Klick außerhalb schließen";
+
+/* Class = "NSButtonCell"; title = "Close after opening a link in system browser"; ObjectID = "qIz-mq-66J"; */
+"qIz-mq-66J.title" = "Schließen nachdem ein Link im System Browser geöffnet wurde";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "s0t-Oi-TET"; */
+"s0t-Oi-TET.title" = "Höhe:";
+
+/* Class = "NSTextFieldCell"; title = "Some name to identify this overlay:"; ObjectID = "ucc-Qd-nIQ"; */
+"ucc-Qd-nIQ.title" = "Irgendein Name zur Identifizierung:";
+
+/* Class = "NSTextFieldCell"; title = "Shared Secret for Scripting:"; ObjectID = "W4W-n7-WQb"; */
+"W4W-n7-WQb.title" = "Geteiltes Passwort fürs Scripting:";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "wd1-cX-J7h"; */
+"wd1-cX-J7h.title" = "Breite:";
+
+/* Class = "NSButtonCell"; title = "Do NOT cache this menu (will reduce memory usage, but take longer to show up)"; ObjectID = "WkX-dN-zXq"; */
+"WkX-dN-zXq.title" = "Dieses Menü nicht zwischenspeichern (reduziert Speicherbedarf, aber ggf. etwas langsamer)";
+
+/* Class = "NSTextFieldCell"; placeholderString = "e.g. http"; ObjectID = "XRX-uu-VnZ"; */
+"XRX-uu-VnZ.placeholderString" = "z.B. http";
+

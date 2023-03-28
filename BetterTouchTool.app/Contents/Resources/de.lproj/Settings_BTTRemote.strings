@@ -1,0 +1,27 @@
+/* Class = "NSButtonCell"; title = "Reset Allowed Devices"; ObjectID = "BRz-Kc-are"; */
+"BRz-Kc-are.title" = "Zugelassene Geräte Zurücksetzen";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Cys-B9-3bS"; */
+"Cys-B9-3bS.title" = "Label";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Optional password"; ObjectID = "E0S-6k-wUg"; */
+"E0S-6k-wUg.placeholderString" = "Optionales Passwort";
+
+/* Class = "NSTextFieldCell"; title = "After resetting, all device connections need to be confirmed again."; ObjectID = "fJG-uo-fgT"; */
+"fJG-uo-fgT.title" = "Nach dem Zurücksetzen müssen alle Geräte neu autorisiert werden.";
+
+/* Class = "NSTextFieldCell"; title = "IP:"; ObjectID = "gh1-Ms-iJ5"; */
+"gh1-Ms-iJ5.title" = "IP:";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "IS7-Vf-hD0"; */
+"IS7-Vf-hD0.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Enable BTT Remote support"; ObjectID = "Qa7-jh-MG8"; */
+"Qa7-jh-MG8.title" = "BTT Remote Support aktivieren";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "wU7-u7-5nJ"; */
+"wU7-u7-5nJ.title" = "Port:";
+
+/* Class = "NSTextFieldCell"; title = "Even without password, BTT will ask for permission before it allows any connection. "; ObjectID = "Xkh-yt-Kdc"; */
+"Xkh-yt-Kdc.title" = "Auch ohne gesetztes Passwort wird BTT vor jeder Verbindung um Erlaubnis bitten.";
+

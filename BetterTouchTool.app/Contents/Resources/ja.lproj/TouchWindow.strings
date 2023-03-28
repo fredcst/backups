@@ -1,0 +1,60 @@
+/* Class = "NSTextFieldCell"; title = "This live view shows the touches after they have been processed by BTT (e.g. after thumb recognition and accidental touch removal was done). Depending on your settings this may give different results."; ObjectID = "0sO-KZ-mNh"; */
+"0sO-KZ-mNh.title" = "このライブビューには、BTTによって処理された後のタッチが表示されます（例：親指認識および誤ってタッチを削除した後）。設定によっては、結果が異なる場合があります。";
+
+/* Class = "NSWindow"; title = "Live View"; ObjectID = "1"; */
+"1.title" = "ライブビュー";
+
+/* Class = "NSTextFieldCell"; title = "Last recognized gesture:"; ObjectID = "30"; */
+"30.title" = "最後に認識されたジェスチャー：";
+
+/* Class = "NSTextFieldCell"; title = "Last recognized gesture:"; ObjectID = "32"; */
+"32.title" = "最後に認識されたジェスチャー：";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "47"; */
+"47.title" = "ウィンドウ";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "48"; */
+"48.title" = "ウィンドウ";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "53"; */
+"53.title" = "閉じる";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "76"; */
+"76.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Nothing"; ObjectID = "77"; */
+"77.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "Magic Mouse Middletap Area"; ObjectID = "78"; */
+"78.title" = "Magic Mouseのミドルタップエリア";
+
+/* Class = "NSMenuItem"; title = "Magic Mouse Above Apple Tap Area"; ObjectID = "79"; */
+"79.title" = "Magic Mouseのアップルタップエリア上";
+
+/* Class = "NSTextFieldCell"; title = "Show:"; ObjectID = "81"; */
+"81.title" = "表示：";
+
+/* Class = "NSMenuItem"; title = "Magic Mouse Middleclick Area"; ObjectID = "82"; */
+"82.title" = "Magic Mouseのミドルクリックエリア";
+
+/* Class = "NSMenuItem"; title = "Touchpad Single Finger Tap Areas"; ObjectID = "85"; */
+"85.title" = "タッチパッドシングルフィンガータップエリア";
+
+/* Class = "NSTextFieldCell"; title = "Only global gestures you have already set up  will be recognized correctly"; ObjectID = "94"; */
+"94.title" = "すでに設定したグローバルジェスチャーのみが正しく認識されます。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Only gestures you have already setup in BTT will be recognized correctly"; ObjectID = "97"; */
+"97.ibShadowedIsNilPlaceholder" = "BTTで既に設定したジェスチャのみが正しく認識されます。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "------"; ObjectID = "98"; */
+"98.ibShadowedIsNilPlaceholder" = "------";
+
+/* Class = "NSMenuItem"; title = "Magic Mouse Ignore Settings"; ObjectID = "99"; */
+"99.title" = "Magic Mouse設定を無視";
+
+/* Class = "NSMenuItem"; title = "Touchpad Three Finger Tap Bottom / Top Area"; ObjectID = "101"; */
+"101.title" = "タッチパッド3本指タップ下部/上部エリア";
+
+/* Class = "NSTextFieldCell"; title = "Only global gestures you have already set up  will be recognized correctly and maybe not every gesture is shown in this view."; ObjectID = "114"; */
+"114.title" = "既に設定したグローバルジェスチャーのみが正しく認識され、すべてのジェスチャーがこのビューに表示されるとは限りません。";
+

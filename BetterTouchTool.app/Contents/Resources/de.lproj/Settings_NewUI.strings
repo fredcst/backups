@@ -1,0 +1,69 @@
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "2ag-X6-62r"; */
+"2ag-X6-62r.placeholderString" = "0";
+
+/* Class = "NSButtonCell"; title = "Show Menu Bar Icon"; ObjectID = "BDF-Ls-Vla"; */
+"BDF-Ls-Vla.title" = "Zeige Icon in Menüleiste";
+
+/* Class = "NSTextFieldCell"; title = "Font Sizes in the Main User Interface:"; ObjectID = "bF6-1t-R03"; */
+"bF6-1t-R03.title" = "Schriftgrößen im Haupt-Benutzerinterface";
+
+/* Class = "NSTextFieldCell"; title = "Region Settings"; ObjectID = "dGk-at-7wa"; */
+"dGk-at-7wa.title" = "Regions Einstellungen";
+
+/* Class = "NSMenuItem"; title = "German"; ObjectID = "EPk-nR-CzQ"; */
+"EPk-nR-CzQ.title" = "Deutsch";
+
+/* Class = "NSButtonCell"; title = "Use new BetterTouchTool UI as default"; ObjectID = "ezH-uf-Imh"; */
+"ezH-uf-Imh.title" = "Neues BTT Interface als Standard";
+
+/* Class = "NSMenuItem"; title = "Chinese"; ObjectID = "FT9-WM-U2T"; */
+"FT9-WM-U2T.title" = "Chinesisch";
+
+/* Class = "NSMenuItem"; title = "System Language (if available)"; ObjectID = "Gi6-xk-Za7"; */
+"Gi6-xk-Za7.title" = "Systemsprache (wenn verfügbar)";
+
+/* Class = "NSButtonCell"; title = "Only show recently used colors in side-bar color picker dropdown"; ObjectID = "GSP-fM-eAg"; */
+"GSP-fM-eAg.title" = "Nur zuletzt benutze Farben im Farbwähler anzeigen";
+
+/* Class = "NSButtonCell"; title = "Show Dock Icon while running (may require restart)"; ObjectID = "HgD-SI-y0k"; */
+"HgD-SI-y0k.title" = "Zeige BTT Dock Icon (Evtl. Neustart nötig)";
+
+/* Class = "NSMenuItem"; title = "Use Default Dark Translucent Side-Bar"; ObjectID = "iJ5-Xz-Owp"; */
+"iJ5-Xz-Owp.title" = "Standard Dunkel-Transparente Seitenleiste verwenden";
+
+/* Class = "NSTextFieldCell"; title = "(If you hide the icon you can access the preferences by starting BTT again)"; ObjectID = "n6O-KM-OAc"; */
+"n6O-KM-OAc.title" = "(Wenn das Icon versteckt ist, kann durch erneutes Starten auf die Einstellungen zugegriffen werden)";
+
+/* Class = "NSTextFieldCell"; title = "Various things:"; ObjectID = "Ncl-Aa-sht"; */
+"Ncl-Aa-sht.title" = "Verschiedenes:";
+
+/* Class = "NSButtonCell"; title = "Restart BTT to Apply Changes"; ObjectID = "ncQ-Yh-7WH"; */
+"ncQ-Yh-7WH.title" = "BTT neustarten um Änderungen zu aktivieren";
+
+/* Class = "NSTextFieldCell"; title = "Language:"; ObjectID = "nnt-Y4-XMi"; */
+"nnt-Y4-XMi.title" = "Sprache:";
+
+/* Class = "NSTextFieldCell"; title = "pt"; ObjectID = "Oqz-zg-pD3"; */
+"Oqz-zg-pD3.title" = "pt";
+
+/* Class = "NSTextFieldCell"; title = "App Side-Bar:"; ObjectID = "Qmh-a2-QUD"; */
+"Qmh-a2-QUD.title" = "App Seitenleiste:";
+
+/* Class = "NSMenuItem"; title = "English"; ObjectID = "QY0-0I-Gqg"; */
+"QY0-0I-Gqg.title" = "Englisch";
+
+/* Class = "NSMenuItem"; title = "Use Custom Color Side-Bar (Transluceny Depending on Color)"; ObjectID = "Rxb-kV-YDx"; */
+"Rxb-kV-YDx.title" = "Benutzerdefinierter Hintergrund für Seitenleiste:";
+
+/* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "sRT-Ru-NeD"; */
+"sRT-Ru-NeD.title" = "Japanisch";
+
+/* Class = "NSButtonCell"; title = "Restart BTT to Apply Changes"; ObjectID = "ykD-Tk-Gel"; */
+"ykD-Tk-Gel.title" = "BTT neustarten um Änderungen zu aktivieren";
+
+/* Class = "NSTextFieldCell"; title = "Increase / Decrease Base Font Size by:"; ObjectID = "yS5-lN-m1A"; */
+"yS5-lN-m1A.title" = "Basis Schriftgröße vergrößern/verkleinern um:";
+
+/* Class = "NSTextFieldCell"; title = "Language & Region"; ObjectID = "ZgF-97-rcQ"; */
+"ZgF-97-rcQ.title" = "Sprache & Region";
+

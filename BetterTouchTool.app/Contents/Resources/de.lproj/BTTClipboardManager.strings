@@ -1,0 +1,66 @@
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "6Mb-ww-W77"; */
+"6Mb-ww-W77.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Close Clipboard Manager on outside click / focus loss"; ObjectID = "8dx-ie-piY"; */
+"8dx-ie-piY.title" = "Clipboard Manager bei Klick außerhalb des Fenster schließen";
+
+/* Class = "NSButtonCell"; title = "Record concealed or application specific clipboard contents (e.g. copied passwords)"; ObjectID = "9JK-gv-BdR"; */
+"9JK-gv-BdR.title" = "Speichere auch maskierte oder anwendungsspezifische Elemente (z.B. Passwörter)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EIv-lA-Z7W"; */
+"EIv-lA-Z7W.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click To Show in Finder"; ObjectID = "Ffw-4N-2eA"; */
+"Ffw-4N-2eA.ibShadowedToolTip" = "In Finder zu zeigen";
+
+/* Class = "NSButtonCell"; title = "Keep Clipboard Manager floating on top while open (may cause pasting issues if disabled)"; ObjectID = "GJ1-x8-VPe"; */
+"GJ1-x8-VPe.title" = "Clipboard Manager immer über allen anderen Fenstern anzeigen";
+
+/* Class = "NSButtonCell"; title = "Show Dock icon while open"; ObjectID = "HgS-FX-MmW"; */
+"HgS-FX-MmW.title" = "Dock Icon anzeigen wenn offen";
+
+/* Class = "NSButtonCell"; title = "Paste selection when triggering the clipboard manager action again while it's already open"; ObjectID = "IcX-Do-hA4"; */
+"IcX-Do-hA4.title" = "Einfügen wenn Clipboard Manager aktiviert wird während er schon offen ist";
+
+/* Class = "NSButtonCell"; title = "Close Clipboard Manager after all actions"; ObjectID = "PyL-QC-ZAp"; */
+"PyL-QC-ZAp.title" = "Clipboard Manager nach jeder Aktion schließen";
+
+/* Class = "NSButtonCell"; title = "Clear All History"; ObjectID = "UUE-BN-diz"; */
+"UUE-BN-diz.title" = "Gesamte Historie löschen";
+
+/* Class = "NSButtonCell"; title = "☆"; ObjectID = "V2a-Jp-LdP"; */
+"V2a-Jp-LdP.title" = "☆";
+
+/* Class = "NSButtonCell"; title = "DISABLE Microsoft Office performance optimizations"; ObjectID = "Xlp-Wb-VP8"; */
+"Xlp-Wb-VP8.title" = "Microsoft Office Performanz Optimierungen deaktivieren";
+
+/* Class = "NSMenuItem"; title = "Show on monitor that contains the mouse cursor"; ObjectID = "bta-Mp-C30"; */
+"bta-Mp-C30.title" = "Auf Monitor mit Maus Cursor zeigen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only Show Favorites"; ObjectID = "d2e-ob-eJX"; */
+"d2e-ob-eJX.ibShadowedToolTip" = "Nur Favoriten zeigen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Settings"; ObjectID = "ewr-T5-l3i"; */
+"ewr-T5-l3i.ibShadowedToolTip" = "Einstellungen";
+
+/* Class = "NSButtonCell"; title = "Clear All History, KEEP Favorites"; ObjectID = "gyU-pn-mi1"; */
+"gyU-pn-mi1.title" = "Historie löschen, Favoriten behalten";
+
+/* Class = "NSTextFieldCell"; title = "Keep items in history for x days (favorites will never be deleted)"; ObjectID = "hiI-ua-cS2"; */
+"hiI-ua-cS2.title" = "Elemente für X Tage behalten (Favoriten werden nie gelöscht)";
+
+/* Class = "NSMenuItem"; title = "Show on main monitor"; ObjectID = "iP5-In-EIV"; */
+"iP5-In-EIV.title" = "Auf Hauptmonitor zeigen";
+
+/* Class = "NSButtonCell"; title = "Move pasted item to top of list"; ObjectID = "ofS-B3-Ac7"; */
+"ofS-B3-Ac7.title" = "Eingefügtes Element in der Liste nach oben bewegen";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rqd-s8-29s"; */
+"rqd-s8-29s.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Show on monitor that contains active window"; ObjectID = "yuL-7A-6mP"; */
+"yuL-7A-6mP.title" = "Auf Monitor mit aktivem Fenster zeigen";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "zfh-Vx-aVs"; */
+"zfh-Vx-aVs.title" = "Table View Cell";

@@ -1,0 +1,363 @@
+/* Class = "NSButtonCell"; title = "Snap to top"; ObjectID = "1YK-Gk-mcQ"; */
+"1YK-Gk-mcQ.title" = "Oben einrasten";
+
+/* Class = "NSButtonCell"; title = "bring moving window to front"; ObjectID = "2x5-JL-lxe"; */
+"2x5-JL-lxe.title" = "Das bewegte Fenster nach vorne bringen";
+
+/* Class = "NSTextFieldCell"; title = "Empty space between window edges:"; ObjectID = "4iO-Bt-1NK"; */
+"4iO-Bt-1NK.title" = "Abstand zwischen Fensterkanten:";
+
+/* Class = "NSButtonCell"; title = "For a more complete documentation & introductory video click here"; ObjectID = "7Rd-mw-fgt"; */
+"7Rd-mw-fgt.title" = "Eine ausführlichere Dokumentation mit Video gibt es hier";
+
+/* Class = "NSButtonCell"; title = "Import existing Snap Areas from BetterSnapTool (experimental)"; ObjectID = "8Ii-cB-tPp"; */
+"8Ii-cB-tPp.title" = "Existierende Snap Areas aus BetterSNAPTool importieren (experimentell)";
+
+/* Class = "NSTextFieldCell"; title = "Right width:"; ObjectID = "8kh-gA-Vxk"; */
+"8kh-gA-Vxk.title" = "Breite rechts:";
+
+/* Class = "NSButtonCell"; title = "Snap to bottom left"; ObjectID = "9a8-Po-anO"; */
+"9a8-Po-anO.title" = "Unten links einrasten";
+
+/* Class = "NSButtonCell"; title = "fn"; ObjectID = "9Bs-qD-5dW"; */
+"9Bs-qD-5dW.title" = "fn";
+
+/* Class = "NSTextFieldCell"; title = "Background-color:"; ObjectID = "9dE-gD-PRM"; */
+"9dE-gD-PRM.title" = "Hintergrundfarbe:";
+
+/* Class = "NSButtonCell"; title = "⌃ (ctrl)"; ObjectID = "70n-h6-NcL"; */
+"70n-h6-NcL.title" = "⌃ (ctrl)";
+
+/* Class = "NSButtonCell"; title = "Focused Window"; ObjectID = "78q-BG-GaW"; */
+"78q-BG-GaW.title" = "Fokussiertes Fenster";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Right Half"; ObjectID = "80T-KY-hw1"; */
+"80T-KY-hw1.ibShadowedToolTip" = "Rechte Hälfte";
+
+/* Class = "NSButtonCell"; title = "⇧(shift)"; ObjectID = "94L-sE-vjc"; */
+"94L-sE-vjc.title" = "⇧(shift)";
+
+/* Class = "NSTextFieldCell"; title = "Delay:"; ObjectID = "AlK-vx-3Cq"; */
+"AlK-vx-3Cq.title" = "Verzögerung:";
+
+/* Class = "NSTextFieldCell"; title = "On macOS 10.11 or greater, dragging a window to the top can result in Mission Control showing up. To prevent this check the following option, which will make it a bit harder to accidentally trigger Mission Control."; ObjectID = "aqS-FS-LUG"; */
+"aqS-FS-LUG.title" = "Auf macOS 10.11 oder höher, resultiert das Ziehen von Fenstern nach oben im öffnen von Mission Control. Um dies zu etwas zu verzögern aktiviere die folgende Option.";
+
+/* Class = "NSButtonCell"; title = "Use the monitor the mouse is on for all window actions (instead of the monitor the window is on)"; ObjectID = "BfO-RN-pa6"; */
+"BfO-RN-pa6.title" = "Den Monitor auf dem die Maus ist für alle Aktionen nutzen (anstatt dem Monitor mit dem Fenster)";
+
+/* Class = "NSTextFieldCell"; title = "2.) open the terminal app via spotlight"; ObjectID = "bHi-KD-pzG"; */
+"bHi-KD-pzG.title" = "2.) Terminal App via Spotlight öffnen";
+
+/* Class = "NSButtonCell"; title = "Enable window snapping"; ObjectID = "BM9-bC-kOd"; */
+"BM9-bC-kOd.title" = "Fenster-Snapping aktivieren";
+
+/* Class = "NSButtonCell"; title = "Right edge: resize to right half"; ObjectID = "BOg-S8-Ec8"; */
+"BOg-S8-Ec8.title" = "Rechte kante: Nach rechts einrasten";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "bpl-Ce-sRh"; */
+"bpl-Ce-sRh.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "1.) Resize an arbitrary window on your screen to the position & size where you want the new  Snap Area to snap to later\n\n2.) Click on the BetterSnapTool menubar icon and select \"Snap Areas\", then select \"Create New Snap Area (Use Active Window As Template)\" \n\n3.) BetterSnapTool will open a view which shows the newly created  Snap Area and highlights the position where it will snap to later. You can now edit it. (e.g. move it to the edges of the screen, change the color etc.)\n\n4.) After you have finished editing your  Snap Area just press cmd+w or click the shown icon to finish the whole process.\n\n"; ObjectID = "Brb-BK-00g"; */
+"Brb-BK-00g.title" = "1.) Nimm ein Fenster und ändere seine Größe so wie du sie später immer haben willst. Dies wird als Vorlage genutzt.\n\n2.)  Klicke das BTT Menüleisten Icon an und wähle \"Snap Areas\", dann \"Neue Snap Area, nutze aktives Fenster als Vorlage\"\n\n3.) BTT sollte jetzt eine Ansicht öffnen die die neue Snap Area zeigt und auch den Bereich hervorhebt den du mit der Fenstervorlage definiert hast. Du kannst die Snap Area jetzt beliebig bewegen, sie definiert den Bereich in den du später die Maus ziehen musst um in den durch deine Vorlage definierten Bereich einzurasten.\n\n4.) Nachdem du fertig bist drücke CMD+W oder klicke auf das Icon in der Mitte um den Prozess abzuschließen.\n\n";
+
+/* Class = "NSButtonCell"; title = "Delay on right half of the menubar"; ObjectID = "cgf-JC-Nt2"; */
+"cgf-JC-Nt2.title" = "Verzögerung auf rechter Hälfte der Menüleiste";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Left Half"; ObjectID = "cGs-Lc-ch5"; */
+"cGs-Lc-ch5.ibShadowedToolTip" = "Linke Hälfte";
+
+/* Class = "NSTabViewItem"; label = "Advanced Snap Settings"; ObjectID = "Cnd-Wo-beU"; */
+"Cnd-Wo-beU.label" = "Erweiterte Snap Einstellungen";
+
+/* Class = "NSButtonCell"; title = "Delay on left half of the menubar"; ObjectID = "cuE-Ch-ISH"; */
+"cuE-Ch-ISH.title" = "Verzögerung auf linker Hälfte der Menüleiste";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Maximize"; ObjectID = "DbC-4g-fFp"; */
+"DbC-4g-fFp.ibShadowedToolTip" = "Maximieren";
+
+/* Class = "NSButtonCell"; title = "Allow Snap Areas to snap if drag was started inside of a snap area"; ObjectID = "dnm-GL-KbE"; */
+"dnm-GL-KbE.title" = "Einrasten erlauben auch wenn das Ziehen innerhalb der Snap Area gestartet wurde";
+
+/* Class = "NSButtonCell"; title = "Snap to top right"; ObjectID = "DuI-dJ-NJV"; */
+"DuI-dJ-NJV.title" = "Oben rechts einrasten";
+
+/* Class = "NSTextFieldCell"; title = "Pixel"; ObjectID = "eDb-iH-4Qo"; */
+"eDb-iH-4Qo.title" = "Pixel";
+
+/* Class = "NSTextFieldCell"; title = "Dragging to the top tips:"; ObjectID = "EdT-UT-VbU"; */
+"EdT-UT-VbU.title" = "Tipps fürs nach oben ziehen:";
+
+/* Class = "NSButtonCell"; title = "Leave small gap above dock"; ObjectID = "eJp-vU-7jq"; */
+"eJp-vU-7jq.title" = "Kleinen Abstand über dem Dock freilassen";
+
+/* Class = "NSTextFieldCell"; title = "defaults write com.apple.dock workspaces-edge-delay -float 2.0; killall Dock"; ObjectID = "EpG-UB-GtV"; */
+"EpG-UB-GtV.title" = "defaults write com.apple.dock workspaces-edge-delay -float 2.0; killall Dock";
+
+/* Class = "NSTextFieldCell"; title = "Corner Snapping / Move to quarters:"; ObjectID = "erH-WV-Is0"; */
+"erH-WV-Is0.title" = "Eck / Quadrant Einrasten";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "eTc-t7-ggO"; */
+"eTc-t7-ggO.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "⌘ (cmd)"; ObjectID = "f4D-Cn-sJh"; */
+"f4D-Cn-sJh.title" = "⌘ (cmd)";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "f7P-88-ZnL"; */
+"f7P-88-ZnL.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "Move windows:"; ObjectID = "FhN-7M-yMg"; */
+"FhN-7M-yMg.title" = "Bewege Fenster:";
+
+/* Class = "NSButtonCell"; title = "Don't restore old window size if old size was fullscreen / maximized"; ObjectID = "fNf-VI-uQs"; */
+"fNf-VI-uQs.title" = "Alte Fenstergröße nicht wiederherstellen wenn Fenster maximiert war.";
+
+/* Class = "NSButtonCell"; title = "Enable high performance mode (uses more memory)"; ObjectID = "gfH-qb-KHa"; */
+"gfH-qb-KHa.title" = "High Performance Modus aktivieren (braucht mehr Speicher)";
+
+/* Class = "NSTextFieldCell"; title = "If you are using BetterSnapTool and Spaces / Mission Control at the same time you may know the problem: Trying to snap windows to the left or to the right can result in a switch of the Space . A nice workaround for this is to use the following Terminal command to increase the delay before the system switches the Space."; ObjectID = "Gkm-IA-0AZ"; */
+"Gkm-IA-0AZ.title" = "Wenn du BTT und Spaces/Mission Control benutzt, ist dir vielleicht schon aufgefallen, dass beim ziehen von Fenstern nach links oder rechts der Desktop gewechselt wird. Dies kann verhindert werden indem die Verzögerung bevor dies geschieht erhöht wird.";
+
+/* Class = "NSButtonCell"; title = "Delay on left half of the menubar"; ObjectID = "GVb-Fl-SJd"; */
+"GVb-Fl-SJd.title" = "Verzögerung auf linker Hälfte der Menüleiste";
+
+/* Class = "NSButtonCell"; title = "Delay on right half of the menubar"; ObjectID = "hLq-ST-w0c"; */
+"hLq-ST-w0c.title" = "Verzögerung auf rechter Hälfte der Menüleiste";
+
+/* Class = "NSTextFieldCell"; title = "Normal Snapping / Moving Widths :"; ObjectID = "HQa-8E-1vH"; */
+"HQa-8E-1vH.title" = "Fensterbreiten beim normalen Snappen/Bewegen:";
+
+/* Class = "NSButtonCell"; title = "Snap to top left"; ObjectID = "I4L-ez-bFE"; */
+"I4L-ez-bFE.title" = "Oben links einrasten";
+
+/* Class = "NSTextFieldCell"; title = "Border-width:"; ObjectID = "i9M-4u-zTm"; */
+"i9M-4u-zTm.title" = "Rahmenbreite:";
+
+/* Class = "NSButtonCell"; title = "Delay Mission Control when dragging windows to the top."; ObjectID = "iK0-Gs-11H"; */
+"iK0-Gs-11H.title" = "Mission Control beim \"nach oben ziehen\" verzögern.";
+
+/* Class = "NSTextFieldCell"; title = "Window Snapping Process Timeout"; ObjectID = "INY-y6-1Sh"; */
+"INY-y6-1Sh.title" = "Fenster Snapping Prozess Timeout";
+
+/* Class = "NSTextFieldCell"; title = "Move window under cursor if those keys are pressed while you move the cursor:"; ObjectID = "jHR-c8-dsH"; */
+"jHR-c8-dsH.title" = "Fenster unter dem Mauszeiger bewegen während diese Tasten gedrückt sind:";
+
+/* Class = "NSButtonCell"; title = "Top edge: maximize"; ObjectID = "JJM-CI-u6Q"; */
+"JJM-CI-u6Q.title" = "Oben: Maximieren";
+
+/* Class = "NSTextFieldCell"; title = "Border-color:"; ObjectID = "jmU-UU-nqa"; */
+"jmU-UU-nqa.title" = "Rahmenfarbe:";
+
+/* Class = "NSTextFieldCell"; title = "Advanced settings:"; ObjectID = "juv-cg-rES"; */
+"juv-cg-rES.title" = "Erweiterte Einstellungen";
+
+/* Class = "NSButtonCell"; title = "⌘ (cmd)"; ObjectID = "jvu-ze-kRB"; */
+"jvu-ze-kRB.title" = "⌘ (cmd)";
+
+/* Class = "NSTextFieldCell"; title = "Select which window should be used for the predefined window moving features (except for start/stop moving and resizing they always use the window under the cursor)"; ObjectID = "JYd-xU-dD4"; */
+"JYd-xU-dD4.title" = "Auswählen welches Fenster für die verschiedenen  Aktionen zur Größenänderung / Fensterbewegung in BetterTouchTool genutzt wird.";
+
+/* Class = "NSButtonCell"; title = "Snap to right"; ObjectID = "jYk-Jn-inF"; */
+"jYk-Jn-inF.title" = "Rechts einrasten";
+
+/* Class = "NSTextFieldCell"; title = "3.) paste the line above into the terminal app"; ObjectID = "jYQ-S2-LMb"; */
+"jYQ-S2-LMb.title" = "3.) Die Zeile oben in die Terminal App einfügen";
+
+/* Class = "NSTextFieldCell"; title = "40"; ObjectID = "KNE-1O-VwW"; */
+"KNE-1O-VwW.title" = "40";
+
+/* Class = "NSTextFieldCell"; title = "Left width:"; ObjectID = "kYL-hd-EYf"; */
+"kYL-hd-EYf.title" = "Breite links:";
+
+/* Class = "NSTextFieldCell"; title = "Resize windows:"; ObjectID = "lnZ-1z-8zU"; */
+"lnZ-1z-8zU.title" = "Größenänderung von Fenstern:";
+
+/* Class = "NSButtonCell"; title = "fn"; ObjectID = "nao-ct-b5a"; */
+"nao-ct-b5a.title" = "fn";
+
+/* Class = "NSTextFieldCell"; title = "Pixel treshold before starting to move or resize:"; ObjectID = "nCO-SL-leT"; */
+"nCO-SL-leT.title" = "Mindestbewegung in Pixeln bevor das Bewegen gestartet wird:";
+
+/* Class = "NSTextFieldCell"; title = "1.) copy the complete line above"; ObjectID = "Nd9-QD-q1W"; */
+"Nd9-QD-q1W.title" = "1.) Kopiere die ganze Zeile";
+
+/* Class = "NSTextFieldCell"; title = "Corner recognition area:"; ObjectID = "nVp-6b-ARC"; */
+"nVp-6b-ARC.title" = "Eck-Erkennungs-Bereich:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Top Left Quarter"; ObjectID = "o2z-xr-5YO"; */
+"o2z-xr-5YO.ibShadowedToolTip" = "Oberer linker Quadrant";
+
+/* Class = "NSTextFieldCell"; title = "Resize window under cursor if those keys are pressed while you move the cursor:"; ObjectID = "oDR-SB-Tc5"; */
+"oDR-SB-Tc5.title" = "Größe der Fenster unter dem Mauszeiger ändern während diese Tasten gedrückt sind:";
+
+/* Class = "NSButtonCell"; title = "If checked BetterTouchTool will use a bit more memory, but Snap Areas show up faster."; ObjectID = "oev-XL-dxq"; */
+"oev-XL-dxq.title" = "Wenn aktiviert braucht BTT etwas mehr Speicher aber Snap Areas erscheinen schneller";
+
+/* Class = "NSTabViewItem"; label = "Window Snapping"; ObjectID = "Oqp-Fv-BJr"; */
+"Oqp-Fv-BJr.label" = "Fenster Snapping";
+
+/* Class = "NSButtonCell"; title = "Delay before snapping:"; ObjectID = "p68-1q-L9e"; */
+"p68-1q-L9e.title" = "Verzögerung vorm Einrasten:";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "pR5-2j-SUD"; */
+"pR5-2j-SUD.title" = "1 px";
+
+/* Class = "NSTabViewItem"; label = "Snap Appearance"; ObjectID = "pRQ-LM-HMH"; */
+"pRQ-LM-HMH.label" = "Snap Darstellung";
+
+/* Class = "NSTextFieldCell"; title = "General Tips:"; ObjectID = "qb3-9C-MYT"; */
+"qb3-9C-MYT.title" = "Generelle Hinweise:";
+
+/* Class = "NSTextFieldCell"; title = "Increase snapping recognition areas by:"; ObjectID = "qd8-Qo-MHf"; */
+"qd8-Qo-MHf.title" = "Snap Erkennungsbereiche vergrößern um:";
+
+/* Class = "NSButtonCell"; title = "Using BetterTouchTool and Spaces / Mission Control at the same time?"; ObjectID = "QGo-Cj-FQB"; */
+"QGo-Cj-FQB.title" = "BetterTouchTool & Spaces / Mission Control gleichzeitig nutzen?";
+
+/* Class = "NSBox"; title = "This affects all predefined actions which do somehow change the window size or position"; ObjectID = "rJp-OZ-bmh"; */
+"rJp-OZ-bmh.title" = "Dies betrifft alle vordefinierten Aktionen die Fenstergröße oder Position ändern";
+
+/* Class = "NSTextFieldCell"; title = "1 s"; ObjectID = "Rkt-24-k5V"; */
+"Rkt-24-k5V.title" = "1 s";
+
+/* Class = "NSButtonCell"; title = "Animated"; ObjectID = "RLv-m7-S9g"; */
+"RLv-m7-S9g.title" = "Animiert";
+
+/* Class = "NSTextFieldCell"; title = "Tip: don't miss the opacity slider when setting custom colors!"; ObjectID = "RnV-it-89h"; */
+"RnV-it-89h.title" = "Tipp: Transparenzschieberegler nicht übersehen!";
+
+/* Class = "NSButtonCell"; title = "Delay Mission Control when dragging windows to the top."; ObjectID = "RqX-wz-IVt"; */
+"RqX-wz-IVt.title" = "Mission Control beim \"nach oben ziehen\" verzögern.";
+
+/* Class = "NSButtonCell"; title = "⌥ (opt)"; ObjectID = "Ryb-b2-hro"; */
+"Ryb-b2-hro.title" = "⌥ (opt)";
+
+/* Class = "NSTextFieldCell"; title = "Advanced: While using predefined actions start/stop moving:"; ObjectID = "s2q-mj-Zgg"; */
+"s2q-mj-Zgg.title" = "Erweitert: Wenn die vordefinierten Aktionen Starte/Stoppe Bewegung genutzt werden:";
+
+/* Class = "NSBox"; title = "Window moving & resizing"; ObjectID = "S6q-aq-hRy"; */
+"S6q-aq-hRy.title" = "Fensterbewegung & Größenänderung";
+
+/* Class = "NSButtonCell"; title = "Only increase if more than one monitor is connected"; ObjectID = "S7L-Ho-clo"; */
+"S7L-Ho-clo.title" = "Nur vergrößern wenn mehr als ein Monitor angeschlossen ist.";
+
+/* Class = "NSButtonCell"; title = "Don't restore old window size if alt/opt is pressed while dragging away"; ObjectID = "s8t-RU-img"; */
+"s8t-RU-img.title" = "Alte Größe nicht wiederherstellen wenn alt/opt beim Wegziehen gedrückt ist";
+
+/* Class = "NSButtonCell"; title = "Use rounded corners"; ObjectID = "Sdg-bo-VZd"; */
+"Sdg-bo-VZd.title" = "Abgerundete Ecken";
+
+/* Class = "NSButtonCell"; title = "No padding if you maximize a window"; ObjectID = "sdT-dB-Xg2"; */
+"sdT-dB-Xg2.title" = "Kein Abstand wenn Fenster maximiert";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "sg5-Qr-tTf"; */
+"sg5-Qr-tTf.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "Instructions: in order to snap a window to one of the above mentioned positions click on its titlebar and drag it to the screen's edges. As soon as the mouse cursor touches the corners or edges of the screen a graphic will show you how the window will be resized after you release the drag."; ObjectID = "Shb-co-XNB"; */
+"Shb-co-XNB.title" = "Anleitung: Um ein Fenster in eine der oben genannten Positionen einzurasten, klicke auf seine Titelleiste und ziehe die Maus bis an die Bildschirm Kanten oder Ecken. Das Fenster wird seine Größe ändern sobald du die Maus loslässt.";
+
+/* Class = "NSButtonCell"; title = "⇧(shift)"; ObjectID = "SmS-Kp-K7b"; */
+"SmS-Kp-K7b.title" = "⇧(shift)";
+
+/* Class = "NSTextFieldCell"; title = "For window moving and resizing with the magic mouse you can also use the gestures 2 and 3 finger touch top in combination with predefined actions start / stop moving and resizing."; ObjectID = "sN2-Jz-37D"; */
+"sN2-Jz-37D.title" = "Mit der Magic Mouse können auch die Gesten 2 und 3 Finger Berührung Oben in Kombination mit den vordefinierten Aktionen \"Starte/Stoppe Bewegung & Größenänderung\"  genutzt werden.";
+
+/* Class = "NSTabViewItem"; label = "Moving & Resizing Modifier Keys"; ObjectID = "sya-lN-qIX"; */
+"sya-lN-qIX.label" = "Fensterbewegung & Größenänderung mit Zusatztasten";
+
+/* Class = "NSButtonCell"; title = "Window under cursor"; ObjectID = "T6n-j4-NIT"; */
+"T6n-j4-NIT.title" = "Fenster unter Mauscursor";
+
+/* Class = "NSButtonCell"; title = "Snap to left"; ObjectID = "th8-PM-iiQ"; */
+"th8-PM-iiQ.title" = "Links einrasten";
+
+/* Class = "NSTextFieldCell"; title = "5.) the system will now wait 2 seconds before changing the space. If you want you can change the delay to other values by changing the value 2.0 in the line above to other values."; ObjectID = "Tin-Zi-fRM"; */
+"Tin-Zi-fRM.title" = "5.) das System wartet jetzt 2 Sekunden bevor es den Desktop wechselt. (Andere Werte können nach belieben gesetzt werden)";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "tq4-nn-gYV"; */
+"tq4-nn-gYV.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "tUp-Qu-zl0"; */
+"tUp-Qu-zl0.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Right width:"; ObjectID = "Tv2-Wa-FbR"; */
+"Tv2-Wa-FbR.title" = "Breite rechts:";
+
+/* Class = "NSButtonCell"; title = "Corners: resize to quarters"; ObjectID = "uad-bp-eBe"; */
+"uad-bp-eBe.title" = "Ecken: Zu Quadranten einrasten";
+
+/* Class = "NSButtonCell"; title = "⌃ (ctrl)"; ObjectID = "UL9-Pf-WRH"; */
+"UL9-Pf-WRH.title" = "⌃ (ctrl)";
+
+/* Class = "NSButtonCell"; title = "Move windows with min-sizes offscreen instead of overlapping them"; ObjectID = "UyN-uz-m0G"; */
+"UyN-uz-m0G.title" = "Fenster die Mindestgrößen haben lieber teilweise außerhalb des Bildschirms bewegen als sie zu überlappen.";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "Uyt-ZO-acg"; */
+"Uyt-ZO-acg.title" = "1 px";
+
+/* Class = "NSTextFieldCell"; title = "Radius:"; ObjectID = "V1L-SU-oPg"; */
+"V1L-SU-oPg.title" = "Radius:";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "V8L-22-T7I"; */
+"V8L-22-T7I.title" = "Dauer:";
+
+/* Class = "NSTextFieldCell"; title = "Left width:"; ObjectID = "vjk-d7-KW0"; */
+"vjk-d7-KW0.title" = "Breite links:";
+
+/* Class = "NSTextFieldCell"; title = "Appeareance of the preview overlay:"; ObjectID = "WdP-xB-SFy"; */
+"WdP-xB-SFy.title" = "Darstellung der Vorschauüberlagerung";
+
+/* Class = "NSTextFieldCell"; title = "User-customizable Snap Areas are a new, advanced, feature in BetterTouchTool. It allows you to create additional areas that snap to a specific position & size if a window is dragged onto them. In order to create new  Snap Areas the BetterTouchTool menubar icon has to be visible."; ObjectID = "Wgu-Jx-FZ8"; */
+"Wgu-Jx-FZ8.title" = "Benutzerdefinierte Snap Areas sind ein komplexes und mächtiges Feature in BetterTouchTool. Sie erlauben es Bereiche zu definieren die ein Fenster zu einer bestimmten Größe und Position verschieben sobald ein Fenster auf sie gezogen wird. Neue Snap Areas können über das BetterTouchTool Menüleisten Icon erstellt werden";
+
+/* Class = "NSButtonCell"; title = "Snap to bottom right"; ObjectID = "wlP-mf-IWX"; */
+"wlP-mf-IWX.title" = "Unten links einrasten";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "wmG-Gn-TYS"; */
+"wmG-Gn-TYS.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Disable the Snap Area feature (setting will become active after restarting BetterTouchTool)"; ObjectID = "XDI-2H-X2O"; */
+"XDI-2H-X2O.title" = "Snap Areas deaktivieren (BTT Neustart notwendig)";
+
+/* Class = "NSButtonCell"; title = "⌥ (opt)"; ObjectID = "xdT-dS-ZPE"; */
+"xdT-dS-ZPE.title" = "⌥ (opt)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Top Right Quarter"; ObjectID = "xgr-kl-BZf"; */
+"xgr-kl-BZf.ibShadowedToolTip" = "Oberer rechter Quadrant";
+
+/* Class = "NSTextFieldCell"; title = "HINT:"; ObjectID = "xpG-tR-gim"; */
+"xpG-tR-gim.title" = "Hinweis:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Bottom Left Quarter"; ObjectID = "XqW-NA-5nH"; */
+"XqW-NA-5nH.ibShadowedToolTip" = "Quadrant unten rechts";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "Y6U-uq-7af"; */
+"Y6U-uq-7af.title" = "Label";
+
+/* Class = "NSViewController"; title = "Window Snapping"; ObjectID = "y41-Kz-58d"; */
+"y41-Kz-58d.title" = "Fenster Snapping";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "zLU-vv-Wqw"; */
+"zLU-vv-Wqw.title" = "1 px";
+
+/* Class = "NSButtonCell"; title = "Restore old window size if window is dragged away again"; ObjectID = "zro-BU-pE5"; */
+"zro-BU-pE5.title" = "Alte Größe wiederherstellen wenn Fenster weggezogen wird";
+
+/* Class = "NSTabViewItem"; label = "Snap Areas"; ObjectID = "zT7-m5-veI"; */
+"zT7-m5-veI.label" = "Snap Areas";
+
+/* Class = "NSTextFieldCell"; title = "4.) hit enter"; ObjectID = "ZT7-SJ-uwS"; */
+"ZT7-SJ-uwS.title" = "4.) Eingabe drücken";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Bottom Right Quarter"; ObjectID = "ZWc-Et-9Ab"; */
+"ZWc-Et-9Ab.ibShadowedToolTip" = "Quadrant unten rechts";
+
+/* Class = "NSButtonCell"; title = "Left edge: resize to left half"; ObjectID = "zXa-xj-5Pp"; */
+"zXa-xj-5Pp.title" = "Linke Kante: Links einrasten";
+
+/* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "zYM-ql-zTV"; */
+"zYM-ql-zTV.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Reset all Snap Areas"; ObjectID = "zZH-NW-CMo"; */
+"zZH-NW-CMo.title" = "Alle Snap Areas löschen";
+

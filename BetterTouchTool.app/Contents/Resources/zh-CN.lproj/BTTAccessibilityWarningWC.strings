@@ -1,0 +1,87 @@
+/* Class = "NSTextFieldCell"; title = "Some Tips:\n"; ObjectID = "02I-SL-e86"; */
+"02I-SL-e86.title" = "一些提示：\n";
+
+/* Class = "NSButtonCell"; title = "Read more about the permissions in the BetterTouchTool documentation"; ObjectID = "2js-jm-f5Q"; */
+"2js-jm-f5Q.title" = "在 BetterTouchTool 文档中进一步了解权限";
+
+/* Class = "NSTabViewItem"; label = "GDPR"; ObjectID = "AjL-Qb-dkI"; */
+"AjL-Qb-dkI.label" = "GDPR";
+
+/* Class = "NSTabViewItem"; label = "Crashlogs"; ObjectID = "AO7-2z-1YY"; */
+"AO7-2z-1YY.label" = "崩溃日志";
+
+/* Class = "NSTextFieldCell"; title = "Accessibility API Permissions"; ObjectID = "arq-Nh-krX"; */
+"arq-Nh-krX.title" = "辅助功能 API 权限";
+
+/* Class = "NSButtonCell"; title = "Show Privacy Statement on Website"; ObjectID = "b6E-O3-WhP"; */
+"b6E-O3-WhP.title" = "在网站上显示隐私声明";
+
+/* Class = "NSTextFieldCell"; title = "Input Monitoring Permission for macOS Catalina"; ObjectID = "Bwm-6Q-z7M"; */
+"Bwm-6Q-z7M.title" = "Input Monitoring Permission for macOS Catalina";
+
+/* Class = "NSTextFieldCell"; title = "BetterTouchTool is now ready to use."; ObjectID = "E5F-Sb-EOe"; */
+"E5F-Sb-EOe.title" = "BetterTouchTool 现已可使用。";
+
+/* Class = "NSWindow"; title = "BetterTouchTool Permissions"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "BetterTouchTool 权限";
+
+/* Class = "NSTextFieldCell"; title = "Do you allow BetterTouchTool to collect anonymized usage & crash logs?\n\nThis really helps me to find out which features in BTT need to be improved/fixed.\n\nBetterTouchTool uses the Fabric Answers / Crashlytics services that belong to Google for this.\n\nYou can disable this at any time in the BetterTouchTool preferences.\n\nThe privacy statement for Fabric Answers & Crashlytics can be found here: https://fabric.io/terms"; ObjectID = "guL-R6-BAv"; */
+"guL-R6-BAv.title" = "您允许 BetterTouchTool 收集匿名使用数据和崩溃日志吗？\n\n这样做十分有助于我找出需要优化/修复的 BTT 功能。\n\nBetterTouchTool 采用 Google 的 Fabric Answers / Crashlytics 服务实现此目的。\n\n您可以随时在 BetterTouchTool 偏好设置中停用此功能。\n\nFabric Answers 和 Crashlytics 隐私声明参阅 https://fabric.io/terms";
+
+/* Class = "NSTextFieldCell"; title = "Anonymized Usage & Crashlog Collection"; ObjectID = "heY-7g-Apg"; */
+"heY-7g-Apg.title" = "匿名使用数据和崩溃日志收集";
+
+/* Class = "NSTextFieldCell"; title = "For the new EU data privacy laws (GDPR) I have documented all data collected by my apps in an easy to understand language (don't worry, I only collect the things that are really necessary). \n\nIn the new privacy statement I also describe why and how the data is used. You can read this in English and German on my website https://folivora.ai/privacy.\n\nBy continuing to use BetterTouchTool after May 25 2018, you confirm that you are aware of this privacy statement.\n     \n If you have any questions, please send me an e-mail: privacy@folivora.ai"; ObjectID = "iGg-rc-dLf"; */
+"iGg-rc-dLf.title" = "针对新的欧盟数据隐私法律（GDPR），我已经以易于理解的语言记载了我的应用收集的全部数据（别担心，我只会收集十分必需的信息）。 \n\n在新的隐私声明中，我也描述了使用数据的原因和方式。您可以在我的网站上阅读英语和德语版：https://folivora.ai/privacy\n\n在 2018 年 5 月 25 日以后继续使用 BetterTouchTool，即表示您确认自己对此隐私声明知情。\n\n 如有任何疑问，请发送邮件至 privacy@folivora.ai";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "kOK-jO-aqo"; */
+"kOK-jO-aqo.title" = "继续";
+
+/* Class = "NSButtonCell"; title = "Allow"; ObjectID = "lrV-ce-Ivc"; */
+"lrV-ce-Ivc.title" = "允许";
+
+/* Class = "NSButtonCell"; title = "Continue (macOS will ask for permissions)"; ObjectID = "mEe-hf-453"; */
+"mEe-hf-453.title" = "Continue (macOS will ask for permissions)";
+
+/* Class = "NSButtonCell"; title = "Start using BTT & open preferences"; ObjectID = "mXg-8A-dZl"; */
+"mXg-8A-dZl.title" = "开始使用 BTT 并打开偏好设置";
+
+/* Class = "NSButtonCell"; title = "Continue without permission (most features will not work)"; ObjectID = "NbG-3u-Lvx"; */
+"NbG-3u-Lvx.title" = "Continue without permission (most features will not work)";
+
+/* Class = "NSTextFieldCell"; title = "◉ You can always access the BetterTouchTool preferences by clicking the menubar icon\n\n◉ Window Snapping is enabled by default (dragging windows to the left/right/top of the screen to resize them). This can be disabled in the preferences.\n\n◉ BetterTouchTool doesn't come with any gestures or shortcuts configured by default. You should spend some time to figure out what works best for you. Looking at https://community.folivora.ai is also a good idea!"; ObjectID = "NiR-qd-XrO"; */
+"NiR-qd-XrO.title" = "◉ 您可以随时点按菜单栏图标来打开 BetterTouchTool 偏好设置\n\n◉ 窗口吸附默认启用（将窗口拖移至屏幕的左侧/右侧/顶部来调整查窗口大小）。可以在偏好设置中停用此功能。\n\n◉ BetterTouchTool 不自带任何默认配置的手势或快捷键。您应当花一些时间思考最适合您的使用方法。不妨到 https://community.folivora.ai 寻找灵感！";
+
+/* Class = "NSTextFieldCell"; title = "BetterTouchTool Data Privacy"; ObjectID = "nWU-N5-du6"; */
+"nWU-N5-du6.title" = "BetterTouchTool 数据隐私";
+
+/* Class = "NSTextFieldCell"; title = "Screen Recording Permission for macOS Catalina"; ObjectID = "Otm-hB-aLf"; */
+"Otm-hB-aLf.title" = "Screen Recording Permission for macOS Catalina";
+
+/* Class = "NSTabViewItem"; label = "AccessibilityTab"; ObjectID = "Qdu-Bw-qAH"; */
+"Qdu-Bw-qAH.label" = "AccessibilityTab";
+
+/* Class = "NSButtonCell"; title = "Quit BetterTouchTool"; ObjectID = "rBj-xg-g7n"; */
+"rBj-xg-g7n.title" = "退出 BetterTouchTool";
+
+/* Class = "NSTextFieldCell"; title = "The main purpose of BetterTouchTool is to monitor Trackpad, Mouse, Touch Bar and other input and perform customizable actions.\n\nmacOS Catalina has introduced a new permission which is necessary to do this. In the next step macOS will ask you to grant this permission.\n\nBetterTouchTool does not monitor the input into macOS password fields, also BTT will never save or send any monitored information anywhere. It is only used to perform the actions you configure on your system.\n"; ObjectID = "S7I-hr-fJu"; */
+"S7I-hr-fJu.title" = "The main purpose of BetterTouchTool is to monitor Trackpad, Mouse, Touch Bar and other input and perform customizable actions.\n\nmacOS Catalina has introduced a new permission which is necessary to do this. In the next step macOS will ask you to grant this permission.\n\nBetterTouchTool does not monitor the input into macOS password fields, also BTT will never save or send any monitored information anywhere. It is only used to perform the actions you configure on your system.\n";
+
+/* Class = "NSTabViewItem"; label = "Intro"; ObjectID = "SY2-br-cvo"; */
+"SY2-br-cvo.label" = "简介";
+
+/* Class = "NSButtonCell"; title = "Continue (macOS will ask for permissions)"; ObjectID = "UCJ-uw-5cy"; */
+"UCJ-uw-5cy.title" = "Continue (macOS will ask for permissions)";
+
+/* Class = "NSTabViewItem"; label = "Inputmonitoring"; ObjectID = "xJH-dx-Due"; */
+"xJH-dx-Due.label" = "Inputmonitoring";
+
+/* Class = "NSTabViewItem"; label = "Screenrecording"; ObjectID = "Xjp-jU-34e"; */
+"Xjp-jU-34e.label" = "Screenrecording";
+
+/* Class = "NSTextFieldCell"; title = "Note: you may have to click the little 🔒 lock icon on the bottom left before being able to grant permissions."; ObjectID = "Y6Z-5f-Eap"; */
+"Y6Z-5f-Eap.title" = "注意：您可能需要点按左下角的小 🔒 锁形图标后才能授予权限。";
+
+/* Class = "NSButtonCell"; title = "Do not allow"; ObjectID = "ygC-8T-aB9"; */
+"ygC-8T-aB9.title" = "不允许";
+

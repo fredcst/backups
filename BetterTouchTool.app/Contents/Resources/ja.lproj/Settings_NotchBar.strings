@@ -1,0 +1,117 @@
+
+/* Class = "NSButtonCell"; title = "Hide Right Scrollable  Button / Widget Container"; ObjectID = "0em-6Q-SGy"; */
+"0em-6Q-SGy.title" = "Hide Right Scrollable  Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Hide Right Scrollable  Button / Widget Container"; ObjectID = "3Oe-Vl-3Bj"; */
+"3Oe-Vl-3Bj.title" = "Hide Right Scrollable  Button / Widget Container";
+
+/* Class = "NSTextFieldCell"; title = "If disabled, you can use the Status Item widget in BTT to access some or all of your status items"; ObjectID = "3jJ-hi-p5T"; */
+"3jJ-hi-p5T.title" = "If disabled, you can use the Status Item widget in BTT to access some or all of your status items";
+
+/* Class = "NSTextFieldCell"; title = "If disabled, you can use the Status Item widget in BTT to access some or all of your status items"; ObjectID = "4Vh-pz-C6r"; */
+"4Vh-pz-C6r.title" = "If disabled, you can use the Status Item widget in BTT to access some or all of your status items";
+
+/* Class = "NSButtonCell"; title = "Hide Left Scrollable Button / Widget Container"; ObjectID = "77u-Gw-ipd"; */
+"77u-Gw-ipd.title" = "Hide Left Scrollable Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Show original system status icons in menubar"; ObjectID = "7Oy-xh-ly9"; */
+"7Oy-xh-ly9.title" = "Show original system status icons in menubar";
+
+/* Class = "NSButtonCell"; title = "Show mini menubar on the bottom left"; ObjectID = "8B1-7J-ku8"; */
+"8B1-7J-ku8.title" = "Show mini menubar on the bottom left";
+
+/* Class = "NSTextFieldCell"; title = "Notch Bar Widget Mode:"; ObjectID = "8CY-oV-sFg"; */
+"8CY-oV-sFg.title" = "Notch Bar Widget Mode:";
+
+/* Class = "NSButtonCell"; title = "Hide Rigth Fixed  Button / Widget Container"; ObjectID = "AGb-VS-Pj5"; */
+"AGb-VS-Pj5.title" = "Hide Rigth Fixed  Button / Widget Container";
+
+/* Class = "NSTextFieldCell"; title = "Switch between widget and menubar mode by scrolling up / down on the Notch Bar or by using the predefined action \"Toggle Notch Bar Mode\""; ObjectID = "AnG-36-Ha7"; */
+"AnG-36-Ha7.title" = "Switch between widget and menubar mode by scrolling up / down on the Notch Bar or by using the predefined action \"Toggle Notch Bar Mode\"";
+
+/* Class = "NSButtonCell"; title = "Open Template Location in Finder"; ObjectID = "B87-4q-4dV"; */
+"B87-4q-4dV.title" = "Open Template Location in Finder";
+
+/* Class = "NSTextFieldCell"; title = "Edit Layout Files (HTML, CSS & JS)"; ObjectID = "Drv-Hq-lH0"; */
+"Drv-Hq-lH0.title" = "Edit Layout Files (HTML, CSS & JS)";
+
+/* Class = "NSButtonCell"; title = "Enable Notch Bar Support"; ObjectID = "ERT-mr-qND"; */
+"ERT-mr-qND.title" = "Enable Notch Bar Support";
+
+/* Class = "NSButtonCell"; title = "Hide Rigth Fixed  Button / Widget Container"; ObjectID = "Ecv-lU-QRF"; */
+"Ecv-lU-QRF.title" = "Hide Rigth Fixed  Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Hide Mini Status Bar Container"; ObjectID = "FbX-8j-2LS"; */
+"FbX-8j-2LS.title" = "Hide Mini Status Bar Container";
+
+/* Class = "NSTextFieldCell"; title = "The Notch Bar is rendered completely using HTML, CSS and JS. Because of this you can easily modify the base templates."; ObjectID = "K8a-Vc-VLq"; */
+"K8a-Vc-VLq.title" = "The Notch Bar is rendered completely using HTML, CSS and JS. Because of this you can easily modify the base templates.";
+
+/* Class = "NSButtonCell"; title = "Show original system status icons in menubar"; ObjectID = "Lcw-MM-lgs"; */
+"Lcw-MM-lgs.title" = "Show original system status icons in menubar";
+
+/* Class = "NSTextFieldCell"; title = "If disabled, you can use the Status Item widget in BTT to access some or all of your status items"; ObjectID = "Q2j-Io-Kex"; */
+"Q2j-Io-Kex.title" = "If disabled, you can use the Status Item widget in BTT to access some or all of your status items";
+
+/* Class = "NSButtonCell"; title = "Hide Left Fixed Button / Widget Container"; ObjectID = "R6S-j9-8gp"; */
+"R6S-j9-8gp.title" = "Hide Left Fixed Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Hide Left Scrollable Button / Widget Container"; ObjectID = "Rb3-J9-Xol"; */
+"Rb3-J9-Xol.title" = "Hide Left Scrollable Button / Widget Container";
+
+/* Class = "NSTextFieldCell"; title = "Notch Bar Menu Bar Mode"; ObjectID = "S0l-da-fkN"; */
+"S0l-da-fkN.title" = "Notch Bar Menu Bar Mode";
+
+/* Class = "NSButtonCell"; title = "Hide Left Fixed Button / Widget Container"; ObjectID = "X0e-BC-7tp"; */
+"X0e-BC-7tp.title" = "Hide Left Fixed Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Hide Left Scrollable Button / Widget Container"; ObjectID = "YXa-SR-vMb"; */
+"YXa-SR-vMb.title" = "Hide Left Scrollable Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Hide Right Scrollable  Button / Widget Container"; ObjectID = "YdR-jh-Fwu"; */
+"YdR-jh-Fwu.title" = "Hide Right Scrollable  Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Hide Right Scrollable  Button / Widget Container"; ObjectID = "eiN-qV-gem"; */
+"eiN-qV-gem.title" = "Hide Right Scrollable  Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Hide Rigth Fixed  Button / Widget Container"; ObjectID = "f1K-lJ-aG3"; */
+"f1K-lJ-aG3.title" = "Hide Rigth Fixed  Button / Widget Container";
+
+/* Class = "NSTabViewItem"; label = "Standard Screens without Notch"; ObjectID = "fWc-I7-sOB"; */
+"fWc-I7-sOB.label" = "Standard Screens without Notch";
+
+/* Class = "NSTextFieldCell"; title = "If disabled, you can use the Status Item widget in BTT to access some or all of your status items"; ObjectID = "fdh-0O-xmn"; */
+"fdh-0O-xmn.title" = "If disabled, you can use the Status Item widget in BTT to access some or all of your status items";
+
+/* Class = "NSTextFieldCell"; title = "Notch Bar Widget Mode:"; ObjectID = "iwh-be-pfg"; */
+"iwh-be-pfg.title" = "Notch Bar Widget Mode:";
+
+/* Class = "NSButtonCell"; title = "Hide Rigth Fixed  Button / Widget Container"; ObjectID = "j5f-ax-8Je"; */
+"j5f-ax-8Je.title" = "Hide Rigth Fixed  Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Hide Left Fixed Button / Widget Container"; ObjectID = "k7i-ib-uNR"; */
+"k7i-ib-uNR.title" = "Hide Left Fixed Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Show on Standard Screens"; ObjectID = "kOP-BZ-O1C"; */
+"kOP-BZ-O1C.title" = "Show on Standard Screens";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "leR-6w-tSZ"; */
+"leR-6w-tSZ.label" = "Advanced";
+
+/* Class = "NSButtonCell"; title = "Show original system status icons in menubar"; ObjectID = "peX-e9-tQO"; */
+"peX-e9-tQO.title" = "Show original system status icons in menubar";
+
+/* Class = "NSTabViewItem"; label = "Notch Bar Screen"; ObjectID = "qsn-67-Dnc"; */
+"qsn-67-Dnc.label" = "Notch Bar Screen";
+
+/* Class = "NSTextFieldCell"; title = "Notch Bar Menu Bar Mode"; ObjectID = "sB3-DC-YAY"; */
+"sB3-DC-YAY.title" = "Notch Bar Menu Bar Mode";
+
+/* Class = "NSButtonCell"; title = "Hide Left Fixed Button / Widget Container"; ObjectID = "tgm-xw-xLU"; */
+"tgm-xw-xLU.title" = "Hide Left Fixed Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Hide Left Scrollable Button / Widget Container"; ObjectID = "wdz-tn-Rzu"; */
+"wdz-tn-Rzu.title" = "Hide Left Scrollable Button / Widget Container";
+
+/* Class = "NSButtonCell"; title = "Show original system status icons in menubar"; ObjectID = "xZ3-Zq-RcB"; */
+"xZ3-Zq-RcB.title" = "Show original system status icons in menubar";

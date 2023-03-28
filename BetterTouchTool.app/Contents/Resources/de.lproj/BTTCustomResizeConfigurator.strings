@@ -1,0 +1,243 @@
+/* Class = "NSButtonCell"; title = "Change x origin to"; ObjectID = "0aY-5S-KLm"; */
+"0aY-5S-KLm.title" = "X Ursprung verschieben zu";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1L6-Zl-8cC"; */
+"1L6-Zl-8cC.title" = "Abbrechen";
+
+/* Class = "NSMenuItem"; title = "left"; ObjectID = "5Mk-OP-AhN"; */
+"5Mk-OP-AhN.title" = "links";
+
+/* Class = "NSMenuItem"; title = "Center of the screen"; ObjectID = "6GQ-YM-lM5"; */
+"6GQ-YM-lM5.title" = "Mitte des Bildschirms";
+
+/* Class = "NSMenuItem"; title = "from mouse cursor display"; ObjectID = "33e-pN-klr"; */
+"33e-pN-klr.title" = "vom Monitor mit dem Mauszeiger";
+
+/* Class = "NSMenuItem"; title = "Bottom left corner of the screen"; ObjectID = "55h-vS-gDV"; */
+"55h-vS-gDV.title" = "Untere linke Ecke des Monitors";
+
+/* Class = "NSTabViewItem"; label = "Fill"; ObjectID = "66n-3s-h4c"; */
+"66n-3s-h4c.label" = "Füllen";
+
+/* Class = "NSTabViewItem"; label = "Absolute"; ObjectID = "89c-Pf-2MX"; */
+"89c-Pf-2MX.label" = "Absolut";
+
+/* Class = "NSMenuItem"; title = "4 Screens"; ObjectID = "AAH-qe-gOP"; */
+"AAH-qe-gOP.title" = "4 Bildschirme";
+
+/* Class = "NSMenuItem"; title = "To screen with specific frame"; ObjectID = "adc-eT-3iL"; */
+"adc-eT-3iL.title" = "Auf Monitor mit folgenden Abmessungen";
+
+/* Class = "NSMenuItem"; title = "Top right corner of the screen"; ObjectID = "aeE-mf-41m"; */
+"aeE-mf-41m.title" = "Obere rechte Ecke des Bildschirms";
+
+/* Class = "NSMenuItem"; title = "Top left corner of the screen"; ObjectID = "BCV-Ld-JcK"; */
+"BCV-Ld-JcK.title" = "Obere linke Ecke des Bildschirms";
+
+/* Class = "NSTextFieldCell"; title = "set the position based on the"; ObjectID = "bR5-79-0N2"; */
+"bR5-79-0N2.title" = "Setze die Position basierend auf der";
+
+/* Class = "NSTextFieldCell"; title = "(negative if you want to go down from the origin)"; ObjectID = "BRk-tF-aWs"; */
+"BRk-tF-aWs.title" = "(Negativ wenn vom Ursprung aus nach unten verschoben werden soll)";
+
+/* Class = "NSMenuItem"; title = "Top left corner of the window"; ObjectID = "BwG-B4-91l"; */
+"BwG-B4-91l.title" = "Obere linke Ecke des Fensters";
+
+/* Class = "NSMenuItem"; title = "Window itself"; ObjectID = "cAR-SE-8su"; */
+"cAR-SE-8su.title" = "Fenster selbst";
+
+/* Class = "NSMenuItem"; title = "0 Screens"; ObjectID = "Cjm-Kx-ZQZ"; */
+"Cjm-Kx-ZQZ.title" = "0 Bildschirme";
+
+/* Class = "NSTabViewItem"; label = "Absolute"; ObjectID = "CZB-hT-i3H"; */
+"CZB-hT-i3H.label" = "Absolut";
+
+/* Class = "NSMenuItem"; title = "3 Screens"; ObjectID = "daA-mk-bZH"; */
+"daA-mk-bZH.title" = "3 Bildschirme";
+
+/* Class = "NSMenuItem"; title = "Active Window"; ObjectID = "dP8-wn-E64"; */
+"dP8-wn-E64.title" = "Aktives Fenster";
+
+/* Class = "NSButtonCell"; title = "Change window width"; ObjectID = "dWP-sX-eGd"; */
+"dWP-sX-eGd.title" = "Fensterbreite ändern";
+
+/* Class = "NSTextFieldCell"; title = "Use this monitor when setting the new position for a window:"; ObjectID = "e77-23-uNH"; */
+"e77-23-uNH.title" = "Diesen Bildschirm benutzen wenn neue Position gesetzt wird:";
+
+/* Class = "NSTabViewItem"; label = "Relative to screen"; ObjectID = "efV-o3-6qX"; */
+"efV-o3-6qX.label" = "Relativ zum Bildschirm";
+
+/* Class = "NSButtonCell"; title = "Fill remaining space to right"; ObjectID = "EiE-c5-RrT"; */
+"EiE-c5-RrT.title" = "Übrigen Platz nach rechts auffüllen";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Fenster";
+
+/* Class = "NSTextFieldCell"; title = "New X:"; ObjectID = "f9e-0g-g5c"; */
+"f9e-0g-g5c.title" = "Neues X:";
+
+/* Class = "NSMenuItem"; title = "Bottom right corner of the screen"; ObjectID = "fej-gR-eRr"; */
+"fej-gR-eRr.title" = "Untere rechte Ecke des Bildschirms";
+
+/* Class = "NSTabViewItem"; label = "Relative to Window"; ObjectID = "ffw-Qe-ujS"; */
+"ffw-Qe-ujS.label" = "Relativ zum Fenster";
+
+/* Class = "NSButtonCell"; title = "Change window height"; ObjectID = "ftR-Vw-Rng"; */
+"ftR-Vw-Rng.title" = "Fensterhöhe ändern";
+
+/* Class = "NSMenuItem"; title = "from window display"; ObjectID = "FZv-pG-ecU"; */
+"FZv-pG-ecU.title" = "vom Bildschirm mit dem Fenster";
+
+/* Class = "NSTabViewItem"; label = "Absolute"; ObjectID = "gbW-Gk-oVg"; */
+"gbW-Gk-oVg.label" = "Absolut";
+
+/* Class = "NSButtonCell"; title = "Take dock and menubar into account for calculations"; ObjectID = "GPb-FF-5lc"; */
+"GPb-FF-5lc.title" = "Dock und Menüleiste bei Berechnung berücksichtigen";
+
+/* Class = "NSTextFieldCell"; title = "New X:"; ObjectID = "gWp-Wl-mEf"; */
+"gWp-Wl-mEf.title" = "Neues X:";
+
+/* Class = "NSTextFieldCell"; title = "% "; ObjectID = "Heh-e0-TJV"; */
+"Heh-e0-TJV.title" = "% ";
+
+/* Class = "NSMenuItem"; title = "2 Screens"; ObjectID = "hM3-Uy-2HX"; */
+"hM3-Uy-2HX.title" = "2 Bildschirme";
+
+/* Class = "NSMenuItem"; title = "up"; ObjectID = "i8X-uj-KZ4"; */
+"i8X-uj-KZ4.title" = "hoch";
+
+/* Class = "NSTextFieldCell"; title = "New height:"; ObjectID = "IAG-Fy-7rD"; */
+"IAG-Fy-7rD.title" = "Neue Höhe:";
+
+/* Class = "NSButtonCell"; title = "Change y origin to"; ObjectID = "IcH-yU-wLG"; */
+"IcH-yU-wLG.title" = "Y Ursprung verschieben zu";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "iFA-oh-dh5"; */
+"iFA-oh-dh5.title" = "px";
+
+/* Class = "NSMenuItem"; title = "Top right corner of the window"; ObjectID = "jKF-nO-tW1"; */
+"jKF-nO-tW1.title" = "Obere rechte Ecke des Fensters";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "jPy-Vg-L38"; */
+"jPy-Vg-L38.title" = "px";
+
+/* Class = "NSButtonCell"; title = "Fill remaining space to bottom"; ObjectID = "jxi-z0-km7"; */
+"jxi-z0-km7.title" = "Freien Platz nach unten auffüllen";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "KbI-kK-s7H"; */
+"KbI-kK-s7H.title" = "Speichern";
+
+/* Class = "NSMenuItem"; title = "Window With Title"; ObjectID = "Kge-KU-Ruf"; */
+"Kge-KU-Ruf.title" = "Fenster mit Titel";
+
+/* Class = "NSTextFieldCell"; title = "Custom name for this moving/resizing action:"; ObjectID = "lFZ-Ag-mjj"; */
+"lFZ-Ag-mjj.title" = "Name für die Verschiebe/Größenänderung";
+
+/* Class = "NSMenuItem"; title = "Mouse Cursor Position"; ObjectID = "Lj1-Mk-ULB"; */
+"Lj1-Mk-ULB.title" = "Position des Mauszeigers";
+
+/* Class = "NSTabViewItem"; label = "Absolute"; ObjectID = "lJj-wd-VH0"; */
+"lJj-wd-VH0.label" = "Absolut";
+
+/* Class = "NSMenuItem"; title = "Bottom left corner of the window"; ObjectID = "LK9-vL-h5O"; */
+"LK9-vL-h5O.title" = "Untere linke Ecke des Fensters";
+
+/* Class = "NSTabViewItem"; label = "Relative to Window"; ObjectID = "lsu-ry-Jgs"; */
+"lsu-ry-Jgs.label" = "Relativ zum Fenster";
+
+/* Class = "NSMenuItem"; title = "Window Under Cursor"; ObjectID = "lV1-TR-Klf"; */
+"lV1-TR-Klf.title" = "Fenster unter Mauszeiger";
+
+/* Class = "NSTextFieldCell"; title = "(negative if you want to go left from the origin)"; ObjectID = "LZ2-xS-3pd"; */
+"LZ2-xS-3pd.title" = "(negativ wenn nach links verschoben werden soll)";
+
+/* Class = "NSTextFieldCell"; title = "Re-position the"; ObjectID = "mhK-Ef-s3I"; */
+"mhK-Ef-s3I.title" = "Neupositionierung von";
+
+/* Class = "NSTabViewItem"; label = "Relative to screen"; ObjectID = "Mwr-8a-5nV"; */
+"Mwr-8a-5nV.label" = "Relativ zum Bildschirm";
+
+/* Class = "NSMenuItem"; title = "Bottom right corner of the window"; ObjectID = "n4J-ms-Xhz"; */
+"n4J-ms-Xhz.title" = "Untere rechte Ecke des Fenters";
+
+/* Class = "NSTextFieldCell"; title = "Add to current width:"; ObjectID = "nco-Oh-Eb7"; */
+"nco-Oh-Eb7.title" = "Zur aktuellen Breite addieren";
+
+/* Class = "NSTextFieldCell"; title = "% "; ObjectID = "NeB-At-aPE"; */
+"NeB-At-aPE.title" = "% ";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "NZI-SG-r1Y"; */
+"NZI-SG-r1Y.title" = "px";
+
+/* Class = "NSMenuItem"; title = "To screen with mouse cursor"; ObjectID = "oG2-kf-maT"; */
+"oG2-kf-maT.title" = "Auf Bildschirm mit Mauszeiger";
+
+/* Class = "NSTextFieldCell"; title = "New Y:"; ObjectID = "P8R-UD-fjn"; */
+"P8R-UD-fjn.title" = "Neues Y:";
+
+/* Class = "NSMenuItem"; title = "Center of the window"; ObjectID = "QoH-Io-u7M"; */
+"QoH-Io-u7M.title" = "Mitte des Fensters";
+
+/* Class = "NSMenuItem"; title = "1 Screen"; ObjectID = "QOZ-z2-j4N"; */
+"QOZ-z2-j4N.title" = "1 Bildschirm";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Any name/description"; ObjectID = "S7U-dc-6Yg"; */
+"S7U-dc-6Yg.placeholderString" = "Irgendein Name / Beschreibung";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "sey-lt-jXT"; */
+"sey-lt-jXT.title" = "px";
+
+/* Class = "NSTextFieldCell"; title = "% "; ObjectID = "sOj-E3-GsV"; */
+"sOj-E3-GsV.title" = "% ";
+
+/* Class = "NSTextFieldCell"; title = "Move / Resize"; ObjectID = "ST0-5c-yRx"; */
+"ST0-5c-yRx.title" = "Verschieben / Größe ändern";
+
+/* Class = "NSTextFieldCell"; title = "New width:"; ObjectID = "t0x-gy-yx4"; */
+"t0x-gy-yx4.title" = "Neue Breite:";
+
+/* Class = "NSMenuItem"; title = "from main display"; ObjectID = "Tsa-bU-lkI"; */
+"Tsa-bU-lkI.title" = "vom Hauptmonitor";
+
+/* Class = "NSMenuItem"; title = "right"; ObjectID = "TV5-KI-qi0"; */
+"TV5-KI-qi0.title" = "rechts";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Window title (can contain placeholders/regex)"; ObjectID = "TWu-6n-PNc"; */
+"TWu-6n-PNc.placeholderString" = "Fenster Titel (kann Platzhalter/Regex enthalten)";
+
+/* Class = "NSTextFieldCell"; title = "New Y:"; ObjectID = "Vbw-34-9jw"; */
+"Vbw-34-9jw.title" = "Neues Y:";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "Vt4-mG-PbF"; */
+"Vt4-mG-PbF.title" = "px";
+
+/* Class = "NSTextFieldCell"; title = "% "; ObjectID = "wZw-KH-kog"; */
+"wZw-KH-kog.title" = "% ";
+
+/* Class = "NSTextFieldCell"; title = "New height:"; ObjectID = "Xbv-w8-vcL"; */
+"Xbv-w8-vcL.title" = "Neue Höhe:";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "xYe-Hb-P5p"; */
+"xYe-Hb-P5p.title" = "px";
+
+/* Class = "NSTabViewItem"; label = "Relative to screen height"; ObjectID = "Yg3-aQ-bQB"; */
+"Yg3-aQ-bQB.label" = "Relativ zur Bildschirmhöhe";
+
+/* Class = "NSMenuItem"; title = "down"; ObjectID = "yHP-fI-SMf"; */
+"yHP-fI-SMf.title" = "runter";
+
+/* Class = "NSTextFieldCell"; title = "Move mouse to monitor, press space to capture"; ObjectID = "Yqb-n3-Nko"; */
+"Yqb-n3-Nko.title" = "Maus auf den Monitor bewegen, dann Leertaste drücken";
+
+/* Class = "NSTextFieldCell"; title = "New width:"; ObjectID = "Yqp-RY-uUW"; */
+"Yqp-RY-uUW.title" = "Neue Breite:";
+
+/* Class = "NSTextFieldCell"; title = "Add to current height:"; ObjectID = "ZD3-Qt-CGT"; */
+"ZD3-Qt-CGT.title" = "Zur aktuellen Höhe addieren:";
+
+/* Class = "NSTabViewItem"; label = "Fill"; ObjectID = "zgb-N4-trb"; */
+"zgb-N4-trb.label" = "Füllen";
+
+/* Class = "NSTabViewItem"; label = "Relative to screen width"; ObjectID = "ZR6-9J-Tlh"; */
+"ZR6-9J-Tlh.label" = "Relativ zur Bildschirmbreite";
+

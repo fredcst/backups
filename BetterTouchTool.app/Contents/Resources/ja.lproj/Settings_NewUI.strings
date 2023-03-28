@@ -1,0 +1,69 @@
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "2ag-X6-62r"; */
+"2ag-X6-62r.placeholderString" = "0";
+
+/* Class = "NSButtonCell"; title = "Show Menu Bar Icon"; ObjectID = "BDF-Ls-Vla"; */
+"BDF-Ls-Vla.title" = "メニューバーのアイコンを表示";
+
+/* Class = "NSTextFieldCell"; title = "Font Sizes in the Main User Interface:"; ObjectID = "bF6-1t-R03"; */
+"bF6-1t-R03.title" = "メインユーザーインターフェースのフォントサイズ:";
+
+/* Class = "NSTextFieldCell"; title = "Region Settings"; ObjectID = "dGk-at-7wa"; */
+"dGk-at-7wa.title" = "地域設定";
+
+/* Class = "NSMenuItem"; title = "German"; ObjectID = "EPk-nR-CzQ"; */
+"EPk-nR-CzQ.title" = "ドイツ語";
+
+/* Class = "NSButtonCell"; title = "Use new BetterTouchTool UI as default"; ObjectID = "ezH-uf-Imh"; */
+"ezH-uf-Imh.title" = "デフォルトとして新しいBTTユーザーインターフェースを使用する";
+
+/* Class = "NSMenuItem"; title = "Chinese"; ObjectID = "FT9-WM-U2T"; */
+"FT9-WM-U2T.title" = "中国語";
+
+/* Class = "NSMenuItem"; title = "System Language (if available)"; ObjectID = "Gi6-xk-Za7"; */
+"Gi6-xk-Za7.title" = "システム言語（利用可能な場合）";
+
+/* Class = "NSButtonCell"; title = "Only show recently used colors in side-bar color picker dropdown"; ObjectID = "GSP-fM-eAg"; */
+"GSP-fM-eAg.title" = "カラーピッカーに最近使用した色だけを表示する\n";
+
+/* Class = "NSButtonCell"; title = "Show Dock Icon while running (may require restart)"; ObjectID = "HgD-SI-y0k"; */
+"HgD-SI-y0k.title" = "実行中にDockアイコンを表示（再起動が必要な場合があります）";
+
+/* Class = "NSMenuItem"; title = "Use Default Dark Translucent Side-Bar"; ObjectID = "iJ5-Xz-Owp"; */
+"iJ5-Xz-Owp.title" = "サイドバーにデフォルトの暗い半透明の背景を使う";
+
+/* Class = "NSTextFieldCell"; title = "(If you hide the icon you can access the preferences by starting BTT again)"; ObjectID = "n6O-KM-OAc"; */
+"n6O-KM-OAc.title" = "（アイコンを非表示にした場合は、BTTをもう一度起動して環境設定にアクセスできます）";
+
+/* Class = "NSTextFieldCell"; title = "Various things:"; ObjectID = "Ncl-Aa-sht"; */
+"Ncl-Aa-sht.title" = "色々なこと：";
+
+/* Class = "NSButtonCell"; title = "Restart BTT to Apply Changes"; ObjectID = "ncQ-Yh-7WH"; */
+"ncQ-Yh-7WH.title" = "BTTを再起動して変更を適用します";
+
+/* Class = "NSTextFieldCell"; title = "Language:"; ObjectID = "nnt-Y4-XMi"; */
+"nnt-Y4-XMi.title" = "言語：";
+
+/* Class = "NSTextFieldCell"; title = "pt"; ObjectID = "Oqz-zg-pD3"; */
+"Oqz-zg-pD3.title" = "pt";
+
+/* Class = "NSTextFieldCell"; title = "App Side-Bar:"; ObjectID = "Qmh-a2-QUD"; */
+"Qmh-a2-QUD.title" = "アプリサイドバー";
+
+/* Class = "NSMenuItem"; title = "English"; ObjectID = "QY0-0I-Gqg"; */
+"QY0-0I-Gqg.title" = "英語";
+
+/* Class = "NSMenuItem"; title = "Use Custom Color Side-Bar (Transluceny Depending on Color)"; ObjectID = "Rxb-kV-YDx"; */
+"Rxb-kV-YDx.title" = "サイドバーにカスタムの背景色を使用する";
+
+/* Class = "NSMenuItem"; title = "Japanese"; ObjectID = "sRT-Ru-NeD"; */
+"sRT-Ru-NeD.title" = "日本語";
+
+/* Class = "NSButtonCell"; title = "Restart BTT to Apply Changes"; ObjectID = "ykD-Tk-Gel"; */
+"ykD-Tk-Gel.title" = "BTTを再起動して変更を適用します";
+
+/* Class = "NSTextFieldCell"; title = "Increase / Decrease Base Font Size by:"; ObjectID = "yS5-lN-m1A"; */
+"yS5-lN-m1A.title" = "ベースフォントサイズの増減";
+
+/* Class = "NSTextFieldCell"; title = "Language & Region"; ObjectID = "ZgF-97-rcQ"; */
+"ZgF-97-rcQ.title" = "言語＆地域";
+

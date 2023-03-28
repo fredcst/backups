@@ -1,0 +1,66 @@
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "18o-ce-VSN"; */
+"18o-ce-VSN.title" = "保存";
+
+/* Class = "NSMenuItem"; title = "application bundle identifier"; ObjectID = "eF4-DG-YW1"; */
+"eF4-DG-YW1.title" = "application bundle identifier";
+
+/* Class = "NSMenuItem"; title = "is like"; ObjectID = "EfZ-Sf-Pqe"; */
+"EfZ-Sf-Pqe.title" = "is like";
+
+/* Class = "NSWindow"; title = "Conditional Activation Group Editor"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "条件付きアクティベーショングループを編集する";
+
+/* Class = "NSTextFieldCell"; title = "Hold option key to create nested rules. If you need to trigger an action when this group becomes active, use the \"Other\" tab in BTT."; ObjectID = "foz-AZ-wQZ"; */
+"foz-AZ-wQZ.title" = "ネストしたルールを作成するには、optionキーを押します。 このグループがアクティブになったときにアクションを起動する必要がある場合は、BTTの[その他]タブを使用してください。";
+
+/* Class = "NSTextFieldCell"; title = "(Copy & paste or drag here)"; ObjectID = "FUC-gw-y00"; */
+"FUC-gw-y00.title" = "（コピー＆ペーストまたはここにドラッグ）";
+
+/* Class = "NSTextFieldCell"; title = "Activation Group Name:"; ObjectID = "G1s-ca-mpL"; */
+"G1s-ca-mpL.title" = "条件付きアクティベーショングループ名：";
+
+/* Class = "NSTextFieldCell"; title = "Icon:"; ObjectID = "gb5-Bk-If2"; */
+"gb5-Bk-If2.title" = "アイコン：";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "hmx-nE-9Su"; */
+"hmx-nE-9Su.title" = "すべて";
+
+/* Class = "NSMenuItem"; title = "contains"; ObjectID = "huL-f7-d5W"; */
+"huL-f7-d5W.title" = "contains";
+
+/* Class = "NSMenuItem"; title = "matches"; ObjectID = "J9p-eQ-RCe"; */
+"J9p-eQ-RCe.title" = "matches";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "ks2-oj-Ws1"; */
+"ks2-oj-Ws1.title" = "キャンセル";
+
+/* Class = "NSMenuItem"; title = "begins with"; ObjectID = "nP8-1G-uGu"; */
+"nP8-1G-uGu.title" = "begins with";
+
+/* Class = "NSMenuItem"; title = "is not"; ObjectID = "O0t-l6-y9f"; */
+"O0t-l6-y9f.title" = "is not";
+
+/* Class = "NSMenuItem"; title = "ends with"; ObjectID = "q9M-Rj-hcD"; */
+"q9M-Rj-hcD.title" = "ends with";
+
+/* Class = "NSMenuItem"; title = "of the following are true"; ObjectID = "rAy-dD-eN9"; */
+"rAy-dD-eN9.title" = "of the following are true";
+
+/* Class = "NSTextFieldCell"; title = "Current Bundle Identifier:, Current App Name: , Current Process Name:  Current Window Title: xxx, Current Focused Element Role: Subrole:"; ObjectID = "si2-H9-xLS"; */
+"si2-H9-xLS.title" = "Current Bundle Identifier:, Current App Name: , Current Process Name:  Current Window Title: xxx, Current Focused Element Role: Subrole:";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "suF-Tx-QMz"; */
+"suF-Tx-QMz.title" = "Any";
+
+/* Class = "NSMenuItem"; title = "is"; ObjectID = "UvU-Wz-QDl"; */
+"UvU-Wz-QDl.title" = "is";
+
+/* Class = "NSMenuItem"; title = "processName"; ObjectID = "wAJ-GR-y0F"; */
+"wAJ-GR-y0F.title" = "processName";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "WMd-jl-lZp"; */
+"WMd-jl-lZp.title" = "None";
+
+/* Class = "NSMenuItem"; title = "in"; ObjectID = "yqj-UA-OEJ"; */
+"yqj-UA-OEJ.title" = "in";
+
