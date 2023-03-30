@@ -1,30 +1,0 @@
-
-/* Class = "NSButtonCell"; title = "Stream Deck Support Enabled"; ObjectID = "2ju-it-odi"; */
-"2ju-it-odi.title" = "Stream Deck Support Enabled";
-
-/* Class = "NSButtonCell"; title = "Show Stream Deck Documentation"; ObjectID = "Iux-eX-RPH"; */
-"Iux-eX-RPH.title" = "Show Stream Deck Documentation";
-
-/* Class = "NSTextFieldCell"; title = "In this mode you'll continue to use the official Stream Deck Software and use the provided BetterTouchTool plugin. This makes it a bit less performant but allows to use BTT toghether with other Stream Deck Plugins."; ObjectID = "Mvs-ke-e8m"; */
-"Mvs-ke-e8m.title" = "In this mode you'll continue to use the official Stream Deck Software and use the provided BetterTouchTool plugin. This makes it a bit less performant but allows to use BTT toghether with other Stream Deck Plugins.";
-
-/* Class = "NSButtonCell"; title = "Install / Reinstall Stream Deck Plugin"; ObjectID = "SDW-Sq-o7p"; */
-"SDW-Sq-o7p.title" = "Install / Reinstall Stream Deck Plugin";
-
-/* Class = "NSTextFieldCell"; title = "Using this mode, BTT will take full control over the Stream Deck. You don't need to run the official Stream Deck Software but you also won't be able to use official plugins anymore. Everything must be configured in BetterTouchTool.  ℹ️This mode is only possible due to the open source code from the great Hammerspoon app. For even more advanced automations (via Lua scripting) you should check it out at https://www.hammerspoon.org/"; ObjectID = "Tsb-hr-eJB"; */
-"Tsb-hr-eJB.title" = "Using this mode, BTT will take full control over the Stream Deck. You don't need to run the official Stream Deck Software but you also won't be able to use official plugins anymore. Everything must be configured in BetterTouchTool.  ℹ️This mode is only possible due to the open source code from the great Hammerspoon app. For even more advanced automations (via Lua scripting) you should check it out at https://www.hammerspoon.org/";
-
-/* Class = "NSButtonCell"; title = "Stream Deck Plugin"; ObjectID = "bIt-TE-TRk"; */
-"bIt-TE-TRk.title" = "Stream Deck Plugin";
-
-/* Class = "NSButtonCell"; title = "Go to Hammerspoon website"; ObjectID = "gpg-yR-lvc"; */
-"gpg-yR-lvc.title" = "Go to Hammerspoon website";
-
-/* Class = "NSTextFieldCell"; title = "Stream Deck Operating Mode:"; ObjectID = "n27-4F-roS"; */
-"n27-4F-roS.title" = "Stream Deck Operating Mode:";
-
-/* Class = "NSButtonCell"; title = "Show Hammerspoon open source  license"; ObjectID = "p2S-dC-IH7"; */
-"p2S-dC-IH7.title" = "Show Hammerspoon open source  license";
-
-/* Class = "NSButtonCell"; title = "Fully controlled by BetterTouchTool "; ObjectID = "sIP-F9-ilp"; */
-"sIP-F9-ilp.title" = "Fully controlled by BetterTouchTool ";
